@@ -1,0 +1,11 @@
+{
+  "exterior-roads-effects.tupack": {
+    "vertices": 149,
+    "triangles": 214,
+    "meshes": 8,
+    "nodes": 705,
+    "animations": [],
+    "source": "work\\v13-extra-export\\decepticon_exterior\\map.gltf",
+    "sha256": "b687cec7b52c738ef04be9def8ed0c63e3ea1735bc757aa38287d1c085d7456d"
+  }
+}

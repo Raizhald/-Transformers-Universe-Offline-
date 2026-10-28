@@ -1,0 +1,326 @@
+{
+  "sprites": [
+    {
+      "name": "Game_Loading_Screen_Decepticon",
+      "atlas": "CAB-0727356a76d33f50e1094fa5b0b293d0_-889612413",
+      "rect": [
+        0,
+        523,
+        1024,
+        501
+      ],
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    },
+    {
+      "name": "Game_Loading_Screen_Warrior_Firebreaker",
+      "atlas": "CAB-0727356a76d33f50e1094fa5b0b293d0_-889612413",
+      "rect": [
+        1025,
+        512,
+        823,
+        512
+      ],
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    },
+    {
+      "name": "Login_TextBox",
+      "atlas": "CAB-6777e7a59ff23d849bd93f9637e9f29d_-1727058651",
+      "rect": [
+        1025,
+        3670,
+        16,
+        45
+      ],
+      "left": 3,
+      "top": 3,
+      "right": 3,
+      "bottom": 3
+    },
+    {
+      "name": "Hangar_Button_Close",
+      "atlas": "CAB-53f3fda7cdea95f0b121813f05cf935d_-1278959499",
+      "rect": [
+        763,
+        318,
+        31,
+        32
+      ],
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    },
+    {
+      "name": "Hangar_Button_Yellow",
+      "atlas": "CAB-53f3fda7cdea95f0b121813f05cf935d_-1278959499",
+      "rect": [
+        427,
+        26,
+        120,
+        32
+      ],
+      "left": 46,
+      "top": 13,
+      "right": 46,
+      "bottom": 13
+    },
+    {
+      "name": "Hangar_Button_Yellow",
+      "atlas": "CAB-c74e4219789c63e44b4fa9eadb846641_-1278959499",
+      "rect": [
+        452,
+        222,
+        79,
+        48
+      ],
+      "left": 39,
+      "top": 0,
+      "right": 39,
+      "bottom": 0
+    },
+    {
+      "name": "HUD_Sinage_AnimatedPar2",
+      "atlas": "Original Decepticon_Interior signage atlas",
+      "rect": [
+        1634,
+        419,
+        7,
+        7
+      ],
+      "left": 2,
+      "top": 2,
+      "right": 2,
+      "bottom": 2
+    },
+    {
+      "name": "HUD_Sinage_AnimatedPart1",
+      "atlas": "Original Decepticon_Interior signage atlas",
+      "rect": [
+        1621,
+        414,
+        12,
+        12
+      ],
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    },
+    {
+      "name": "HUD_Sinage_Frame",
+      "atlas": "Original Decepticon_Interior signage atlas",
+      "rect": [
+        1620,
+        59,
+        68,
+        77
+      ],
+      "left": 24,
+      "top": 26,
+      "right": 38,
+      "bottom": 25
+    },
+    {
+      "name": "Patcher_Hangar_Button_Grey",
+      "atlas": "tuclient_Data/sharedassets2.assets : PatcherAtlas",
+      "rect": [
+        287,
+        56,
+        120,
+        32
+      ],
+      "left": 46,
+      "top": 13,
+      "right": 46,
+      "bottom": 13
+    },
+    {
+      "name": "Patcher_Hangar_Button_Highlight",
+      "atlas": "tuclient_Data/sharedassets2.assets : PatcherAtlas",
+      "rect": [
+        558,
+        174,
+        78,
+        48
+      ],
+      "left": 39,
+      "top": 0,
+      "right": 38,
+      "bottom": 0
+    },
+    {
+      "name": "Patcher_Hangar_Button_Innactive",
+      "atlas": "tuclient_Data/sharedassets2.assets : PatcherAtlas",
+      "rect": [
+        287,
+        23,
+        120,
+        32
+      ],
+      "left": 46,
+      "top": 13,
+      "right": 46,
+      "bottom": 13
+    },
+    {
+      "name": "Patcher_Hangar_Button_Lowlight",
+      "atlas": "tuclient_Data/sharedassets2.assets : PatcherAtlas",
+      "rect": [
+        408,
+        56,
+        120,
+        32
+      ],
+      "left": 46,
+      "top": 13,
+      "right": 46,
+      "bottom": 13
+    },
+    {
+      "name": "Patcher_Hangar_Button_Yellow",
+      "atlas": "tuclient_Data/sharedassets2.assets : PatcherAtlas",
+      "rect": [
+        408,
+        23,
+        120,
+        32
+      ],
+      "left": 46,
+      "top": 13,
+      "right": 46,
+      "bottom": 13
+    },
+    {
+      "name": "Patcher_HUD_SniperScope_BGFill",
+      "atlas": "tuclient_Data/sharedassets2.assets : PatcherAtlas",
+      "rect": [
+        615,
+        138,
+        35,
+        35
+      ],
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    },
+    {
+      "name": "Patcher_Patch",
+      "atlas": "tuclient_Data/sharedassets2.assets : PatcherAtlas",
+      "rect": [
+        0,
+        223,
+        668,
+        289
+      ],
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    },
+    {
+      "name": "Patcher_Patcher_Background",
+      "atlas": "tuclient_Data/sharedassets2.assets : PatcherAtlas",
+      "rect": [
+        0,
+        89,
+        557,
+        133
+      ],
+      "left": 289,
+      "top": 55,
+      "right": 257,
+      "bottom": 73
+    },
+    {
+      "name": "Patcher_Patcher_Cog",
+      "atlas": "tuclient_Data/sharedassets2.assets : PatcherAtlas",
+      "rect": [
+        0,
+        9,
+        21,
+        22
+      ],
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    },
+    {
+      "name": "Patcher_Patcher_Glow",
+      "atlas": "tuclient_Data/sharedassets2.assets : PatcherAtlas",
+      "rect": [
+        558,
+        94,
+        41,
+        40
+      ],
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    },
+    {
+      "name": "Patcher_Patcher_InfoBoxBG",
+      "atlas": "tuclient_Data/sharedassets2.assets : PatcherAtlas",
+      "rect": [
+        558,
+        135,
+        56,
+        38
+      ],
+      "left": 27,
+      "top": 16,
+      "right": 28,
+      "bottom": 20
+    },
+    {
+      "name": "Patcher_Patcher_Logo",
+      "atlas": "tuclient_Data/sharedassets2.assets : PatcherAtlas",
+      "rect": [
+        0,
+        32,
+        286,
+        56
+      ],
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    },
+    {
+      "name": "Patcher_Patcher_ProgressionBar",
+      "atlas": "tuclient_Data/sharedassets2.assets : PatcherAtlas",
+      "rect": [
+        542,
+        14,
+        10,
+        41
+      ],
+      "left": 3,
+      "top": 19,
+      "right": 3,
+      "bottom": 20
+    },
+    {
+      "name": "Patcher_Patcher_ProgressionBarBG",
+      "atlas": "tuclient_Data/sharedassets2.assets : PatcherAtlas",
+      "rect": [
+        529,
+        12,
+        12,
+        43
+      ],
+      "left": 4,
+      "top": 20,
+      "right": 5,
+      "bottom": 20
+    }
+  ]
+}

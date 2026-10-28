@@ -1,0 +1,3930 @@
+[
+  {
+    "mesh": 0,
+    "name": "StreetDispensoreCluster_01",
+    "vertices": 720,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -444591412,
+    "sourceColors": false
+  },
+  {
+    "mesh": 1,
+    "name": "Dumpsteropen_0140",
+    "vertices": 1372,
+    "asset": "CAB-84a7ea64689cc984f86a995be8f0b84f",
+    "id": 1654579282,
+    "sourceColors": false
+  },
+  {
+    "mesh": 2,
+    "name": "ApartmentsBrickNew_03",
+    "vertices": 3248,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -76272693,
+    "sourceColors": false
+  },
+  {
+    "mesh": 3,
+    "name": "ConcreteWallRail_01",
+    "vertices": 8,
+    "asset": "CAB-0855e1a85789eda4bb32779fba9e02f0",
+    "id": -2007283390,
+    "sourceColors": false
+  },
+  {
+    "mesh": 4,
+    "name": "SmallBushCluster_01",
+    "vertices": 3474,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -187606477,
+    "sourceColors": false
+  },
+  {
+    "mesh": 5,
+    "name": "PipeDrainagePlastic_01",
+    "vertices": 270,
+    "asset": "CAB-453fbda738686d7438611b8fb2eddf64",
+    "id": 1281923639,
+    "sourceColors": false
+  },
+  {
+    "mesh": 6,
+    "name": "ApartmentsBEntrance_02",
+    "vertices": 394,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": 1861105653,
+    "sourceColors": false
+  },
+  {
+    "mesh": 7,
+    "name": "AsphaltPavementStraight_01",
+    "vertices": 18,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -606552868,
+    "sourceColors": false
+  },
+  {
+    "mesh": 8,
+    "name": "ZebraCrossing_01",
+    "vertices": 136,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": -468864484,
+    "sourceColors": false
+  },
+  {
+    "mesh": 9,
+    "name": "AsphaltPavementStraightShort_01",
+    "vertices": 40,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": 469787417,
+    "sourceColors": false
+  },
+  {
+    "mesh": 10,
+    "name": "Apartments067_V2",
+    "vertices": 440,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1972525537,
+    "sourceColors": false
+  },
+  {
+    "mesh": 11,
+    "name": "PlazaStepsLong_01",
+    "vertices": 72,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1047539771,
+    "sourceColors": false
+  },
+  {
+    "mesh": 12,
+    "name": "SlabPavementStraight_01",
+    "vertices": 18,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -696622976,
+    "sourceColors": false
+  },
+  {
+    "mesh": 13,
+    "name": "PlazaSmallWallShort_01",
+    "vertices": 32,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -2136698891,
+    "sourceColors": false
+  },
+  {
+    "mesh": 14,
+    "name": "StoneDebrisMid_02",
+    "vertices": 2897,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": -219568126,
+    "sourceColors": false
+  },
+  {
+    "mesh": 15,
+    "name": "SlabPavementStraightShort_01",
+    "vertices": 18,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 869107306,
+    "sourceColors": false
+  },
+  {
+    "mesh": 16,
+    "name": "Apartment03WhiteBlockWin_01",
+    "vertices": 566,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1257895425,
+    "sourceColors": false
+  },
+  {
+    "mesh": 17,
+    "name": "AsphaltRoadKitLargeOuterBend_01",
+    "vertices": 81,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 2061796645,
+    "sourceColors": false
+  },
+  {
+    "mesh": 18,
+    "name": "RoadXRoads_01",
+    "vertices": 23,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1882333825,
+    "sourceColors": false
+  },
+  {
+    "mesh": 19,
+    "name": "VFX_Env_LandMarks_CONExteriorCrashSiteFirePlane_Fire01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1634753083,
+    "sourceColors": true
+  },
+  {
+    "mesh": 20,
+    "name": "TrafficLightSmall_01",
+    "vertices": 445,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": 446436578,
+    "sourceColors": false
+  },
+  {
+    "mesh": 21,
+    "name": "ConcreteWallPost_01",
+    "vertices": 62,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -61005403,
+    "sourceColors": false
+  },
+  {
+    "mesh": 22,
+    "name": "CPwallKitFloorTile_01",
+    "vertices": 32,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1343922434,
+    "sourceColors": false
+  },
+  {
+    "mesh": 23,
+    "name": "AsphaltRoadKitStraightSingleSolo_01",
+    "vertices": 4,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": -213729770,
+    "sourceColors": false
+  },
+  {
+    "mesh": 24,
+    "name": "CleanAsphaltPavementPlane_01",
+    "vertices": 16,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1863506752,
+    "sourceColors": false
+  },
+  {
+    "mesh": 25,
+    "name": "GrimeEdge_01",
+    "vertices": 4,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": 695086084,
+    "sourceColors": false
+  },
+  {
+    "mesh": 26,
+    "name": "PointLampGlow_01",
+    "vertices": 4,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -253630109,
+    "sourceColors": false
+  },
+  {
+    "mesh": 27,
+    "name": "AirConCombinedSmall_02",
+    "vertices": 1544,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -2045215469,
+    "sourceColors": false
+  },
+  {
+    "mesh": 28,
+    "name": "RoadSign_12",
+    "vertices": 94,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 918843009,
+    "sourceColors": false
+  },
+  {
+    "mesh": 29,
+    "name": "AsphaltPavementOuterBend_01",
+    "vertices": 51,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -913714567,
+    "sourceColors": false
+  },
+  {
+    "mesh": 30,
+    "name": "RoadStraightSingle_01",
+    "vertices": 4,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1176346526,
+    "sourceColors": false
+  },
+  {
+    "mesh": 31,
+    "name": "StoneDebrisSkyScraper_01",
+    "vertices": 899,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -627914726,
+    "sourceColors": false
+  },
+  {
+    "mesh": 32,
+    "name": "LitterMix_02",
+    "vertices": 423,
+    "asset": "CAB-84a7ea64689cc984f86a995be8f0b84f",
+    "id": 1343865544,
+    "sourceColors": false
+  },
+  {
+    "mesh": 33,
+    "name": "PlanterWall_01",
+    "vertices": 44,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 528018389,
+    "sourceColors": false
+  },
+  {
+    "mesh": 34,
+    "name": "TruckCab_01",
+    "vertices": 3399,
+    "asset": "CAB-453fbda738686d7438611b8fb2eddf64",
+    "id": 947359304,
+    "sourceColors": false
+  },
+  {
+    "mesh": 35,
+    "name": "ApartmentsBrickNew_01",
+    "vertices": 4468,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 846973991,
+    "sourceColors": false
+  },
+  {
+    "mesh": 36,
+    "name": "PylonSmall_01",
+    "vertices": 6566,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": -1232265765,
+    "sourceColors": false
+  },
+  {
+    "mesh": 37,
+    "name": "PlazaParkingMarkings_01",
+    "vertices": 36,
+    "asset": "CAB-d05d2463579ffab4ebe8c9774fba0169",
+    "id": 461361325,
+    "sourceColors": false
+  },
+  {
+    "mesh": 38,
+    "name": "Apartments03V2CullingCube_01",
+    "vertices": 30,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 791480594,
+    "sourceColors": false
+  },
+  {
+    "mesh": 39,
+    "name": "ConstructionSiteConcrete_03",
+    "vertices": 100,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": 1289086315,
+    "sourceColors": false
+  },
+  {
+    "mesh": 40,
+    "name": "PavementStraightShort_01",
+    "vertices": 22,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": -845119391,
+    "sourceColors": false
+  },
+  {
+    "mesh": 41,
+    "name": "SlabPavementOuterBend_01",
+    "vertices": 58,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 762006792,
+    "sourceColors": false
+  },
+  {
+    "mesh": 42,
+    "name": "AsphaltPavementTjuncCorner_01",
+    "vertices": 76,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1234565609,
+    "sourceColors": false
+  },
+  {
+    "mesh": 43,
+    "name": "PolicebarrierWood_01",
+    "vertices": 448,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": 239757594,
+    "sourceColors": false
+  },
+  {
+    "mesh": 44,
+    "name": "SmallBushCluster_02",
+    "vertices": 3715,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 621516008,
+    "sourceColors": false
+  },
+  {
+    "mesh": 45,
+    "name": "SlabRoadKitLargeOuterBend_01",
+    "vertices": 81,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 889430792,
+    "sourceColors": false
+  },
+  {
+    "mesh": 46,
+    "name": "PavementStraight_01",
+    "vertices": 22,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": 1280689927,
+    "sourceColors": false
+  },
+  {
+    "mesh": 47,
+    "name": "CONUniquePlazaSteps_01",
+    "vertices": 652,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -2014861750,
+    "sourceColors": false
+  },
+  {
+    "mesh": 48,
+    "name": "PavementInnerBend_01",
+    "vertices": 36,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 222960645,
+    "sourceColors": false
+  },
+  {
+    "mesh": 49,
+    "name": "ShippingContainerSetB_04",
+    "vertices": 336,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": -312379077,
+    "sourceColors": false
+  },
+  {
+    "mesh": 50,
+    "name": "LitterMix_09",
+    "vertices": 1118,
+    "asset": "CAB-84a7ea64689cc984f86a995be8f0b84f",
+    "id": 1538275568,
+    "sourceColors": false
+  },
+  {
+    "mesh": 51,
+    "name": "ElectricBox_04",
+    "vertices": 108,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1202848938,
+    "sourceColors": false
+  },
+  {
+    "mesh": 52,
+    "name": "CapricePPV_01",
+    "vertices": 1341,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": -1511063963,
+    "sourceColors": false
+  },
+  {
+    "mesh": 53,
+    "name": "TarmacGrime_01",
+    "vertices": 4,
+    "asset": "CAB-906b61fc30f459748bd9191d82834f92",
+    "id": -1462213941,
+    "sourceColors": false
+  },
+  {
+    "mesh": 54,
+    "name": "AsphaltPavementPlane_02",
+    "vertices": 4,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": -1866560832,
+    "sourceColors": false
+  },
+  {
+    "mesh": 55,
+    "name": "AsphaltPavementPlane_01",
+    "vertices": 24,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 294905582,
+    "sourceColors": false
+  },
+  {
+    "mesh": 56,
+    "name": "Dumpsterclosed_0144",
+    "vertices": 684,
+    "asset": "CAB-7390f2f518934264f835d3b639f9e6a5",
+    "id": -853661643,
+    "sourceColors": false
+  },
+  {
+    "mesh": 57,
+    "name": "SlabRoadKitStraightSolo_01",
+    "vertices": 4,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": 2070734880,
+    "sourceColors": false
+  },
+  {
+    "mesh": 58,
+    "name": "ShippingContainer_02",
+    "vertices": 336,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": -379535991,
+    "sourceColors": false
+  },
+  {
+    "mesh": 59,
+    "name": "Apartments047_V2",
+    "vertices": 1658,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -981512100,
+    "sourceColors": false
+  },
+  {
+    "mesh": 60,
+    "name": "PeopleCarrierS_00",
+    "vertices": 853,
+    "asset": "CAB-453fbda738686d7438611b8fb2eddf64",
+    "id": 2100281827,
+    "sourceColors": false
+  },
+  {
+    "mesh": 61,
+    "name": "Apartments050V2CullingCube_01",
+    "vertices": 100,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1626411893,
+    "sourceColors": false
+  },
+  {
+    "mesh": 62,
+    "name": "SUVBrokenRusted_01",
+    "vertices": 2758,
+    "asset": "CAB-82939d8f0b31e2558468d6840dab1b7b",
+    "id": 1551288688,
+    "sourceColors": false
+  },
+  {
+    "mesh": 63,
+    "name": "PlazaSmallWall_01",
+    "vertices": 24,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": 175515115,
+    "sourceColors": false
+  },
+  {
+    "mesh": 64,
+    "name": "ChainLinkFenceTrio_01",
+    "vertices": 432,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": -1718776818,
+    "sourceColors": false
+  },
+  {
+    "mesh": 65,
+    "name": "AsphaltPavementInnerBend_01",
+    "vertices": 36,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1795745576,
+    "sourceColors": false
+  },
+  {
+    "mesh": 66,
+    "name": "SedanB_00",
+    "vertices": 857,
+    "asset": "CAB-1c352df2ef31fc547888ac5362dd2da7",
+    "id": 177950836,
+    "sourceColors": false
+  },
+  {
+    "mesh": 67,
+    "name": "LitterMix_05",
+    "vertices": 382,
+    "asset": "CAB-d06d83d0fc4d69f408bb3852672cf123",
+    "id": 970729635,
+    "sourceColors": false
+  },
+  {
+    "mesh": 68,
+    "name": "StormDrainTunnelLarge_01",
+    "vertices": 4783,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": -807917663,
+    "sourceColors": false
+  },
+  {
+    "mesh": 69,
+    "name": "SedanBackCrushedRusted_01",
+    "vertices": 2075,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -2087420830,
+    "sourceColors": false
+  },
+  {
+    "mesh": 70,
+    "name": "SlabPavementTjuncCorner_01",
+    "vertices": 85,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 917271263,
+    "sourceColors": false
+  },
+  {
+    "mesh": 71,
+    "name": "AsphaltPavement45degreeBend_01",
+    "vertices": 74,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1471865682,
+    "sourceColors": false
+  },
+  {
+    "mesh": 72,
+    "name": "PavementPlane_01",
+    "vertices": 24,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 2017616597,
+    "sourceColors": false
+  },
+  {
+    "mesh": 73,
+    "name": "ShopsBlockA_02",
+    "vertices": 3687,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 490304175,
+    "sourceColors": false
+  },
+  {
+    "mesh": 74,
+    "name": "CPwallKitSupport_01",
+    "vertices": 60,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1531321468,
+    "sourceColors": false
+  },
+  {
+    "mesh": 75,
+    "name": "SmallBushCluster_04",
+    "vertices": 3081,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -330356435,
+    "sourceColors": false
+  },
+  {
+    "mesh": 76,
+    "name": "StreetBench_01",
+    "vertices": 514,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": 969834207,
+    "sourceColors": false
+  },
+  {
+    "mesh": 77,
+    "name": "SedanB_01",
+    "vertices": 857,
+    "asset": "CAB-5ae0d90c69d24484d829b367e744a557",
+    "id": -1625448056,
+    "sourceColors": false
+  },
+  {
+    "mesh": 78,
+    "name": "CONUniqueCarparkSlipRoad_01",
+    "vertices": 770,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1012940745,
+    "sourceColors": false
+  },
+  {
+    "mesh": 79,
+    "name": "ResPetrolStationLargePillar_01",
+    "vertices": 48,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": 270935600,
+    "sourceColors": false
+  },
+  {
+    "mesh": 80,
+    "name": "ZebraCrossing_02",
+    "vertices": 56,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -786380927,
+    "sourceColors": false
+  },
+  {
+    "mesh": 81,
+    "name": "WarehouseBuilding04Single_01",
+    "vertices": 3586,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": -1914473300,
+    "sourceColors": false
+  },
+  {
+    "mesh": 82,
+    "name": "NewSkyscraperGreenShape01_01",
+    "vertices": 3082,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 393858311,
+    "sourceColors": false
+  },
+  {
+    "mesh": 83,
+    "name": "SlabPavementBendThin_01",
+    "vertices": 43,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -570578259,
+    "sourceColors": false
+  },
+  {
+    "mesh": 84,
+    "name": "CPwallKitCeilingDeco_01_Lod1",
+    "vertices": 100,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 2064783046,
+    "sourceColors": false
+  },
+  {
+    "mesh": 85,
+    "name": "PortLampPost_05",
+    "vertices": 152,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -1234065325,
+    "sourceColors": false
+  },
+  {
+    "mesh": 86,
+    "name": "Apartments063V2CullingCube_01",
+    "vertices": 156,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 870219826,
+    "sourceColors": false
+  },
+  {
+    "mesh": 87,
+    "name": "LitterMix_01",
+    "vertices": 485,
+    "asset": "CAB-84a7ea64689cc984f86a995be8f0b84f",
+    "id": -1627252043,
+    "sourceColors": false
+  },
+  {
+    "mesh": 88,
+    "name": "PavementOuterBend_01",
+    "vertices": 57,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": -700419223,
+    "sourceColors": false
+  },
+  {
+    "mesh": 89,
+    "name": "ConcreteWallVent_01",
+    "vertices": 92,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": 495364418,
+    "sourceColors": false
+  },
+  {
+    "mesh": 90,
+    "name": "BuildingABrickPorchB_01",
+    "vertices": 468,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 148298762,
+    "sourceColors": false
+  },
+  {
+    "mesh": 91,
+    "name": "ApartmentsWindowCullingCube_01",
+    "vertices": 40,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1258675302,
+    "sourceColors": false
+  },
+  {
+    "mesh": 92,
+    "name": "SafetyBarrierPole_01",
+    "vertices": 284,
+    "asset": "CAB-453fbda738686d7438611b8fb2eddf64",
+    "id": -1763618589,
+    "sourceColors": false
+  },
+  {
+    "mesh": 93,
+    "name": "LitterMix_03",
+    "vertices": 533,
+    "asset": "CAB-d06d83d0fc4d69f408bb3852672cf123",
+    "id": -1044936898,
+    "sourceColors": false
+  },
+  {
+    "mesh": 94,
+    "name": "CarParkSleepersWhite_02",
+    "vertices": 78,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1301152945,
+    "sourceColors": false
+  },
+  {
+    "mesh": 95,
+    "name": "Policebarrier_01",
+    "vertices": 206,
+    "asset": "CAB-d05d2463579ffab4ebe8c9774fba0169",
+    "id": 792460538,
+    "sourceColors": false
+  },
+  {
+    "mesh": 96,
+    "name": "SkylineBackground_02",
+    "vertices": 5584,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 909222416,
+    "sourceColors": false
+  },
+  {
+    "mesh": 97,
+    "name": "MotoKitStraight_01",
+    "vertices": 480,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": 502521526,
+    "sourceColors": false
+  },
+  {
+    "mesh": 98,
+    "name": "AirConCombinedSquareRoof_02",
+    "vertices": 1900,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1057751967,
+    "sourceColors": false
+  },
+  {
+    "mesh": 99,
+    "name": "AsphaltRoadKitLargeInnerBend_01",
+    "vertices": 81,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1055684371,
+    "sourceColors": false
+  },
+  {
+    "mesh": 100,
+    "name": "NewBusStopShelter_01",
+    "vertices": 592,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 22024778,
+    "sourceColors": false
+  },
+  {
+    "mesh": 101,
+    "name": "RoadKitPathWide_01",
+    "vertices": 24,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 1925666803,
+    "sourceColors": false
+  },
+  {
+    "mesh": 102,
+    "name": "Truck_01",
+    "vertices": 1917,
+    "asset": "CAB-d05d2463579ffab4ebe8c9774fba0169",
+    "id": 466765256,
+    "sourceColors": false
+  },
+  {
+    "mesh": 103,
+    "name": "DamageEnd_01",
+    "vertices": 1993,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1816795632,
+    "sourceColors": false
+  },
+  {
+    "mesh": 104,
+    "name": "SlabWallRoadKitBarrierStraight_01",
+    "vertices": 48,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1303232673,
+    "sourceColors": false
+  },
+  {
+    "mesh": 105,
+    "name": "SmallBushCluster_03",
+    "vertices": 3639,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1832958905,
+    "sourceColors": false
+  },
+  {
+    "mesh": 106,
+    "name": "PylonCableSingle_01",
+    "vertices": 28,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -418764447,
+    "sourceColors": false
+  },
+  {
+    "mesh": 107,
+    "name": "ElectricBox_03",
+    "vertices": 84,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1622420244,
+    "sourceColors": false
+  },
+  {
+    "mesh": 108,
+    "name": "SedanWhiteRusted_01",
+    "vertices": 2286,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 513694542,
+    "sourceColors": false
+  },
+  {
+    "mesh": 109,
+    "name": "LampPosts_01",
+    "vertices": 559,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": -966637135,
+    "sourceColors": false
+  },
+  {
+    "mesh": 110,
+    "name": "AsphaltPavementTjuncCornerExtension_01",
+    "vertices": 32,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1536958034,
+    "sourceColors": false
+  },
+  {
+    "mesh": 111,
+    "name": "LitterMix_04",
+    "vertices": 535,
+    "asset": "CAB-d06d83d0fc4d69f408bb3852672cf123",
+    "id": -977560320,
+    "sourceColors": false
+  },
+  {
+    "mesh": 112,
+    "name": "ApartmentsBEntrance_03",
+    "vertices": 386,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": -101379353,
+    "sourceColors": false
+  },
+  {
+    "mesh": 113,
+    "name": "RoadSingletoSingle_01",
+    "vertices": 50,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 637813366,
+    "sourceColors": false
+  },
+  {
+    "mesh": 114,
+    "name": "BridgeSupport_01",
+    "vertices": 218,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": -634363917,
+    "sourceColors": false
+  },
+  {
+    "mesh": 115,
+    "name": "SkylineBackground_01",
+    "vertices": 7117,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 135598,
+    "sourceColors": false
+  },
+  {
+    "mesh": 116,
+    "name": "AirConCombinedSmall_01",
+    "vertices": 1372,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1499703744,
+    "sourceColors": false
+  },
+  {
+    "mesh": 117,
+    "name": "Apartments03_V2",
+    "vertices": 2015,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 741708436,
+    "sourceColors": false
+  },
+  {
+    "mesh": 118,
+    "name": "PeopleCarrierB_00",
+    "vertices": 858,
+    "asset": "CAB-48d4025b28fa87a48b2450b9a6ae8393",
+    "id": 976489811,
+    "sourceColors": false
+  },
+  {
+    "mesh": 119,
+    "name": "Graffiti_44",
+    "vertices": 4,
+    "asset": "CAB-0855e1a85789eda4bb32779fba9e02f0",
+    "id": -1555185255,
+    "sourceColors": false
+  },
+  {
+    "mesh": 120,
+    "name": "Bus90s_01",
+    "vertices": 3250,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1059423863,
+    "sourceColors": false
+  },
+  {
+    "mesh": 121,
+    "name": "WarehouseBuilding04CurveCullingCube_01",
+    "vertices": 33,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1096407961,
+    "sourceColors": false
+  },
+  {
+    "mesh": 122,
+    "name": "Apartments065_V2",
+    "vertices": 2238,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1148554182,
+    "sourceColors": false
+  },
+  {
+    "mesh": 123,
+    "name": "MotoKitMainPillar_01",
+    "vertices": 240,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": -1508835940,
+    "sourceColors": false
+  },
+  {
+    "mesh": 124,
+    "name": "ShippingContainerSetB_01",
+    "vertices": 336,
+    "asset": "CAB-5ae0d90c69d24484d829b367e744a557",
+    "id": 237877423,
+    "sourceColors": false
+  },
+  {
+    "mesh": 125,
+    "name": "TenementsKitFace_02",
+    "vertices": 398,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1847383617,
+    "sourceColors": false
+  },
+  {
+    "mesh": 126,
+    "name": "SingleDownBend_01",
+    "vertices": 304,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1866102434,
+    "sourceColors": false
+  },
+  {
+    "mesh": 127,
+    "name": "BotBatchA_06_Lod1",
+    "vertices": 3314,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -390716093,
+    "sourceColors": false
+  },
+  {
+    "mesh": 128,
+    "name": "AsphaltRoadKitTEndCap_01",
+    "vertices": 94,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 847959783,
+    "sourceColors": false
+  },
+  {
+    "mesh": 129,
+    "name": "SlabRoadKitStraight_01",
+    "vertices": 56,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": 1723603852,
+    "sourceColors": true
+  },
+  {
+    "mesh": 130,
+    "name": "Building_01",
+    "vertices": 6127,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": 862206961,
+    "sourceColors": false
+  },
+  {
+    "mesh": 131,
+    "name": "ApartmentsWindowCanopy_05",
+    "vertices": 2085,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1904737745,
+    "sourceColors": false
+  },
+  {
+    "mesh": 132,
+    "name": "Planter_05",
+    "vertices": 106,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": -479007129,
+    "sourceColors": false
+  },
+  {
+    "mesh": 133,
+    "name": "DumpsterclosedRed_00",
+    "vertices": 684,
+    "asset": "CAB-7390f2f518934264f835d3b639f9e6a5",
+    "id": 1839290622,
+    "sourceColors": false
+  },
+  {
+    "mesh": 134,
+    "name": "CrashTowerCommercialDamaged_04",
+    "vertices": 3357,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 802261053,
+    "sourceColors": false
+  },
+  {
+    "mesh": 135,
+    "name": "CarParkSleepersWhite_01",
+    "vertices": 182,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1154349482,
+    "sourceColors": false
+  },
+  {
+    "mesh": 136,
+    "name": "StormDrainCurvedDirty_01",
+    "vertices": 281,
+    "asset": "CAB-0855e1a85789eda4bb32779fba9e02f0",
+    "id": 1623115637,
+    "sourceColors": false
+  },
+  {
+    "mesh": 137,
+    "name": "RoadSingleBendS_01",
+    "vertices": 30,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -481180723,
+    "sourceColors": false
+  },
+  {
+    "mesh": 138,
+    "name": "CrashTowerCommercialTallLow_00",
+    "vertices": 3478,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 2002286407,
+    "sourceColors": false
+  },
+  {
+    "mesh": 139,
+    "name": "Graffiti_24",
+    "vertices": 4,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 743785207,
+    "sourceColors": false
+  },
+  {
+    "mesh": 140,
+    "name": "ConcreteWallBroken_01",
+    "vertices": 434,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -509602363,
+    "sourceColors": false
+  },
+  {
+    "mesh": 141,
+    "name": "AsphaltPavementEnd_01",
+    "vertices": 73,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": -1843341186,
+    "sourceColors": false
+  },
+  {
+    "mesh": 142,
+    "name": "CONUniqueBridgeC9_01",
+    "vertices": 6018,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -76816603,
+    "sourceColors": false
+  },
+  {
+    "mesh": 143,
+    "name": "PortWarehouse_03b",
+    "vertices": 2413,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": -69383339,
+    "sourceColors": false
+  },
+  {
+    "mesh": 144,
+    "name": "CPwallKitCeilingTile_01",
+    "vertices": 16,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1189378109,
+    "sourceColors": false
+  },
+  {
+    "mesh": 145,
+    "name": "SedanDoorOpen_06",
+    "vertices": 1065,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1374304476,
+    "sourceColors": false
+  },
+  {
+    "mesh": 146,
+    "name": "SlabRoadKitBridgeSegment_01",
+    "vertices": 144,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": -664058297,
+    "sourceColors": false
+  },
+  {
+    "mesh": 147,
+    "name": "StreetDispensoreCluster_03",
+    "vertices": 552,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 32554549,
+    "sourceColors": false
+  },
+  {
+    "mesh": 148,
+    "name": "WoodPoleDetail_02",
+    "vertices": 955,
+    "asset": "CAB-7390f2f518934264f835d3b639f9e6a5",
+    "id": 1943017605,
+    "sourceColors": false
+  },
+  {
+    "mesh": 149,
+    "name": "CPwall_02",
+    "vertices": 242,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -475548068,
+    "sourceColors": false
+  },
+  {
+    "mesh": 150,
+    "name": "StoneDebrisLarge_03",
+    "vertices": 4082,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": 1323970802,
+    "sourceColors": false
+  },
+  {
+    "mesh": 151,
+    "name": "TransferPlatformCON_03",
+    "vertices": 501,
+    "asset": "CAB-bb2da20f9314d894a9592dfd80a36b3e",
+    "id": -803814103,
+    "sourceColors": false
+  },
+  {
+    "mesh": 152,
+    "name": "ShippingContainer_06",
+    "vertices": 336,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": 1275740610,
+    "sourceColors": false
+  },
+  {
+    "mesh": 153,
+    "name": "CarParkSleepersYellow_01",
+    "vertices": 182,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": 2065984455,
+    "sourceColors": false
+  },
+  {
+    "mesh": 154,
+    "name": "ShippingContainerSetBRust_02",
+    "vertices": 382,
+    "asset": "CAB-5ae0d90c69d24484d829b367e744a557",
+    "id": -928369291,
+    "sourceColors": false
+  },
+  {
+    "mesh": 155,
+    "name": "WoodPoleSimple_00",
+    "vertices": 182,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 187478965,
+    "sourceColors": false
+  },
+  {
+    "mesh": 156,
+    "name": "Graffiti_12",
+    "vertices": 4,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": -385176677,
+    "sourceColors": false
+  },
+  {
+    "mesh": 157,
+    "name": "Apartments066_V2",
+    "vertices": 1354,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1810092636,
+    "sourceColors": false
+  },
+  {
+    "mesh": 158,
+    "name": "WarehouseBuilding04FiveFloorHP_01",
+    "vertices": 10767,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1407564477,
+    "sourceColors": false
+  },
+  {
+    "mesh": 159,
+    "name": "CPwallKitFloor_01",
+    "vertices": 250,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 256434139,
+    "sourceColors": false
+  },
+  {
+    "mesh": 160,
+    "name": "MotoKitSingularPillar_01",
+    "vertices": 104,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -759432249,
+    "sourceColors": false
+  },
+  {
+    "mesh": 161,
+    "name": "ApartmentsShopA_1",
+    "vertices": 269,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1555883568,
+    "sourceColors": false
+  },
+  {
+    "mesh": 162,
+    "name": "ChainLinkFenceTrio_03",
+    "vertices": 468,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1521979924,
+    "sourceColors": false
+  },
+  {
+    "mesh": 163,
+    "name": "Apartments052V2CullingCube_01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1601254819,
+    "sourceColors": false
+  },
+  {
+    "mesh": 164,
+    "name": "LitterMix_07",
+    "vertices": 243,
+    "asset": "CAB-d06d83d0fc4d69f408bb3852672cf123",
+    "id": 1959425572,
+    "sourceColors": false
+  },
+  {
+    "mesh": 165,
+    "name": "TruckTrailer_01",
+    "vertices": 1456,
+    "asset": "CAB-453fbda738686d7438611b8fb2eddf64",
+    "id": -1261298847,
+    "sourceColors": false
+  },
+  {
+    "mesh": 166,
+    "name": "Apartments047V2CullingCube_01",
+    "vertices": 60,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 466555878,
+    "sourceColors": false
+  },
+  {
+    "mesh": 167,
+    "name": "TankDestroyed_01",
+    "vertices": 5808,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 604907033,
+    "sourceColors": false
+  },
+  {
+    "mesh": 168,
+    "name": "SlabPavement45Degree_01",
+    "vertices": 78,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -90457435,
+    "sourceColors": false
+  },
+  {
+    "mesh": 169,
+    "name": "LitterMix_08",
+    "vertices": 186,
+    "asset": "CAB-d06d83d0fc4d69f408bb3852672cf123",
+    "id": -1528038835,
+    "sourceColors": false
+  },
+  {
+    "mesh": 170,
+    "name": "CPwallKitFloor_03",
+    "vertices": 157,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -599283105,
+    "sourceColors": false
+  },
+  {
+    "mesh": 171,
+    "name": "SingularBuilding_04",
+    "vertices": 2450,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": 884193614,
+    "sourceColors": false
+  },
+  {
+    "mesh": 172,
+    "name": "RoadKitPathThin_01",
+    "vertices": 20,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": 1340278576,
+    "sourceColors": false
+  },
+  {
+    "mesh": 173,
+    "name": "BillBoardSmall_04",
+    "vertices": 670,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": -1845454507,
+    "sourceColors": false
+  },
+  {
+    "mesh": 174,
+    "name": "PavementEnd_01",
+    "vertices": 83,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 165837263,
+    "sourceColors": false
+  },
+  {
+    "mesh": 175,
+    "name": "RoadEntranceStrip_01",
+    "vertices": 85,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1632310009,
+    "sourceColors": false
+  },
+  {
+    "mesh": 176,
+    "name": "SedanCrushedRusted_01",
+    "vertices": 2351,
+    "asset": "CAB-84a7ea64689cc984f86a995be8f0b84f",
+    "id": 1714658887,
+    "sourceColors": false
+  },
+  {
+    "mesh": 177,
+    "name": "LitterMix_06",
+    "vertices": 283,
+    "asset": "CAB-d06d83d0fc4d69f408bb3852672cf123",
+    "id": -520617580,
+    "sourceColors": false
+  },
+  {
+    "mesh": 178,
+    "name": "TenementsKitCorner_01",
+    "vertices": 1500,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 128692173,
+    "sourceColors": false
+  },
+  {
+    "mesh": 179,
+    "name": "ElectricBox_01",
+    "vertices": 118,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 999156327,
+    "sourceColors": false
+  },
+  {
+    "mesh": 180,
+    "name": "MiddleEngine_01",
+    "vertices": 4294,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -168556006,
+    "sourceColors": false
+  },
+  {
+    "mesh": 181,
+    "name": "AirConCombinedLong_01",
+    "vertices": 2393,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1278894927,
+    "sourceColors": false
+  },
+  {
+    "mesh": 182,
+    "name": "NewSkyscraperGreenShape01_01",
+    "vertices": 3082,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 393858311,
+    "sourceColors": false
+  },
+  {
+    "mesh": 183,
+    "name": "FreeWayTunnelB_02",
+    "vertices": 3422,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": -1577357473,
+    "sourceColors": false
+  },
+  {
+    "mesh": 184,
+    "name": "SedanB_02",
+    "vertices": 854,
+    "asset": "CAB-48d4025b28fa87a48b2450b9a6ae8393",
+    "id": 1576759894,
+    "sourceColors": false
+  },
+  {
+    "mesh": 185,
+    "name": "NewSkyscraperSmallTop_01",
+    "vertices": 716,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": -1611474654,
+    "sourceColors": false
+  },
+  {
+    "mesh": 186,
+    "name": "BoothLarge_01",
+    "vertices": 2367,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 101236524,
+    "sourceColors": false
+  },
+  {
+    "mesh": 187,
+    "name": "PeopleCarrierG_00",
+    "vertices": 851,
+    "asset": "CAB-1c352df2ef31fc547888ac5362dd2da7",
+    "id": 1799392722,
+    "sourceColors": false
+  },
+  {
+    "mesh": 188,
+    "name": "PlazaParkingMarkings_02",
+    "vertices": 16,
+    "asset": "CAB-906b61fc30f459748bd9191d82834f92",
+    "id": 579751652,
+    "sourceColors": false
+  },
+  {
+    "mesh": 189,
+    "name": "WarehouseBuilding04FiveFloorHPCullingCube_01",
+    "vertices": 20,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -267601004,
+    "sourceColors": false
+  },
+  {
+    "mesh": 190,
+    "name": "SlabRoadKitEdge_01",
+    "vertices": 26,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": -1104063517,
+    "sourceColors": true
+  },
+  {
+    "mesh": 191,
+    "name": "ApartmentsWindowCullingCube_03",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1316610486,
+    "sourceColors": false
+  },
+  {
+    "mesh": 192,
+    "name": "Apartment03WhiteBlockWin_03",
+    "vertices": 130,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 395419887,
+    "sourceColors": false
+  },
+  {
+    "mesh": 193,
+    "name": "C_2D",
+    "vertices": 1242,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 230658425,
+    "sourceColors": false
+  },
+  {
+    "mesh": 194,
+    "name": "PlazaWallPillar_01",
+    "vertices": 12,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 132868353,
+    "sourceColors": false
+  },
+  {
+    "mesh": 195,
+    "name": "RoadEntranceStripLarge_02",
+    "vertices": 120,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1458559571,
+    "sourceColors": false
+  },
+  {
+    "mesh": 196,
+    "name": "Apartments04_V2",
+    "vertices": 1426,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1575703934,
+    "sourceColors": false
+  },
+  {
+    "mesh": 197,
+    "name": "AsphaltPavementSbend_01",
+    "vertices": 103,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1551911080,
+    "sourceColors": false
+  },
+  {
+    "mesh": 198,
+    "name": "Graffiti_33",
+    "vertices": 4,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -614905655,
+    "sourceColors": false
+  },
+  {
+    "mesh": 199,
+    "name": "CrashTowerCommercialDamaged_01",
+    "vertices": 2200,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -379863920,
+    "sourceColors": false
+  },
+  {
+    "mesh": 200,
+    "name": "SlabPavementStraightSingleShort_01",
+    "vertices": 20,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 2050140904,
+    "sourceColors": false
+  },
+  {
+    "mesh": 201,
+    "name": "ResPetrolStationPump_01",
+    "vertices": 518,
+    "asset": "CAB-82939d8f0b31e2558468d6840dab1b7b",
+    "id": -1660368272,
+    "sourceColors": false
+  },
+  {
+    "mesh": 202,
+    "name": "BoothBarrier_01",
+    "vertices": 60,
+    "asset": "CAB-906b61fc30f459748bd9191d82834f92",
+    "id": -1860191191,
+    "sourceColors": false
+  },
+  {
+    "mesh": 203,
+    "name": "Apartments052_V2",
+    "vertices": 2062,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1232646819,
+    "sourceColors": false
+  },
+  {
+    "mesh": 204,
+    "name": "WingEngine_02",
+    "vertices": 1908,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 394762858,
+    "sourceColors": false
+  },
+  {
+    "mesh": 205,
+    "name": "Building01CullingCube_01",
+    "vertices": 40,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -2114365729,
+    "sourceColors": false
+  },
+  {
+    "mesh": 206,
+    "name": "NewSkyscraperModule_05",
+    "vertices": 4194,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": -1740148886,
+    "sourceColors": false
+  },
+  {
+    "mesh": 207,
+    "name": "AsphaltRoadKitTJuncLSingleOverlay_01",
+    "vertices": 15,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 2106113656,
+    "sourceColors": false
+  },
+  {
+    "mesh": 208,
+    "name": "PlazaSmallWallCorner_01",
+    "vertices": 74,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": 2091973376,
+    "sourceColors": false
+  },
+  {
+    "mesh": 209,
+    "name": "PipeDrainageConcrete_01",
+    "vertices": 400,
+    "asset": "CAB-6949574fb1bb6ee1c223fe42a70fa129",
+    "id": -1386622290,
+    "sourceColors": false
+  },
+  {
+    "mesh": 210,
+    "name": "ApartmentsShopA_2",
+    "vertices": 200,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -878578287,
+    "sourceColors": false
+  },
+  {
+    "mesh": 211,
+    "name": "Apartments03CrossSectionBrick_01",
+    "vertices": 341,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1424765233,
+    "sourceColors": false
+  },
+  {
+    "mesh": 212,
+    "name": "ResPetrolStationBuilding_02",
+    "vertices": 583,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": -574348495,
+    "sourceColors": false
+  },
+  {
+    "mesh": 213,
+    "name": "TruckCabRough_01",
+    "vertices": 3020,
+    "asset": "CAB-906b61fc30f459748bd9191d82834f92",
+    "id": -1168025610,
+    "sourceColors": false
+  },
+  {
+    "mesh": 214,
+    "name": "SlabPavementStraightSingle_01",
+    "vertices": 20,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1483670981,
+    "sourceColors": false
+  },
+  {
+    "mesh": 215,
+    "name": "Graffiti_06",
+    "vertices": 4,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": -1312823843,
+    "sourceColors": false
+  },
+  {
+    "mesh": 216,
+    "name": "WingEngine_01_Lod1",
+    "vertices": 7023,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1560326396,
+    "sourceColors": false
+  },
+  {
+    "mesh": 217,
+    "name": "BotBatchA_01_Lod1",
+    "vertices": 2756,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 213269749,
+    "sourceColors": false
+  },
+  {
+    "mesh": 218,
+    "name": "Graffiti_27",
+    "vertices": 4,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1502637692,
+    "sourceColors": false
+  },
+  {
+    "mesh": 219,
+    "name": "Apartments04VCullingCube_01",
+    "vertices": 54,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -838777514,
+    "sourceColors": false
+  },
+  {
+    "mesh": 220,
+    "name": "StormDrainWall_03",
+    "vertices": 2451,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 93943372,
+    "sourceColors": false
+  },
+  {
+    "mesh": 221,
+    "name": "Policebarrier_04",
+    "vertices": 258,
+    "asset": "CAB-5ae0d90c69d24484d829b367e744a557",
+    "id": -1450120937,
+    "sourceColors": false
+  },
+  {
+    "mesh": 222,
+    "name": "Apartments063_V2",
+    "vertices": 2802,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 2113650697,
+    "sourceColors": false
+  },
+  {
+    "mesh": 223,
+    "name": "DamageEnd_02",
+    "vertices": 1722,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 11169650,
+    "sourceColors": false
+  },
+  {
+    "mesh": 224,
+    "name": "SlabPavementStraightSquare_01",
+    "vertices": 20,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1751697938,
+    "sourceColors": false
+  },
+  {
+    "mesh": 225,
+    "name": "Apartment03RoundBlockBrick_02",
+    "vertices": 666,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1749780020,
+    "sourceColors": false
+  },
+  {
+    "mesh": 226,
+    "name": "Graffiti_01",
+    "vertices": 4,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": 1095897905,
+    "sourceColors": false
+  },
+  {
+    "mesh": 227,
+    "name": "ApartmentsWindowCullingCube_02",
+    "vertices": 40,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -79758199,
+    "sourceColors": false
+  },
+  {
+    "mesh": 228,
+    "name": "RoadXroadSingle_01",
+    "vertices": 34,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1113999954,
+    "sourceColors": false
+  },
+  {
+    "mesh": 229,
+    "name": "PortLampPost_02",
+    "vertices": 109,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": -1502558058,
+    "sourceColors": false
+  },
+  {
+    "mesh": 230,
+    "name": "CONBaseExternalRetainingWallStraight_01",
+    "vertices": 1342,
+    "asset": "CAB-0855e1a85789eda4bb32779fba9e02f0",
+    "id": -1719760282,
+    "sourceColors": false
+  },
+  {
+    "mesh": 231,
+    "name": "Crane_01_Lod1",
+    "vertices": 6648,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": -24449610,
+    "sourceColors": true
+  },
+  {
+    "mesh": 232,
+    "name": "RearEngine_01",
+    "vertices": 719,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -1245945056,
+    "sourceColors": false
+  },
+  {
+    "mesh": 233,
+    "name": "RoofStructures_07",
+    "vertices": 293,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": -1839824041,
+    "sourceColors": false
+  },
+  {
+    "mesh": 234,
+    "name": "SlabRoadKitShortR_01",
+    "vertices": 245,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 409821807,
+    "sourceColors": false
+  },
+  {
+    "mesh": 235,
+    "name": "Apartments03RoofTop_02",
+    "vertices": 90,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1825697264,
+    "sourceColors": false
+  },
+  {
+    "mesh": 236,
+    "name": "SlabWallRoadKit_01",
+    "vertices": 8,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -2124791581,
+    "sourceColors": false
+  },
+  {
+    "mesh": 237,
+    "name": "Graffiti_35",
+    "vertices": 4,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 321737551,
+    "sourceColors": false
+  },
+  {
+    "mesh": 238,
+    "name": "NewSkyscraperShape01_01",
+    "vertices": 4047,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1396573487,
+    "sourceColors": false
+  },
+  {
+    "mesh": 239,
+    "name": "ElectricBox_02",
+    "vertices": 80,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1287929461,
+    "sourceColors": false
+  },
+  {
+    "mesh": 240,
+    "name": "Apartments065V2CullingCube_01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1405650149,
+    "sourceColors": false
+  },
+  {
+    "mesh": 241,
+    "name": "BBallKit_03",
+    "vertices": 351,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1892925757,
+    "sourceColors": false
+  },
+  {
+    "mesh": 242,
+    "name": "BillBoardLarge_02",
+    "vertices": 2379,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1656137204,
+    "sourceColors": false
+  },
+  {
+    "mesh": 243,
+    "name": "CONUniqueD3Arch_01",
+    "vertices": 321,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -648651457,
+    "sourceColors": false
+  },
+  {
+    "mesh": 244,
+    "name": "TruckTrailerTipper_01",
+    "vertices": 2032,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1083836363,
+    "sourceColors": false
+  },
+  {
+    "mesh": 245,
+    "name": "SingleStraight_01",
+    "vertices": 152,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1859893052,
+    "sourceColors": false
+  },
+  {
+    "mesh": 246,
+    "name": "Graffiti_21",
+    "vertices": 4,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1788729622,
+    "sourceColors": false
+  },
+  {
+    "mesh": 247,
+    "name": "ApartmentsWindowCanopy_03",
+    "vertices": 3801,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -879649386,
+    "sourceColors": false
+  },
+  {
+    "mesh": 248,
+    "name": "Single90DegreeBend_01",
+    "vertices": 912,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -2080682689,
+    "sourceColors": false
+  },
+  {
+    "mesh": 249,
+    "name": "BuildingAYellowConcreteWall_14",
+    "vertices": 96,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1337713363,
+    "sourceColors": false
+  },
+  {
+    "mesh": 250,
+    "name": "StormDrainWall_08",
+    "vertices": 253,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1355732380,
+    "sourceColors": false
+  },
+  {
+    "mesh": 251,
+    "name": "DemolishedApartments01_V2",
+    "vertices": 5239,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -26517949,
+    "sourceColors": false
+  },
+  {
+    "mesh": 252,
+    "name": "RoadStraight_01",
+    "vertices": 4,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 551763974,
+    "sourceColors": false
+  },
+  {
+    "mesh": 253,
+    "name": "StreetDispensoreCluster_02",
+    "vertices": 494,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1320844176,
+    "sourceColors": false
+  },
+  {
+    "mesh": 254,
+    "name": "CarParkSleepersYellow_02",
+    "vertices": 78,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1333584421,
+    "sourceColors": false
+  },
+  {
+    "mesh": 255,
+    "name": "NewSkyscraperShapeTower01Damaged_01",
+    "vertices": 8403,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 84518535,
+    "sourceColors": false
+  },
+  {
+    "mesh": 256,
+    "name": "Graffiti_43",
+    "vertices": 4,
+    "asset": "CAB-7390f2f518934264f835d3b639f9e6a5",
+    "id": -1154934182,
+    "sourceColors": false
+  },
+  {
+    "mesh": 257,
+    "name": "NewSkyscraperSmallBase_01",
+    "vertices": 2961,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": 240866685,
+    "sourceColors": false
+  },
+  {
+    "mesh": 258,
+    "name": "LumberMillWoodenfence_01",
+    "vertices": 257,
+    "asset": "CAB-82939d8f0b31e2558468d6840dab1b7b",
+    "id": 1459244717,
+    "sourceColors": false
+  },
+  {
+    "mesh": 259,
+    "name": "SlabRoadKitTJuncL_01",
+    "vertices": 267,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -266040448,
+    "sourceColors": true
+  },
+  {
+    "mesh": 260,
+    "name": "MotoKitCurve_01",
+    "vertices": 1440,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": 1561747131,
+    "sourceColors": false
+  },
+  {
+    "mesh": 261,
+    "name": "Graffiti_36",
+    "vertices": 4,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1674216336,
+    "sourceColors": false
+  },
+  {
+    "mesh": 262,
+    "name": "BoothLarge_02",
+    "vertices": 2100,
+    "asset": "CAB-906b61fc30f459748bd9191d82834f92",
+    "id": -33124015,
+    "sourceColors": false
+  },
+  {
+    "mesh": 263,
+    "name": "Wing_01",
+    "vertices": 2043,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 416702349,
+    "sourceColors": false
+  },
+  {
+    "mesh": 264,
+    "name": "Apartments055_V2",
+    "vertices": 2281,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1334240722,
+    "sourceColors": false
+  },
+  {
+    "mesh": 265,
+    "name": "NewSkyscraperModule_06",
+    "vertices": 4017,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 613160497,
+    "sourceColors": false
+  },
+  {
+    "mesh": 266,
+    "name": "Graffiti_11",
+    "vertices": 4,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": 113318126,
+    "sourceColors": false
+  },
+  {
+    "mesh": 267,
+    "name": "CONUniqueE4Road_01",
+    "vertices": 418,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1245464817,
+    "sourceColors": false
+  },
+  {
+    "mesh": 268,
+    "name": "SlabRoadKitShortL_01",
+    "vertices": 254,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -515308212,
+    "sourceColors": false
+  },
+  {
+    "mesh": 269,
+    "name": "SlabRoadKitXRoadsINV_01",
+    "vertices": 467,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 812823554,
+    "sourceColors": false
+  },
+  {
+    "mesh": 270,
+    "name": "TenementsKitFace_01",
+    "vertices": 492,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 353170759,
+    "sourceColors": false
+  },
+  {
+    "mesh": 271,
+    "name": "ResidentialPavementStraight_01",
+    "vertices": 40,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -2066426756,
+    "sourceColors": false
+  },
+  {
+    "mesh": 272,
+    "name": "Graffiti_39",
+    "vertices": 4,
+    "asset": "CAB-0855e1a85789eda4bb32779fba9e02f0",
+    "id": 1458846106,
+    "sourceColors": false
+  },
+  {
+    "mesh": 273,
+    "name": "SlabRoadKitBridgeOnRamp_02",
+    "vertices": 95,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -376306757,
+    "sourceColors": false
+  },
+  {
+    "mesh": 274,
+    "name": "StormDrainStraightDirty_01",
+    "vertices": 336,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": -1090298216,
+    "sourceColors": false
+  },
+  {
+    "mesh": 275,
+    "name": "SlabPavementTjuncCornerExtension_01",
+    "vertices": 20,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1336084005,
+    "sourceColors": false
+  },
+  {
+    "mesh": 276,
+    "name": "CPwallKitSupport_02",
+    "vertices": 454,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -246826929,
+    "sourceColors": false
+  },
+  {
+    "mesh": 277,
+    "name": "Graffiti_09",
+    "vertices": 4,
+    "asset": "CAB-0855e1a85789eda4bb32779fba9e02f0",
+    "id": -1646049258,
+    "sourceColors": false
+  },
+  {
+    "mesh": 278,
+    "name": "Apartments050_V2",
+    "vertices": 3237,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": 571127047,
+    "sourceColors": false
+  },
+  {
+    "mesh": 279,
+    "name": "Graffiti_04",
+    "vertices": 4,
+    "asset": "CAB-0855e1a85789eda4bb32779fba9e02f0",
+    "id": 812392290,
+    "sourceColors": false
+  },
+  {
+    "mesh": 280,
+    "name": "SlabRoadKitBridgeOffRamp_01",
+    "vertices": 436,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": 2130479157,
+    "sourceColors": false
+  },
+  {
+    "mesh": 281,
+    "name": "ApartmentsShopB_1",
+    "vertices": 120,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -619039585,
+    "sourceColors": false
+  },
+  {
+    "mesh": 282,
+    "name": "ResPetrolStationCanopyLarge_01",
+    "vertices": 504,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": 272059460,
+    "sourceColors": false
+  },
+  {
+    "mesh": 283,
+    "name": "TruckTrailerTanker_01",
+    "vertices": 1908,
+    "asset": "CAB-1c352df2ef31fc547888ac5362dd2da7",
+    "id": 1231201742,
+    "sourceColors": false
+  },
+  {
+    "mesh": 284,
+    "name": "VFX_Shared_Shapes_Quads_Quad01",
+    "vertices": 4,
+    "asset": "CAB-cb08dfca4e709108d8ca06e753af79c4",
+    "id": -1002970475,
+    "sourceColors": false
+  },
+  {
+    "mesh": 285,
+    "name": "SlabRoadKitXRoads_01",
+    "vertices": 468,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -747070070,
+    "sourceColors": false
+  },
+  {
+    "mesh": 286,
+    "name": "PlazaWall_01",
+    "vertices": 132,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 765355088,
+    "sourceColors": false
+  },
+  {
+    "mesh": 287,
+    "name": "PedestrianBollards_01",
+    "vertices": 348,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1200402933,
+    "sourceColors": false
+  },
+  {
+    "mesh": 288,
+    "name": "MotelApartment_01",
+    "vertices": 2456,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -2018576748,
+    "sourceColors": false
+  },
+  {
+    "mesh": 289,
+    "name": "StreetBin_01",
+    "vertices": 286,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": 936897024,
+    "sourceColors": false
+  },
+  {
+    "mesh": 290,
+    "name": "ConBaseExternalProps_1",
+    "vertices": 1202,
+    "asset": "CAB-0855e1a85789eda4bb32779fba9e02f0",
+    "id": -1851958287,
+    "sourceColors": false
+  },
+  {
+    "mesh": 291,
+    "name": "WoodPoleDetail_01",
+    "vertices": 1187,
+    "asset": "CAB-7390f2f518934264f835d3b639f9e6a5",
+    "id": 127487668,
+    "sourceColors": false
+  },
+  {
+    "mesh": 292,
+    "name": "RollerShutter_01",
+    "vertices": 80,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 59593500,
+    "sourceColors": false
+  },
+  {
+    "mesh": 293,
+    "name": "PlazaStepsEndCap_01",
+    "vertices": 104,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -603596953,
+    "sourceColors": false
+  },
+  {
+    "mesh": 294,
+    "name": "CPwallKitFloor_02",
+    "vertices": 400,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -207533065,
+    "sourceColors": false
+  },
+  {
+    "mesh": 295,
+    "name": "ArklightPiece_03",
+    "vertices": 531,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 1469686989,
+    "sourceColors": false
+  },
+  {
+    "mesh": 296,
+    "name": "SingularBuilding04CullingCube_01",
+    "vertices": 258,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -758159151,
+    "sourceColors": false
+  },
+  {
+    "mesh": 297,
+    "name": "WoodPoleDetail_00",
+    "vertices": 648,
+    "asset": "CAB-7390f2f518934264f835d3b639f9e6a5",
+    "id": 705104731,
+    "sourceColors": false
+  },
+  {
+    "mesh": 298,
+    "name": "BuildingABrickPorchB_04",
+    "vertices": 830,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1391489215,
+    "sourceColors": false
+  },
+  {
+    "mesh": 299,
+    "name": "ApartmentsShopB_3",
+    "vertices": 198,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1179218257,
+    "sourceColors": false
+  },
+  {
+    "mesh": 300,
+    "name": "ApartmentTop03_V2",
+    "vertices": 1918,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1121910604,
+    "sourceColors": false
+  },
+  {
+    "mesh": 301,
+    "name": "RoadKitLargeBend_01",
+    "vertices": 18,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -906824015,
+    "sourceColors": false
+  },
+  {
+    "mesh": 302,
+    "name": "RoadKitLargeBendINV_01",
+    "vertices": 18,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1077738852,
+    "sourceColors": false
+  },
+  {
+    "mesh": 303,
+    "name": "Graffiti_28",
+    "vertices": 4,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1972829378,
+    "sourceColors": false
+  },
+  {
+    "mesh": 304,
+    "name": "BillBoardLarge_01",
+    "vertices": 2778,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 665312460,
+    "sourceColors": false
+  },
+  {
+    "mesh": 305,
+    "name": "AsphaltPavementSingle90degreeSmall_01",
+    "vertices": 150,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 138583576,
+    "sourceColors": false
+  },
+  {
+    "mesh": 306,
+    "name": "RoadSingleBendSINV_01",
+    "vertices": 30,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1931142665,
+    "sourceColors": false
+  },
+  {
+    "mesh": 307,
+    "name": "ChainLinkFenceTrio_01",
+    "vertices": 432,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": -1718776818,
+    "sourceColors": false
+  },
+  {
+    "mesh": 308,
+    "name": "BuildingAYellowConcreteWall_01",
+    "vertices": 104,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1696398527,
+    "sourceColors": false
+  },
+  {
+    "mesh": 309,
+    "name": "NewSkyscraperShortTop_01",
+    "vertices": 506,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1345062670,
+    "sourceColors": false
+  },
+  {
+    "mesh": 310,
+    "name": "VFX_Env_LandMarks_CONExteriorCrashSiteFirePlane_Fire01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1634753083,
+    "sourceColors": true
+  },
+  {
+    "mesh": 311,
+    "name": "SkyScraperD_00",
+    "vertices": 144,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1161602589,
+    "sourceColors": false
+  },
+  {
+    "mesh": 312,
+    "name": "TrashTruck_01",
+    "vertices": 3726,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -453729992,
+    "sourceColors": false
+  },
+  {
+    "mesh": 313,
+    "name": "SlabPavementStraightSolo_01",
+    "vertices": 18,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1978941043,
+    "sourceColors": false
+  },
+  {
+    "mesh": 314,
+    "name": "PlazaWall_02",
+    "vertices": 224,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -1095561720,
+    "sourceColors": false
+  },
+  {
+    "mesh": 315,
+    "name": "SlabRoadKitMidR_01",
+    "vertices": 206,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1459278978,
+    "sourceColors": false
+  },
+  {
+    "mesh": 316,
+    "name": "ConBaseExternalProps_2",
+    "vertices": 1420,
+    "asset": "CAB-0855e1a85789eda4bb32779fba9e02f0",
+    "id": 263112435,
+    "sourceColors": false
+  },
+  {
+    "mesh": 317,
+    "name": "AsphaltPavement90degreeBend_01",
+    "vertices": 85,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -577252412,
+    "sourceColors": false
+  },
+  {
+    "mesh": 318,
+    "name": "WaterTankRound_01",
+    "vertices": 613,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": 1263935859,
+    "sourceColors": false
+  },
+  {
+    "mesh": 319,
+    "name": "ShippingContainer_05",
+    "vertices": 336,
+    "asset": "CAB-5ae0d90c69d24484d829b367e744a557",
+    "id": -423189488,
+    "sourceColors": false
+  },
+  {
+    "mesh": 320,
+    "name": "SlabPavementOuterBendSingle_01",
+    "vertices": 31,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 843206132,
+    "sourceColors": false
+  },
+  {
+    "mesh": 321,
+    "name": "ConcreteWallBroken_02",
+    "vertices": 410,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1133155113,
+    "sourceColors": false
+  },
+  {
+    "mesh": 322,
+    "name": "WarehouseBuilding04CurveHP_01",
+    "vertices": 16116,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 311693654,
+    "sourceColors": false
+  },
+  {
+    "mesh": 323,
+    "name": "AsphaltRoadKitEdge_01",
+    "vertices": 26,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -1651633224,
+    "sourceColors": true
+  },
+  {
+    "mesh": 324,
+    "name": "NewSkyscraperLargeTop_01",
+    "vertices": 685,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": 205857780,
+    "sourceColors": false
+  },
+  {
+    "mesh": 325,
+    "name": "ResidentiaPavement45degreeBend_01",
+    "vertices": 244,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1575514196,
+    "sourceColors": false
+  },
+  {
+    "mesh": 326,
+    "name": "AsphaltPavement45degreeV2Small_01",
+    "vertices": 111,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1128425464,
+    "sourceColors": false
+  },
+  {
+    "mesh": 327,
+    "name": "NewSkyscraperGreenShapeTower01_01",
+    "vertices": 584,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": -1220131890,
+    "sourceColors": false
+  },
+  {
+    "mesh": 328,
+    "name": "Planter_06",
+    "vertices": 176,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -211407329,
+    "sourceColors": false
+  },
+  {
+    "mesh": 329,
+    "name": "Graffiti_29",
+    "vertices": 4,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -878809040,
+    "sourceColors": false
+  },
+  {
+    "mesh": 330,
+    "name": "Apartments068V2CullingCube_01",
+    "vertices": 57,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 162885621,
+    "sourceColors": false
+  },
+  {
+    "mesh": 331,
+    "name": "RoadholeFiller_01",
+    "vertices": 6,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -901181295,
+    "sourceColors": false
+  },
+  {
+    "mesh": 332,
+    "name": "RoadXRoadsINV_01",
+    "vertices": 23,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1824390238,
+    "sourceColors": false
+  },
+  {
+    "mesh": 333,
+    "name": "ShippingContainer_07",
+    "vertices": 382,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": -571220473,
+    "sourceColors": false
+  },
+  {
+    "mesh": 334,
+    "name": "BotBatchA_02_Lod1",
+    "vertices": 3868,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 318759113,
+    "sourceColors": false
+  },
+  {
+    "mesh": 335,
+    "name": "BuildingABrickPorchB_03",
+    "vertices": 464,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1329003381,
+    "sourceColors": false
+  },
+  {
+    "mesh": 336,
+    "name": "MotoKitCrossBeam_01",
+    "vertices": 36,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1546076992,
+    "sourceColors": false
+  },
+  {
+    "mesh": 337,
+    "name": "Apartments00_V2",
+    "vertices": 4313,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1580073521,
+    "sourceColors": false
+  },
+  {
+    "mesh": 338,
+    "name": "Apartments03Balconys_01",
+    "vertices": 670,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -205220015,
+    "sourceColors": false
+  },
+  {
+    "mesh": 339,
+    "name": "Graffiti_07",
+    "vertices": 4,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": -1169140907,
+    "sourceColors": false
+  },
+  {
+    "mesh": 340,
+    "name": "Graffiti_03",
+    "vertices": 4,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": -57394118,
+    "sourceColors": false
+  },
+  {
+    "mesh": 341,
+    "name": "Tenements_00",
+    "vertices": 12234,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1328677214,
+    "sourceColors": false
+  },
+  {
+    "mesh": 342,
+    "name": "E_7BMarkings",
+    "vertices": 549,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -2036683604,
+    "sourceColors": false
+  },
+  {
+    "mesh": 343,
+    "name": "ApartmentsShopB_2",
+    "vertices": 322,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1812395910,
+    "sourceColors": false
+  },
+  {
+    "mesh": 344,
+    "name": "AsphaltPavementStraightSbend_02",
+    "vertices": 104,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1690838957,
+    "sourceColors": false
+  },
+  {
+    "mesh": 345,
+    "name": "ConstructionSiteWallsCombined_01",
+    "vertices": 6062,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1050252104,
+    "sourceColors": false
+  },
+  {
+    "mesh": 346,
+    "name": "SlabPavementEnd_01",
+    "vertices": 78,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 928735159,
+    "sourceColors": false
+  },
+  {
+    "mesh": 347,
+    "name": "Graffiti_40",
+    "vertices": 4,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -876625999,
+    "sourceColors": false
+  },
+  {
+    "mesh": 348,
+    "name": "Graffiti_05",
+    "vertices": 4,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": -1543998987,
+    "sourceColors": false
+  },
+  {
+    "mesh": 349,
+    "name": "Graffiti_08",
+    "vertices": 4,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1070976594,
+    "sourceColors": false
+  },
+  {
+    "mesh": 350,
+    "name": "AsphaltRoadCarParkEntrance_01",
+    "vertices": 336,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": -2096492849,
+    "sourceColors": false
+  },
+  {
+    "mesh": 351,
+    "name": "NewSkyscraperShape01Damaged_01",
+    "vertices": 5311,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1270175131,
+    "sourceColors": false
+  },
+  {
+    "mesh": 352,
+    "name": "AsphaltPavementSingle90degreeLarge_01",
+    "vertices": 161,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1891743648,
+    "sourceColors": false
+  },
+  {
+    "mesh": 353,
+    "name": "NewBusStopSign_01",
+    "vertices": 232,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1782663990,
+    "sourceColors": false
+  },
+  {
+    "mesh": 354,
+    "name": "Graffiti_26",
+    "vertices": 4,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 983919464,
+    "sourceColors": false
+  },
+  {
+    "mesh": 355,
+    "name": "Wing_03",
+    "vertices": 9194,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -28184276,
+    "sourceColors": false
+  },
+  {
+    "mesh": 356,
+    "name": "SkyScraperC_02",
+    "vertices": 3634,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -407280619,
+    "sourceColors": false
+  },
+  {
+    "mesh": 357,
+    "name": "ConcreteWallsCombined_03",
+    "vertices": 352,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1099144264,
+    "sourceColors": false
+  },
+  {
+    "mesh": 358,
+    "name": "TransferPlatformCON_02",
+    "vertices": 816,
+    "asset": "CAB-bb2da20f9314d894a9592dfd80a36b3e",
+    "id": 1397830917,
+    "sourceColors": false
+  },
+  {
+    "mesh": 359,
+    "name": "CarparkWallEntrance_01",
+    "vertices": 400,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1312811137,
+    "sourceColors": false
+  },
+  {
+    "mesh": 360,
+    "name": "Apartments049_V2",
+    "vertices": 6911,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 437013625,
+    "sourceColors": false
+  },
+  {
+    "mesh": 361,
+    "name": "CPwallKitFloor_04",
+    "vertices": 90,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1607796557,
+    "sourceColors": false
+  },
+  {
+    "mesh": 362,
+    "name": "SlabRoadKitTJuncR_01",
+    "vertices": 275,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -685591692,
+    "sourceColors": true
+  },
+  {
+    "mesh": 363,
+    "name": "DecepUniquePlazaWall_01",
+    "vertices": 392,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1081682667,
+    "sourceColors": false
+  },
+  {
+    "mesh": 364,
+    "name": "SkylineBackground_03",
+    "vertices": 3982,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1282918027,
+    "sourceColors": false
+  },
+  {
+    "mesh": 365,
+    "name": "Graffiti_14",
+    "vertices": 4,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": 1408258098,
+    "sourceColors": false
+  },
+  {
+    "mesh": 366,
+    "name": "DemolishedApartments03_V2",
+    "vertices": 5835,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -697598220,
+    "sourceColors": false
+  },
+  {
+    "mesh": 367,
+    "name": "Helicopter_01_Lod1",
+    "vertices": 3848,
+    "asset": "CAB-a7813c7d5d183100b25cbc2f85c3f997",
+    "id": -71183533,
+    "sourceColors": false
+  },
+  {
+    "mesh": 368,
+    "name": "AsphaltPavement45degreeV2Large_01",
+    "vertices": 108,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 353820114,
+    "sourceColors": false
+  },
+  {
+    "mesh": 369,
+    "name": "BuildingAYellowConcreteWall_01",
+    "vertices": 104,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1696398527,
+    "sourceColors": false
+  },
+  {
+    "mesh": 370,
+    "name": "Graffiti_30",
+    "vertices": 4,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 482443581,
+    "sourceColors": false
+  },
+  {
+    "mesh": 371,
+    "name": "BuildingAYellowConcreteCornerWall_02",
+    "vertices": 137,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -590154655,
+    "sourceColors": false
+  },
+  {
+    "mesh": 372,
+    "name": "PlazaParkingEntrance_01",
+    "vertices": 2069,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -212842672,
+    "sourceColors": false
+  },
+  {
+    "mesh": 373,
+    "name": "CONUniqueD3_01",
+    "vertices": 2239,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 691106262,
+    "sourceColors": false
+  },
+  {
+    "mesh": 374,
+    "name": "SlabPavementInnerBend_01",
+    "vertices": 36,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 102959628,
+    "sourceColors": false
+  },
+  {
+    "mesh": 375,
+    "name": "SkyScraperC_00",
+    "vertices": 149,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 313834523,
+    "sourceColors": false
+  },
+  {
+    "mesh": 376,
+    "name": "DemolishedApartments02_V2",
+    "vertices": 8975,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 1957990939,
+    "sourceColors": false
+  },
+  {
+    "mesh": 377,
+    "name": "ConcreteWallsCombined_09",
+    "vertices": 1260,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -513090771,
+    "sourceColors": false
+  },
+  {
+    "mesh": 378,
+    "name": "CPwall_01",
+    "vertices": 734,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -984469769,
+    "sourceColors": false
+  },
+  {
+    "mesh": 379,
+    "name": "SUVBroken_01",
+    "vertices": 2781,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": 551304098,
+    "sourceColors": false
+  },
+  {
+    "mesh": 380,
+    "name": "CPwalKitRamp_01",
+    "vertices": 110,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1738259241,
+    "sourceColors": false
+  },
+  {
+    "mesh": 381,
+    "name": "Graffiti_37",
+    "vertices": 4,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": -1771400935,
+    "sourceColors": false
+  },
+  {
+    "mesh": 382,
+    "name": "FreeWayTunnelWall_01",
+    "vertices": 980,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": -2101502312,
+    "sourceColors": false
+  },
+  {
+    "mesh": 383,
+    "name": "BBallKit_01",
+    "vertices": 100,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 731013074,
+    "sourceColors": false
+  },
+  {
+    "mesh": 384,
+    "name": "Apartments068_V2",
+    "vertices": 2104,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -812855958,
+    "sourceColors": false
+  },
+  {
+    "mesh": 385,
+    "name": "MotoKitCurveShort_01",
+    "vertices": 480,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1567960640,
+    "sourceColors": false
+  },
+  {
+    "mesh": 386,
+    "name": "BillBoardLarge_03",
+    "vertices": 1646,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 648765350,
+    "sourceColors": false
+  },
+  {
+    "mesh": 387,
+    "name": "Apartments045_V2",
+    "vertices": 2234,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1033495135,
+    "sourceColors": false
+  },
+  {
+    "mesh": 388,
+    "name": "Road45Degrees_01",
+    "vertices": 149,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -310875998,
+    "sourceColors": false
+  },
+  {
+    "mesh": 389,
+    "name": "ConcreteWallsCombined_06",
+    "vertices": 873,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1740743572,
+    "sourceColors": false
+  },
+  {
+    "mesh": 390,
+    "name": "NewSkyscraperLargeBase_01",
+    "vertices": 4477,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -100684385,
+    "sourceColors": false
+  },
+  {
+    "mesh": 391,
+    "name": "Graffiti_20",
+    "vertices": 4,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 217159245,
+    "sourceColors": false
+  },
+  {
+    "mesh": 392,
+    "name": "Planter_01",
+    "vertices": 106,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 34228664,
+    "sourceColors": false
+  },
+  {
+    "mesh": 393,
+    "name": "Graffiti_45",
+    "vertices": 4,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": -2058438720,
+    "sourceColors": false
+  },
+  {
+    "mesh": 394,
+    "name": "PolicebarrierWood_03",
+    "vertices": 650,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 1316796921,
+    "sourceColors": false
+  },
+  {
+    "mesh": 395,
+    "name": "ApartmentTop00_V2",
+    "vertices": 3218,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1696570893,
+    "sourceColors": false
+  },
+  {
+    "mesh": 396,
+    "name": "VFX_Shared_Shapes_Cylinders_Cylinder01",
+    "vertices": 42,
+    "asset": "CAB-e356408ddfbdb5d0a0eb267d7744c05d",
+    "id": -99669853,
+    "sourceColors": false
+  },
+  {
+    "mesh": 397,
+    "name": "CPwallKitFloor_05",
+    "vertices": 806,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -523833228,
+    "sourceColors": false
+  },
+  {
+    "mesh": 398,
+    "name": "BuildingAYellowConcreteWall_14",
+    "vertices": 96,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -1337713363,
+    "sourceColors": false
+  },
+  {
+    "mesh": 399,
+    "name": "Graffiti_02",
+    "vertices": 4,
+    "asset": "CAB-0855e1a85789eda4bb32779fba9e02f0",
+    "id": 1747117868,
+    "sourceColors": false
+  },
+  {
+    "mesh": 400,
+    "name": "StormDrainWall_02",
+    "vertices": 1383,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -636682934,
+    "sourceColors": false
+  },
+  {
+    "mesh": 401,
+    "name": "TruckTrailerTank_01",
+    "vertices": 1486,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1682207142,
+    "sourceColors": false
+  },
+  {
+    "mesh": 402,
+    "name": "Graffiti_42",
+    "vertices": 4,
+    "asset": "CAB-d06d83d0fc4d69f408bb3852672cf123",
+    "id": 1028698017,
+    "sourceColors": false
+  },
+  {
+    "mesh": 403,
+    "name": "SideVariation_01",
+    "vertices": 495,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": -1200722364,
+    "sourceColors": false
+  },
+  {
+    "mesh": 404,
+    "name": "Graffiti_13",
+    "vertices": 4,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": 90468015,
+    "sourceColors": false
+  },
+  {
+    "mesh": 405,
+    "name": "Graffiti_10",
+    "vertices": 4,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": -473057059,
+    "sourceColors": false
+  },
+  {
+    "mesh": 406,
+    "name": "Graffiti_31",
+    "vertices": 4,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1249223892,
+    "sourceColors": false
+  },
+  {
+    "mesh": 407,
+    "name": "BenchBin_01",
+    "vertices": 410,
+    "asset": "CAB-45f9ba9b4f178c706075474cc03382b4",
+    "id": -266125000,
+    "sourceColors": false
+  },
+  {
+    "mesh": 408,
+    "name": "ApartmentTop03V2CullingCube_01",
+    "vertices": 70,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -246164149,
+    "sourceColors": false
+  },
+  {
+    "mesh": 409,
+    "name": "SlabRoadKitBridgeOffRamp_02",
+    "vertices": 140,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1209047815,
+    "sourceColors": false
+  },
+  {
+    "mesh": 410,
+    "name": "ConcreteWallsCombined_07",
+    "vertices": 1596,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1832114288,
+    "sourceColors": false
+  },
+  {
+    "mesh": 411,
+    "name": "DemolishedApartmentsRoofSection01_V2",
+    "vertices": 316,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -391890533,
+    "sourceColors": false
+  },
+  {
+    "mesh": 412,
+    "name": "Graffiti_15",
+    "vertices": 4,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 50647967,
+    "sourceColors": false
+  },
+  {
+    "mesh": 413,
+    "name": "StormDrainWall_01",
+    "vertices": 915,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1715756747,
+    "sourceColors": false
+  },
+  {
+    "mesh": 414,
+    "name": "ResPetrolStationBuilding_01",
+    "vertices": 412,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -1645611956,
+    "sourceColors": false
+  },
+  {
+    "mesh": 415,
+    "name": "BuildingAYellowConcreteCornerWall_01",
+    "vertices": 171,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1249855841,
+    "sourceColors": false
+  },
+  {
+    "mesh": 416,
+    "name": "MotelApartment_02",
+    "vertices": 2715,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 1663314444,
+    "sourceColors": false
+  },
+  {
+    "mesh": 417,
+    "name": "Graffiti_16",
+    "vertices": 4,
+    "asset": "CAB-9fcaf687961772000340a8d3ced06769",
+    "id": -1967787120,
+    "sourceColors": false
+  },
+  {
+    "mesh": 418,
+    "name": "DemolishedApartments00_V2",
+    "vertices": 3457,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": -257853211,
+    "sourceColors": false
+  },
+  {
+    "mesh": 419,
+    "name": "SlabRoadKitBridgeOnRamp_01",
+    "vertices": 287,
+    "asset": "CAB-3a31ee3a888023446b94190203e07780",
+    "id": -1644210968,
+    "sourceColors": false
+  },
+  {
+    "mesh": 420,
+    "name": "SlabRoadKitBridgeEndCap_01",
+    "vertices": 81,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1936861624,
+    "sourceColors": false
+  },
+  {
+    "mesh": 421,
+    "name": "NewBrickScraperShapeShortTop_01",
+    "vertices": 730,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 857153876,
+    "sourceColors": false
+  },
+  {
+    "mesh": 422,
+    "name": "SlabRoadKitMidL_01",
+    "vertices": 206,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1402996124,
+    "sourceColors": false
+  },
+  {
+    "mesh": 423,
+    "name": "Apartments03CrossSection_01",
+    "vertices": 341,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 237460606,
+    "sourceColors": false
+  },
+  {
+    "mesh": 424,
+    "name": "StormDrainWall_04",
+    "vertices": 1570,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 761764322,
+    "sourceColors": false
+  },
+  {
+    "mesh": 425,
+    "name": "Apartments049V2CullingCube_01",
+    "vertices": 175,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 856000422,
+    "sourceColors": false
+  },
+  {
+    "mesh": 426,
+    "name": "Graffiti_38",
+    "vertices": 4,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -841516199,
+    "sourceColors": false
+  },
+  {
+    "mesh": 427,
+    "name": "AsphaltRoadKitStraightSingle_01",
+    "vertices": 40,
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": -1429682170,
+    "sourceColors": false
+  },
+  {
+    "mesh": 428,
+    "name": "Apartments03CrossSectionBrick_04",
+    "vertices": 198,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1522336556,
+    "sourceColors": false
+  },
+  {
+    "mesh": 429,
+    "name": "NewBrickScraperShape01_01",
+    "vertices": 5165,
+    "asset": "CAB-f23aab2dded45fc0a29cdf8d693b7a8f",
+    "id": 192224591,
+    "sourceColors": false
+  },
+  {
+    "mesh": 430,
+    "name": "BoothBarrier_01_Arm",
+    "vertices": 40,
+    "asset": "CAB-906b61fc30f459748bd9191d82834f92",
+    "id": 1392977275,
+    "sourceColors": false
+  },
+  {
+    "mesh": 431,
+    "name": "BuildingAYellowConcreteWall_11",
+    "vertices": 79,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 373187074,
+    "sourceColors": false
+  },
+  {
+    "mesh": 432,
+    "name": "Apartments03StairBlockBrick_04",
+    "vertices": 164,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -739217614,
+    "sourceColors": false
+  },
+  {
+    "mesh": 433,
+    "name": "StormDrainWall_06",
+    "vertices": 246,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1455599724,
+    "sourceColors": false
+  },
+  {
+    "mesh": 434,
+    "name": "CONUniqueG4E_01",
+    "vertices": 984,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 142886584,
+    "sourceColors": false
+  },
+  {
+    "mesh": 435,
+    "name": "DemolishedApartmentsRoofSection02_V2",
+    "vertices": 241,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1662173339,
+    "sourceColors": false
+  },
+  {
+    "mesh": 436,
+    "name": "ConcreteWallNoRail_01",
+    "vertices": 84,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 2063865849,
+    "sourceColors": false
+  },
+  {
+    "mesh": 437,
+    "name": "AsphaltRoadKitSidewalkSolo_01",
+    "vertices": 16,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": -857055401,
+    "sourceColors": false
+  },
+  {
+    "mesh": 438,
+    "name": "BuildingABrickPorchA_01",
+    "vertices": 82,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -83208466,
+    "sourceColors": false
+  },
+  {
+    "mesh": 439,
+    "name": "DemolishedApartmentsRoofSection03_V2",
+    "vertices": 215,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -2037018110,
+    "sourceColors": false
+  },
+  {
+    "mesh": 440,
+    "name": "ConcreteWallsCombined_05",
+    "vertices": 908,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 912322232,
+    "sourceColors": false
+  },
+  {
+    "mesh": 441,
+    "name": "NewSkyscraperShapeTower01_01",
+    "vertices": 1657,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": 1536608297,
+    "sourceColors": false
+  },
+  {
+    "mesh": 442,
+    "name": "LowerResiCombined01_V2",
+    "vertices": 4564,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -621307509,
+    "sourceColors": false
+  },
+  {
+    "mesh": 443,
+    "name": "BuildingABrickPorchB_02",
+    "vertices": 308,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1954349593,
+    "sourceColors": false
+  },
+  {
+    "mesh": 444,
+    "name": "NewSkyscraperShortBase_01",
+    "vertices": 2872,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 62565006,
+    "sourceColors": false
+  },
+  {
+    "mesh": 445,
+    "name": "RoadSingletoSingleINV_01",
+    "vertices": 24,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -748684168,
+    "sourceColors": false
+  },
+  {
+    "mesh": 446,
+    "name": "ParkWallPillarA_01",
+    "vertices": 100,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -617898839,
+    "sourceColors": false
+  },
+  {
+    "mesh": 447,
+    "name": "SlabRoadKitBridgeSegmentShort_01",
+    "vertices": 152,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -696700432,
+    "sourceColors": false
+  },
+  {
+    "mesh": 448,
+    "name": "RoofStructures_06",
+    "vertices": 151,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": -775031254,
+    "sourceColors": false
+  },
+  {
+    "mesh": 449,
+    "name": "StormDrainWall_07",
+    "vertices": 314,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -3201825,
+    "sourceColors": false
+  },
+  {
+    "mesh": 450,
+    "name": "ConcreteWallsCombined_01",
+    "vertices": 264,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1389996835,
+    "sourceColors": false
+  },
+  {
+    "mesh": 451,
+    "name": "Graffiti_25",
+    "vertices": 4,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1648093647,
+    "sourceColors": false
+  },
+  {
+    "mesh": 452,
+    "name": "Graffiti_34",
+    "vertices": 4,
+    "asset": "CAB-d06d83d0fc4d69f408bb3852672cf123",
+    "id": -1512050116,
+    "sourceColors": false
+  },
+  {
+    "mesh": 453,
+    "name": "NewSkyscraperShape02TopDamaged_01",
+    "vertices": 8098,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 252824854,
+    "sourceColors": false
+  },
+  {
+    "mesh": 454,
+    "name": "Graffiti_32",
+    "vertices": 4,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 615539052,
+    "sourceColors": false
+  },
+  {
+    "mesh": 455,
+    "name": "CPwall_03",
+    "vertices": 186,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -220997397,
+    "sourceColors": false
+  },
+  {
+    "mesh": 456,
+    "name": "BuildingAYellowPinkConcreteWall_13",
+    "vertices": 89,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1632134639,
+    "sourceColors": false
+  },
+  {
+    "mesh": 457,
+    "name": "AsphaltRoadKitTJuncLSingle_01",
+    "vertices": 430,
+    "asset": "CAB-476df859178aa4d478b54d501725f996",
+    "id": 451482190,
+    "sourceColors": false
+  },
+  {
+    "mesh": 458,
+    "name": "SlabRoadKitBridgeCarparkRamp_01",
+    "vertices": 545,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 1202179658,
+    "sourceColors": false
+  },
+  {
+    "mesh": 459,
+    "name": "TransferPlatformCON_04",
+    "vertices": 176,
+    "asset": "CAB-bb2da20f9314d894a9592dfd80a36b3e",
+    "id": -670590966,
+    "sourceColors": false
+  },
+  {
+    "mesh": 460,
+    "name": "DecepUniquePlazaWall_02",
+    "vertices": 226,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -533260046,
+    "sourceColors": false
+  },
+  {
+    "mesh": 461,
+    "name": "NewSkyscraperShape02Damaged_01",
+    "vertices": 3074,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 629181156,
+    "sourceColors": false
+  },
+  {
+    "mesh": 462,
+    "name": "SwitchbladeHalf_01",
+    "vertices": 5273,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -430647589,
+    "sourceColors": false
+  },
+  {
+    "mesh": 463,
+    "name": "ConcreteWallsCombined_08",
+    "vertices": 2848,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 67086671,
+    "sourceColors": false
+  },
+  {
+    "mesh": 464,
+    "name": "CONUniqueA2Road_01",
+    "vertices": 402,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 748191867,
+    "sourceColors": false
+  },
+  {
+    "mesh": 465,
+    "name": "BuildingAYellowPinkConcreteWall_13",
+    "vertices": 89,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 1632134639,
+    "sourceColors": false
+  },
+  {
+    "mesh": 466,
+    "name": "ConcreteWallCornerPiece_01",
+    "vertices": 364,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 977439665,
+    "sourceColors": false
+  },
+  {
+    "mesh": 467,
+    "name": "BuildingAYellowConcreteWall_11",
+    "vertices": 79,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": 373187074,
+    "sourceColors": false
+  },
+  {
+    "mesh": 468,
+    "name": "ConstructionSiteRamp_00",
+    "vertices": 678,
+    "asset": "CAB-0855e1a85789eda4bb32779fba9e02f0",
+    "id": -1015572841,
+    "sourceColors": false
+  },
+  {
+    "mesh": 469,
+    "name": "CPwall_04",
+    "vertices": 86,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -724423754,
+    "sourceColors": false
+  },
+  {
+    "mesh": 470,
+    "name": "RoadOverlayMesh_01",
+    "vertices": 6,
+    "asset": "CAB-0855e1a85789eda4bb32779fba9e02f0",
+    "id": -947278286,
+    "sourceColors": false
+  },
+  {
+    "mesh": 471,
+    "name": "StormDrainWall_05",
+    "vertices": 1019,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -349698575,
+    "sourceColors": false
+  },
+  {
+    "mesh": 472,
+    "name": "SlabRoadKitLargeInnerBend_01",
+    "vertices": 90,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1992129233,
+    "sourceColors": false
+  },
+  {
+    "mesh": 473,
+    "name": "CONUniqueBridgeArch_02",
+    "vertices": 134,
+    "asset": "CAB-5644ebd60875bdbf3b46ffd40e661bd0",
+    "id": -663814035,
+    "sourceColors": false
+  },
+  {
+    "mesh": 474,
+    "name": "RoadStraightShort_01",
+    "vertices": 14,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -382838741,
+    "sourceColors": false
+  },
+  {
+    "mesh": 475,
+    "name": "CPwall_05",
+    "vertices": 149,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": 418828157,
+    "sourceColors": false
+  },
+  {
+    "mesh": 476,
+    "name": "VFX_Env_LandMarks_CONExteriorCrashSiteFirePlane_Fire01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1634753083,
+    "sourceColors": true
+  },
+  {
+    "mesh": 477,
+    "name": "VFX_Env_LandMarks_CONExteriorCrashSiteFirePlane_Fire01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1634753083,
+    "sourceColors": true
+  },
+  {
+    "mesh": 478,
+    "name": "VFX_Env_LandMarks_CONExteriorCrashSiteFirePlane_Fire01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1634753083,
+    "sourceColors": true
+  },
+  {
+    "mesh": 479,
+    "name": "VFX_Env_LandMarks_CONExteriorCrashSiteFirePlane_Fire01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1634753083,
+    "sourceColors": true
+  },
+  {
+    "mesh": 480,
+    "name": "VFX_Env_LandMarks_CONExteriorCrashSiteFirePlane_Fire01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1634753083,
+    "sourceColors": true
+  },
+  {
+    "mesh": 481,
+    "name": "VFX_Env_LandMarks_CONExteriorCrashSiteFirePlane_Fire01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1634753083,
+    "sourceColors": true
+  },
+  {
+    "mesh": 482,
+    "name": "VFX_Env_LandMarks_CONExteriorCrashSiteFirePlane_Fire01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1634753083,
+    "sourceColors": true
+  },
+  {
+    "mesh": 483,
+    "name": "VFX_Env_LandMarks_CONExteriorCrashSiteFirePlane_Fire01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1634753083,
+    "sourceColors": true
+  },
+  {
+    "mesh": 484,
+    "name": "VFX_Env_LandMarks_CONExteriorCrashSiteFirePlane_Fire01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1634753083,
+    "sourceColors": true
+  },
+  {
+    "mesh": 485,
+    "name": "VFX_Env_LandMarks_CONExteriorCrashSiteFirePlane_Fire01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1634753083,
+    "sourceColors": true
+  },
+  {
+    "mesh": 486,
+    "name": "VFX_Env_LandMarks_CONExteriorCrashSiteFirePlane_Fire01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1634753083,
+    "sourceColors": true
+  },
+  {
+    "mesh": 487,
+    "name": "VFX_Env_LandMarks_CONExteriorCrashSiteFirePlane_Fire01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1634753083,
+    "sourceColors": true
+  },
+  {
+    "mesh": 488,
+    "name": "VFX_Env_LandMarks_CONExteriorCrashSiteFirePlane_Fire01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1634753083,
+    "sourceColors": true
+  },
+  {
+    "mesh": 489,
+    "name": "VFX_Env_LandMarks_CONExteriorCrashSiteFirePlane_Fire01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1634753083,
+    "sourceColors": true
+  },
+  {
+    "mesh": 490,
+    "name": "VFX_Env_LandMarks_CONExteriorCrashSiteFirePlane_Fire01",
+    "vertices": 36,
+    "asset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "id": -1634753083,
+    "sourceColors": true
+  }
+]

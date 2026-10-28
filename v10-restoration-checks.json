@@ -1,0 +1,43 @@
+{
+  "version": "Unity v10",
+  "uiTexturesWithOriginalDimensionsPolicy": 105,
+  "uiImporter": "NPOT resize off, mipmaps off, compression off, clamp; original crop dimensions preserved",
+  "rotatingUiPivotMaxNumericError": 4.547473508864641e-13,
+  "loadingArtwork": [
+    "Loadingwheel_01",
+    "Loadingwheel_02",
+    "Loadingwheel_03"
+  ],
+  "loadingProgress": "Real hangar-load stage percentage; source rings rotate on fitted canvas",
+  "map": "Fixed full-base layout, larger and contrast boosted, actual world player position, no zoom",
+  "chat": "Recovered social-panel, text-box, enter and close sprites, corrected sliced-frame import",
+  "extraV9FloorOverlayRemoved": true,
+  "baseHangarMeshBytesUnchanged": true,
+  "addedCentralCityBarrierRemoved": true,
+  "doorFrameFit": [
+    {
+      "door": "Training restricted door",
+      "maxCornerErrorMetres": 1.397906146771426e-05
+    },
+    {
+      "door": "Hangar Uplink restricted door",
+      "maxCornerErrorMetres": 2.052663690332694e-05
+    }
+  ],
+  "nativeRuntimeVerified": false,
+  "nativeAppearanceVerified": false,
+  "originalUiFonts": [
+    {
+      "name": "PLAY-BOLD",
+      "asset": "CAB-53f3fda7cdea95f0b121813f05cf935d",
+      "id": 1037270935,
+      "file": "OriginalUiBold.ttf"
+    },
+    {
+      "name": "PLAY-REGULAR",
+      "asset": "CAB-53f3fda7cdea95f0b121813f05cf935d",
+      "id": 1543392067,
+      "file": "OriginalUiRegular.ttf"
+    }
+  ]
+}

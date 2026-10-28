@@ -1,0 +1,49 @@
+{
+  "version": "Unity v18",
+  "factions": [
+    "Autobots",
+    "Decepticons"
+  ],
+  "autobot": "Catapult / A001",
+  "hangarMeshes": 639,
+  "robotMeshes": 3,
+  "hologramMeshes": 3,
+  "collisionTriangles": 5700,
+  "animationPoseChecks": 20,
+  "animationTrackCounts": {
+    "Idle": 195,
+    "Fall": 195,
+    "Walk": 195,
+    "Run": 195
+  },
+  "spawn": [
+    -79.46286,
+    14.36509,
+    -3.245
+  ],
+  "floorSamples": 125,
+  "sourceMinimapUvChecks": 121,
+  "materials": 92,
+  "sourceLights": 29,
+  "nativeRuntimeTested": false,
+  "nativeShadersTested": false,
+  "decepticonDataFilesUnchanged": 240,
+  "robotBounds": {
+    "min": [
+      -1.6615991606452343,
+      -0.0009244231755027664,
+      -0.5157122670703163
+    ],
+    "max": [
+      1.6615989499712582,
+      3.306757404671279,
+      0.588986435355656
+    ]
+  },
+  "limitations": [
+    "Original server, missions and NPC logic are not restored.",
+    "Autobot exterior and vehicle mode are not enabled.",
+    "A001 split footsteps are missing; original A004 metallic steps are reused.",
+    "Lighting and shader behavior are reconstructed; native appearance needs verification."
+  ]
+}

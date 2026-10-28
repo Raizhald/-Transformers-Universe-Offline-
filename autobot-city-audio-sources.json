@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Highgrand_Base_Alarm_01",
+    "sourceName": "Highgrand_Base_Alarm_01",
+    "asset": "CAB-Audio_Ambience_Autobot_Exterior",
+    "id": 1850712470,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "AutoBaseExt_InternalAlarm_02",
+    "bytes": 59334
+  },
+  {
+    "name": "HighGrand_SandMove_wind_01",
+    "sourceName": "HighGrand_SandMove_wind_01",
+    "asset": "CAB-2c3ab04ae0df8d04d8311e6955b4bd4e",
+    "id": -1641531320,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "SFX_AutoBaseExt_LocalWindLoop_04",
+    "bytes": 47932
+  },
+  {
+    "name": "CentralCity_PaperRustle8",
+    "sourceName": "CentralCity_PaperRustle8",
+    "asset": "CAB-30f2227e44956ab0c1edfcc63bfe00ae",
+    "id": 1709542985,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "SFX_PaperFloat8",
+    "bytes": 66282
+  },
+  {
+    "name": "CentralCity_PaperRustle3",
+    "sourceName": "CentralCity_PaperRustle3",
+    "asset": "CAB-30f2227e44956ab0c1edfcc63bfe00ae",
+    "id": 1204519093,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "SFX_PaperFloat3",
+    "bytes": 16557
+  },
+  {
+    "name": "Island_BirdCry_03",
+    "sourceName": "Island_BirdCry_03",
+    "asset": "CAB-50951c2b0674e7344aa3feb0dc94cb6d",
+    "id": 453058851,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "BirdCry_01",
+    "bytes": 12302
+  },
+  {
+    "name": "Island_BirdCry_05",
+    "sourceName": "Island_BirdCry_05",
+    "asset": "CAB-50951c2b0674e7344aa3feb0dc94cb6d",
+    "id": -244315330,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "BirdCry_03",
+    "bytes": 7265
+  },
+  {
+    "name": "CentralCity_PaperRustle5",
+    "sourceName": "CentralCity_PaperRustle5",
+    "asset": "CAB-30f2227e44956ab0c1edfcc63bfe00ae",
+    "id": 879611294,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "SFX_PaperFloat5",
+    "bytes": 33190
+  },
+  {
+    "name": "Island_BirdCry_06",
+    "sourceName": "Island_BirdCry_06",
+    "asset": "CAB-50951c2b0674e7344aa3feb0dc94cb6d",
+    "id": -1115198820,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "BirdCry_04",
+    "bytes": 7571
+  },
+  {
+    "name": "CentralCity_PaperRustle1",
+    "sourceName": "CentralCity_PaperRustle1",
+    "asset": "CAB-30f2227e44956ab0c1edfcc63bfe00ae",
+    "id": -261559516,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "SFX_PaperFloat1",
+    "bytes": 20200
+  },
+  {
+    "name": "CentralCity_PaperRustle6",
+    "sourceName": "CentralCity_PaperRustle6",
+    "asset": "CAB-30f2227e44956ab0c1edfcc63bfe00ae",
+    "id": 1359549068,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "SFX_PaperFloat6",
+    "bytes": 44666
+  },
+  {
+    "name": "Island_BirdCry_04",
+    "sourceName": "Island_BirdCry_04",
+    "asset": "CAB-50951c2b0674e7344aa3feb0dc94cb6d",
+    "id": 447920384,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "BirdCry_02",
+    "bytes": 9016
+  },
+  {
+    "name": "auto_shieldwall_idle",
+    "sourceName": "auto_shieldwall_idle",
+    "asset": "CAB-b56c895e2e0ec1747a5498fc0bbdecd8",
+    "id": -39634534,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "SFX_AutoBaseExt_Shield_04",
+    "bytes": 60156
+  },
+  {
+    "name": "CentralCity_PaperRustle7",
+    "sourceName": "CentralCity_PaperRustle7",
+    "asset": "CAB-30f2227e44956ab0c1edfcc63bfe00ae",
+    "id": -330869412,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "SFX_PaperFloat7",
+    "bytes": 72849
+  },
+  {
+    "name": "CentralCity_PaperRustle2",
+    "sourceName": "CentralCity_PaperRustle2",
+    "asset": "CAB-30f2227e44956ab0c1edfcc63bfe00ae",
+    "id": 67711696,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "SFX_PaperFloat2",
+    "bytes": 18229
+  },
+  {
+    "name": "Island_BirdCry_07",
+    "sourceName": "Island_BirdCry_07",
+    "asset": "CAB-50951c2b0674e7344aa3feb0dc94cb6d",
+    "id": -2029913788,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "BirdCry_05",
+    "bytes": 7536
+  },
+  {
+    "name": "CentralCity_PaperRustle4",
+    "sourceName": "CentralCity_PaperRustle4",
+    "asset": "CAB-30f2227e44956ab0c1edfcc63bfe00ae",
+    "id": 860612159,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "SFX_PaperFloat4",
+    "bytes": 17595
+  },
+  {
+    "name": "HighGrand_CanyonLoop_01",
+    "sourceName": "HighGrand_CanyonLoop_01",
+    "asset": "CAB-f425c9f3060fb424caa704fc08cfb001",
+    "id": -2026401686,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "SFX_AutoBaseExt_CanyonLoop_03",
+    "bytes": 60557
+  },
+  {
+    "name": "auto_groundbridge_loop_01",
+    "sourceName": "auto_groundbridge_loop_01",
+    "asset": "CAB-7bce5d5948eda8a40a9c5e26d9bc6953",
+    "id": 168783677,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "SFX_AutoExt_GroundBridge",
+    "bytes": 42222
+  },
+  {
+    "name": "HighGrand_WindLocalLoop_01",
+    "sourceName": "HighGrand_WindLocalLoop_01",
+    "asset": "CAB-03da99f048fa04646aedc0c588e174d6",
+    "id": 861989273,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "SFX_AutoBaseExt_LocalWindLoop_08",
+    "bytes": 59815
+  },
+  {
+    "name": "HighGrand_Wind_02",
+    "sourceName": "HighGrand_Wind_02",
+    "asset": "CAB-78489c045e6142a46a6c5789b1a2c363",
+    "id": 175189167,
+    "group": "Audio_Ambience_Autobot_Exterior",
+    "owner": "SFX_AutoBaseExt_WindLoop_01",
+    "bytes": 61252
+  }
+]

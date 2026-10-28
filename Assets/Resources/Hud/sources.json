@@ -1,0 +1,266 @@
+[
+  {
+    "name": "Meteor",
+    "atlas": "CAB-2e0e0a005ec51094997f1a338398202a_2114979160",
+    "rectangle": [
+      289,
+      404,
+      110,
+      108
+    ],
+    "sha256": "4443eba7bf7b4bd28f57ee943f798a400929646706a9fc60cdc0872d01eac72b"
+  },
+  {
+    "name": "HUD_ToastPopUp_QueueIcon",
+    "atlas": "CAB-2e0e0a005ec51094997f1a338398202a_2114979160",
+    "rectangle": [
+      289,
+      221,
+      171,
+      40
+    ],
+    "sha256": "5b37399730494e28869b00e5377cf6d698632736611364d66218546191065c76"
+  },
+  {
+    "name": "Terrorcon",
+    "atlas": "CAB-2e0e0a005ec51094997f1a338398202a_2114979160",
+    "rectangle": [
+      400,
+      395,
+      90,
+      117
+    ],
+    "sha256": "76d1c6ff44773f1f3f817bba490f02e8df6fa6e7cd31aff65ac425d2a9983f6d"
+  },
+  {
+    "name": "Hangar_Button_Highlight",
+    "atlas": "CAB-5999d7cbb7770844993f548f42208ade_-1278959499",
+    "rectangle": [
+      201,
+      563,
+      30,
+      48
+    ],
+    "sha256": "74886c22a9a2c3b3cedfdf195e88aec297d436b5338a02c7d8095628947900e7"
+  },
+  {
+    "name": "Hangar_Button_Yellow",
+    "atlas": "CAB-5999d7cbb7770844993f548f42208ade_-1278959499",
+    "rectangle": [
+      294,
+      563,
+      30,
+      48
+    ],
+    "sha256": "44f5bdbd83422aa880d46e00a6ed3ebcaf0462632d8f8413139c072814203003"
+  },
+  {
+    "name": "Hangar_Button_Blue",
+    "atlas": "CAB-5999d7cbb7770844993f548f42208ade_-1278959499",
+    "rectangle": [
+      387,
+      563,
+      30,
+      48
+    ],
+    "sha256": "441a2b7261aaa9f94b8f94d5079007fc20b830e50f8a9dfcb75e7977dbb50b3e"
+  },
+  {
+    "name": "Hangar_Button_Black",
+    "atlas": "CAB-5999d7cbb7770844993f548f42208ade_-1278959499",
+    "rectangle": [
+      263,
+      563,
+      30,
+      48
+    ],
+    "sha256": "712869876749bb206fa7803128c4a196895665dcf4c6bf1363f4ad129105ee71"
+  },
+  {
+    "name": "Close",
+    "atlas": "CAB-5999d7cbb7770844993f548f42208ade_-1278959499",
+    "rectangle": [
+      151,
+      687,
+      68,
+      67
+    ],
+    "sha256": "6b5dd32f4fc52ea405578d9a85bdc1fdc707ab6ccaef3fcfd5785c797b93a1f1"
+  },
+  {
+    "name": "Hangar_Button_Close",
+    "atlas": "CAB-5999d7cbb7770844993f548f42208ade_-1278959499",
+    "rectangle": [
+      284,
+      698,
+      57,
+      56
+    ],
+    "sha256": "bafec9df165d0fe13ec47a4a499f2a0a68e3e1b0c20962848fa44e951e9b2042"
+  },
+  {
+    "name": "HUD_Radar_BG",
+    "atlas": "CAB-a4b60e0156d02d64f8544b3c17e11320_-2084032429",
+    "rectangle": [
+      0,
+      318,
+      347,
+      341
+    ],
+    "sha256": "9cb7e5d34c09f1bb59605c956326f233b5e05aa71ad9d6bfcdd68b1d65fe82a3"
+  },
+  {
+    "name": "HUD_Radar_Triangle",
+    "atlas": "CAB-a4b60e0156d02d64f8544b3c17e11320_-2084032429",
+    "rectangle": [
+      368,
+      992,
+      30,
+      32
+    ],
+    "sha256": "46ce1611fcf1b618237f5f049ad3fa9833aba11f2c21a058e5d87b110eaac825"
+  },
+  {
+    "name": "HUD_Radar_Player",
+    "atlas": "CAB-a4b60e0156d02d64f8544b3c17e11320_-2084032429",
+    "rectangle": [
+      399,
+      993,
+      29,
+      31
+    ],
+    "sha256": "102bfde220208baee95321030bb5a9206af4ea0efeabf232418df29b384bd2e5"
+  },
+  {
+    "name": "HUD_Radar_Overlay",
+    "atlas": "CAB-a4b60e0156d02d64f8544b3c17e11320_-2084032429",
+    "rectangle": [
+      0,
+      660,
+      367,
+      364
+    ],
+    "sha256": "1590af2e28742d543006ba1a320440f7a401ecfb02ac01d78ed224d36820109b"
+  },
+  {
+    "name": "HUD_Currency_Raw",
+    "atlas": "CAB-acdb49512479059000e77392f10f4e08_-2075529489",
+    "rectangle": [
+      757,
+      258,
+      24,
+      25
+    ],
+    "sha256": "a0027390c4b0be7fff76ebf0ae9b0daee0ac490ac622e6c672ff8cf7f683e8db"
+  },
+  {
+    "name": "HUD_Currency_Refined",
+    "atlas": "CAB-acdb49512479059000e77392f10f4e08_-2075529489",
+    "rectangle": [
+      757,
+      284,
+      26,
+      26
+    ],
+    "sha256": "aaa55736c1d9ec2dc7361c271d9c0e526a2f2b173a5c909a97fd5fa969e184de"
+  },
+  {
+    "name": "HUD_Currency_Relic",
+    "atlas": "CAB-acdb49512479059000e77392f10f4e08_-2075529489",
+    "rectangle": [
+      757,
+      238,
+      18,
+      19
+    ],
+    "sha256": "3404796cf6e9fd5a1269523f427a5ca993070365d9e9ca04dec38884c9408fe0"
+  },
+  {
+    "name": "Social_Icon_GroupLeader",
+    "atlas": "CAB-b231d9eb4a8ed50012ab5bfe5266c3c6_-2040439340",
+    "rectangle": [
+      993,
+      442,
+      28,
+      29
+    ],
+    "sha256": "1f1f1b124265323d56d6c43ee31e3bac002b997642fca3649906692133acfae8"
+  },
+  {
+    "name": "Social_Button_AddtoGroup",
+    "atlas": "CAB-b231d9eb4a8ed50012ab5bfe5266c3c6_-2040439340",
+    "rectangle": [
+      200,
+      95,
+      45,
+      39
+    ],
+    "sha256": "fe9f02e58617138576cc170944c94b1b74877a78c888920c1ca53d63002e959a"
+  },
+  {
+    "name": "Social_Chat_Button_Enter",
+    "atlas": "CAB-b231d9eb4a8ed50012ab5bfe5266c3c6_-2040439340",
+    "rectangle": [
+      246,
+      56,
+      39,
+      39
+    ],
+    "sha256": "b87c04cf151af7e611f17ef3c66b2bf2011ecf1b84b9328ca093a40d6bdccc2e"
+  },
+  {
+    "name": "Social_Button_Message",
+    "atlas": "CAB-b231d9eb4a8ed50012ab5bfe5266c3c6_-2040439340",
+    "rectangle": [
+      323,
+      62,
+      37,
+      33
+    ],
+    "sha256": "39fe06d816b30e95cc4ea405faff731d1a779e94338922f8ce6933257b8f3dac"
+  },
+  {
+    "name": "Social_TextBox",
+    "atlas": "CAB-b231d9eb4a8ed50012ab5bfe5266c3c6_-2040439340",
+    "rectangle": [
+      26,
+      7,
+      25,
+      23
+    ],
+    "sha256": "50741cb4904960b7d1efb2a27c209c82f5819e6ff68e6d910335ef3015a3f921"
+  },
+  {
+    "name": "Social_PanelBGFull",
+    "atlas": "CAB-b231d9eb4a8ed50012ab5bfe5266c3c6_-2040439340",
+    "rectangle": [
+      395,
+      176,
+      194,
+      190
+    ],
+    "sha256": "ecdc397b5fba444233bd6ea76f65a2e833300b1f90104e5ddd9a56dd7d4ea07a"
+  },
+  {
+    "name": "HUD_HealthBar",
+    "atlas": "CAB-c6a446ce92a1b370d2b807249b1d20d3_1436761479",
+    "rectangle": [
+      944,
+      1477,
+      368,
+      22
+    ],
+    "sha256": "6443922adcfc5f85d85b1ba2a8d2c0b5ebc5b6ff2b5ae08907955643fabcbebe"
+  },
+  {
+    "name": "HUD_HealthShieldBar_BG",
+    "atlas": "CAB-c6a446ce92a1b370d2b807249b1d20d3_1436761479",
+    "rectangle": [
+      610,
+      1913,
+      42,
+      14
+    ],
+    "sha256": "6d7ee0836a2fd01a5d5fefe42a98e24b71c29b69f7853858278b290b4a0116ef"
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "stats": {
+    "autobot-city.tupack": {
+      "vertices": 310031,
+      "triangles": 229819,
+      "meshes": 537,
+      "nodes": 2233,
+      "animations": [],
+      "source": "work\\v19-map-export\\autobot_exterior_tutorial\\map-compact.gltf",
+      "sha256": "267df25de2cab255b328703c5945a7a2d996aa00705a67888fd4e32b912835ae"
+    }
+  },
+  "sourceSigns": [
+    {
+      "text": "HANGAR UPLINK",
+      "position": {
+        "x": -67.90000142914053,
+        "y": 34.48000152409077,
+        "z": -2.379999823987448
+      },
+      "worldWidth": 20.480002293905834,
+      "worldHeight": 4.959999889135361
+    },
+    {
+      "text": "BATTLE SIMULATOR",
+      "position": {
+        "x": -37.719999983906746,
+        "y": 34.48000152409077,
+        "z": -25.899999618530273
+      },
+      "worldWidth": 20.479999542236328,
+      "worldHeight": 4.959999889135361
+    },
+    {
+      "text": "HIGH GRAND",
+      "position": {
+        "x": 44.23263152111449,
+        "y": 37.679998472332954,
+        "z": -47.343277815959276
+      },
+      "worldWidth": 20.47999989027679,
+      "worldHeight": 4.959999889135361
+    }
+  ],
+  "parkedVehicles": 23,
+  "sourceMinimapFit": [
+    [
+      -0.0009999999975614344,
+      -3.2584133085302025e-10
+    ],
+    [
+      3.258412770829576e-10,
+      -0.0009999999975615617
+    ],
+    [
+      -0.039499829818057615,
+      -0.017000174124329928
+    ]
+  ],
+  "sourceMinimapMaxError": 1.2246116787295591e-08
+}

@@ -1,0 +1,3 @@
+All runtime and Editor scripts compile against installed Unity 6000.6.7f1 with no warnings.
+Compiler exit 0
+This does not verify shaders or native gameplay.

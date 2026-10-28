@@ -1,0 +1,99 @@
+{
+  "version": "Unity v12",
+  "rootCause": "v11 omitted original TerrainData, its surface layers and terrain collider",
+  "sourceTerrainAsset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+  "sourceTerrainObject": 594746225,
+  "sourceHeightSHA256": "3f9bb6be414adb4d7402aef9d139d6645650face2b5040e46cb916a6ff02cbee",
+  "heightResolution": [
+    1025,
+    1025
+  ],
+  "terrainSizeMetres": [
+    1024,
+    256,
+    1024
+  ],
+  "sourceHeightRangeMetres": [
+    28.383678701132236,
+    95.72948393200475
+  ],
+  "heightConversionMaxErrorMetres": 3.754974386538379e-06,
+  "surfaceLayers": 8,
+  "weightMapResolution": [
+    1024,
+    1024
+  ],
+  "weightNormalizationMaxError": 1.7881393432617188e-07,
+  "groundCoverageSamplesPassed": 1089,
+  "sampleSourceFloors": [
+    {
+      "worldX": -50.07806396484375,
+      "worldZ": -93,
+      "sourceFloorY": 40.368419446394235
+    },
+    {
+      "worldX": -600.0780639648438,
+      "worldZ": -100,
+      "sourceFloorY": 40.321543015839104
+    },
+    {
+      "worldX": -512.0780639648438,
+      "worldZ": -492,
+      "sourceFloorY": 60.18933683278909
+    },
+    {
+      "worldX": -900.0780639648438,
+      "worldZ": -900,
+      "sourceFloorY": 85.93230994598224
+    },
+    {
+      "worldX": -862.0780639648438,
+      "worldZ": -856,
+      "sourceFloorY": 78.94772179326762
+    }
+  ],
+  "nativeTerrainColliderCreatedByCode": true,
+  "terrainPhysicsModulesIncluded": true,
+  "additionalSourceBuildingInstances": 19,
+  "repairedUvVertices": 6,
+  "uvRepair": "Only nonfinite UV components replaced using original finite UVs at coincident source vertices, prioritizing matching normals; exact historical seam mapping unconfirmed",
+  "energonLiftOriginalTextures": [
+    {
+      "property": "_Emissive",
+      "file": "Emissive.png",
+      "scale": {
+        "x": 100,
+        "y": 200
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "asset": "CAB-bef882371e36a68df7d471b813d6be20",
+      "id": -1411073272,
+      "name": "VFX_Glow_Bright_DiffA"
+    },
+    {
+      "property": "_Normal",
+      "file": "Normal.png",
+      "scale": {
+        "x": 0.30000001192092896,
+        "y": 0.30000001192092896
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "asset": "CAB-cb08dfca4e709108d8ca06e753af79c4",
+      "id": -1270984763,
+      "name": "VFX_Misc_RingShape_NML"
+    }
+  ],
+  "energonLiftMaterial": "Reconstructed Unity 6 refraction/Fresnel shader using original archived inputs; not an exact recovered legacy shader",
+  "existingHangarAndExteriorPacksUnchanged": true,
+  "remainingMissingBuiltInRendererReferences": 707,
+  "nativeTerrainCollisionVerified": false,
+  "nativeAppearanceVerified": false,
+  "startupChecks": 24,
+  "csharpCompilation": "passed, no warnings"
+}

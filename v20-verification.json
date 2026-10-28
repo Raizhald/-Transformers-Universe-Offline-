@@ -1,0 +1,40 @@
+{
+  "version": "Unity v20",
+  "sharedCityRoute": true,
+  "sharedCitySpawn": {
+    "x": -861.933,
+    "y": 81.05,
+    "z": -855.682
+  },
+  "sharedCityMapBounds": {
+    "x": -1018.5679148051383,
+    "y": -1004.3744333598258,
+    "z": 1000.0000874227767,
+    "w": 1000.0000874227767
+  },
+  "tutorialCityNotLoaded": true,
+  "safeHangarReturn": [
+    -79.46286,
+    14.36509,
+    -3.245
+  ],
+  "oldTrenchReturn": [
+    61.26624,
+    14.36509,
+    -68.21626
+  ],
+  "returnFootprintSamples": 33,
+  "returnFloorY": 14.285090446472168,
+  "visibleFloorUnderlays": 16,
+  "sourceFloorUnderlayArea": 25343.033602457603,
+  "floorDiffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_-940590516.png",
+  "originalSharedCityFilesUnchanged": 240,
+  "compile": "passed, no warnings",
+  "startupChecks": 36,
+  "nativeCheckProvided": true,
+  "nativeCheckExecuted": false,
+  "capsuleAxisSamples": 39,
+  "capsuleMeshClearanceLowerBound": 0.7649999999999991,
+  "requiredCapsuleRadiusWithMargin": 0.725,
+  "nativeBlocker": "Batch editor Licensing IPC connection to LicenseClient-sesta refused; native gameplay test did not run."
+}

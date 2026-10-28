@@ -1,0 +1,22 @@
+{
+  "spawn": {
+    "x": -861.933,
+    "y": 81.05,
+    "z": -855.682
+  },
+  "hangarExit": {
+    "x": -518.9631,
+    "y": 148,
+    "z": -324
+  },
+  "mapBounds": {
+    "x": -1018.5679148051383,
+    "y": -1004.3744333598258,
+    "z": 1000.0000874227767,
+    "w": 1000.0000874227767
+  },
+  "floorAtSpawn": 80.83,
+  "name": "DECEPTICON EXTERIOR",
+  "sourceScene": "BuildPlayer-Decepticon_Exterior",
+  "centralCityIdentityConfirmed": false
+}

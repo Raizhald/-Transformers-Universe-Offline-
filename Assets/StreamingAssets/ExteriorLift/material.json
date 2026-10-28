@@ -1,0 +1,66 @@
+{
+  "name": "VFX_Gameplay_EnergonLift_Tunnel01_CS",
+  "sourceAsset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+  "sourceId": 1775906089,
+  "textures": [
+    {
+      "property": "_Emissive",
+      "file": "Emissive.png",
+      "scale": {
+        "x": 100,
+        "y": 200
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "asset": "CAB-bef882371e36a68df7d471b813d6be20",
+      "id": -1411073272,
+      "name": "VFX_Glow_Bright_DiffA"
+    },
+    {
+      "property": "_Normal",
+      "file": "Normal.png",
+      "scale": {
+        "x": 0.30000001192092896,
+        "y": 0.30000001192092896
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "asset": "CAB-cb08dfca4e709108d8ca06e753af79c4",
+      "id": -1270984763,
+      "name": "VFX_Misc_RingShape_NML"
+    }
+  ],
+  "values": {
+    "_DistortionPower": 0.05223880708217621,
+    "_FresnelPower": 2.563283681869507,
+    "_Gloss": 0.7014925479888916,
+    "_Color": {
+      "r": 1,
+      "g": 1,
+      "b": 1,
+      "a": 1
+    },
+    "_EmissiveColor": {
+      "r": 0.16417908668518066,
+      "g": 0,
+      "b": 0,
+      "a": 0.9098039269447327
+    },
+    "_FresnelColor": {
+      "r": 0.8059701323509216,
+      "g": 0,
+      "b": 0,
+      "a": 1
+    },
+    "_Spec": {
+      "r": 0.42286813259124756,
+      "g": 0,
+      "b": 0.8283581733703613,
+      "a": 1
+    }
+  }
+}

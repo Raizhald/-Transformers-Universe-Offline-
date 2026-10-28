@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Wind_HollowShot_03",
+    "sourceName": "Wind_HollowShot_03",
+    "asset": "CAB-Audio_Ambience_Decepticon_Exterior",
+    "id": -2147277385,
+    "group": "Audio_Ambience_Decepticon_Exterior",
+    "owner": "direct",
+    "bytes": 44990
+  },
+  {
+    "name": "fire_burning_loop_01",
+    "sourceName": "fire_burning_loop_01",
+    "asset": "CAB-5c1f40e5815dec60c0d5ea8516323433",
+    "id": 385726889,
+    "group": "Audio_Ambience_Decepticon_Exterior",
+    "owner": "SFX_DecepBaseExt_LargeFire_01",
+    "bytes": 31453
+  },
+  {
+    "name": "fireplant_MiddleRumble_01",
+    "sourceName": "fireplant_MiddleRumble_01",
+    "asset": "CAB-f9991f2ea70b1cb4f914f81964a9aa1d",
+    "id": -867759904,
+    "group": "Audio_Ambience_Decepticon_Exterior",
+    "owner": "SFX_DecepBaseExt_LargeFireRumble_01",
+    "bytes": 39587
+  },
+  {
+    "name": "leviathan_centralcityblast_03",
+    "sourceName": "leviathan_centralcityblast_03",
+    "asset": "CAB-Audio_Ambience_Decepticon_Exterior",
+    "id": -1291131221,
+    "group": "Audio_Ambience_Decepticon_Exterior",
+    "owner": "direct",
+    "bytes": 63842
+  },
+  {
+    "name": "HighGrand_Wind_02",
+    "sourceName": "HighGrand_Wind_02",
+    "asset": "CAB-5c1f40e5815dec60c0d5ea8516323433",
+    "id": 175189167,
+    "group": "Audio_Ambience_Decepticon_Exterior",
+    "owner": "SFX_DecepBaseExt_Wind_01",
+    "bytes": 25505
+  },
+  {
+    "name": "Wind_HollowLoop_01",
+    "sourceName": "Wind_HollowLoop_01",
+    "asset": "CAB-f9991f2ea70b1cb4f914f81964a9aa1d",
+    "id": -973505722,
+    "group": "Audio_Ambience_Decepticon_Exterior",
+    "owner": "SFX_DecepBaseExt_HollowLoop_01",
+    "bytes": 24598
+  }
+]

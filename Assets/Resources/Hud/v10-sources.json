@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Social_Chat_Button_Enter",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      548,
+      86,
+      37,
+      37
+    ]
+  },
+  {
+    "name": "Social_PanelBG",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      320,
+      227,
+      80,
+      54
+    ]
+  },
+  {
+    "name": "Social_TextBox",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      685,
+      323,
+      25,
+      23
+    ]
+  },
+  {
+    "name": "Chat_Close",
+    "source": "FrontEnd/Hangar_Button_Close.png; recovered cyan close button",
+    "assetRecord": "FrontEnd/v7-sources.json"
+  }
+]

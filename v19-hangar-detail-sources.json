@@ -1,0 +1,14 @@
+{
+  "sourceScene": "generated_bundles/3952647920/Autobot_Interior.unity3d",
+  "portalPrefabAsset": "CAB-2c6999107c41400d74a6c15bcff03bb1",
+  "portalPrefabObject": 1471961049,
+  "portalSpawnGameObject": 704,
+  "portalSourceLogicObject": 10706,
+  "signLabelObjects": [
+    10661,
+    10716,
+    10814
+  ],
+  "sourceMaterialRecords": 92,
+  "originalVertexColorMeshCount": 639
+}

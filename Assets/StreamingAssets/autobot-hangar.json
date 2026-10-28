@@ -1,0 +1,7146 @@
+{
+  "materials": [
+    {
+      "name": "FactionWarfareAuto01",
+      "shader": "Alpha-VertexLit",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.699999988079071,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-dfbbe87adc12a9a4aad44347b3b55572_662488773.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "ConeLampGlow_Diff",
+      "shader": "Particle Add",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.250980406999588,
+        "g": 0.250980406999588,
+        "b": 0.250980406999588,
+        "a": 0.501960813999176
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-afa850dfcaa601c1ed3c9beb58a04357_-1460131338.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_InteriorTUNNEL_WallPipes_Diff",
+      "shader": "Reflect-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.10057199746370316,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_-172176467.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_InteriorTUNNEL_Barriers_Diff",
+      "shader": "Normal-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.078125,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_-448838963.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_InteriorTUNNEL_TunnelWall_Diff",
+      "shader": "Normal-Glossy",
+      "color": {
+        "r": 0.7441608905792236,
+        "g": 0.8042566180229187,
+        "b": 0.8161764740943909,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.16417443752288818,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_-523165359.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Props_Civilian_SafetyBarrier_A_Diff",
+      "shader": "Normal-Glossy",
+      "color": {
+        "r": 0.4941176474094391,
+        "g": 0.4782596826553345,
+        "b": 0.4437370300292969,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.5012281537055969,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-d9318fdfbc1ced60d00ae9df94b35d8a_-2143024679.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_Gantries_diff",
+      "shader": "Reflect-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.07235975563526154,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_1606647822.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_Gantries_RedAlpha_diff",
+      "shader": "AlphaTest-Glossy",
+      "color": {
+        "r": 0.6078431606292725,
+        "g": 0.6078431606292725,
+        "b": 0.6078431606292725,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.078125,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-b40f9480cce1b18000235f2bfc565914_-1918722820.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASE_MetalTile01_Diff",
+      "shader": "Reflect-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.45093077421188354,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_1602878080.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_AutobotBase_FluffCrates_Diff",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.9582171440124512,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.1410667449235916,
+      "reflectivity": 0.8653846383094788,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "toneB": {
+        "r": 0,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-afa850dfcaa601c1ed3c9beb58a04357_-1817213192.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-afa850dfcaa601c1ed3c9beb58a04357_-1116584438.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASE_Gateway01_Diff",
+      "shader": "Illumin-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.06418459862470627,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_837487163.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "illumFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_2144606996.png",
+      "illumFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "illumFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASE_MetalTile03_Diff",
+      "shader": "Normal-Glossy",
+      "color": {
+        "r": 0.9411764740943909,
+        "g": 0.980527400970459,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.12589988112449646,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_-200303429.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASE_Walls",
+      "shader": "Reflect-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.4849563241004944,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_-1222197728.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASE_Alphas_DiffM",
+      "shader": "AlphaTest-Glossy",
+      "color": {
+        "r": 0.615686297416687,
+        "g": 0.615686297416687,
+        "b": 0.615686297416687,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.16693690419197083,
+      "reflectivity": 0,
+      "cutoff": 0.28673937916755676,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-b40f9480cce1b18000235f2bfc565914_-2113117377.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASE_MetalTile05_Diff",
+      "shader": "Reflect-Glossy",
+      "color": {
+        "r": 0.9411764740943909,
+        "g": 0.980527400970459,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.07448657602071762,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_1946718752.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASE_MetalTile04_Diff",
+      "shader": "Normal-Glossy",
+      "color": {
+        "r": 0.9411764740943909,
+        "g": 0.980527400970459,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.12822112441062927,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_1542806765.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASETextures_Rock_DIFF",
+      "shader": "Reflect-BumpSpec",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.40061134099960327,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_1362891375.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "normalFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_-286030314.png",
+      "normalFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "normalFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASE_ConcreteTile01_Diff",
+      "shader": "Normal-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.5072508454322815,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_-1378221212.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "ConExtGlow01",
+      "shader": "Particle Add",
+      "color": {
+        "r": 0.41960784792900085,
+        "g": 0.4156862795352936,
+        "b": 0.5137255191802979,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.05839099735021591,
+        "g": 0.14004886150360107,
+        "b": 0.22058820724487305,
+        "a": 0.501960813999176
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-afa850dfcaa601c1ed3c9beb58a04357_834537821.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Props_Military_BarrelStacks_B_Diff",
+      "shader": "Reflect-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.06752713024616241,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-3c813f883c3fa1b0133f0b7eeba9061a_1743224469.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "LevelDesign_Gameplay_GroundBridges_Earthbridge_CON",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0.5961003303527832,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.13747873902320862,
+      "reflectivity": 1,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "toneB": {
+        "r": 0,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-dfbbe87adc12a9a4aad44347b3b55572_435332623.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-dfbbe87adc12a9a4aad44347b3b55572_-459670631.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Props_Civilian_Urban_PROPSStreetKits01_DiffA",
+      "shader": "Normal-Diffuse",
+      "color": {
+        "r": 0.8529411554336548,
+        "g": 0.8529411554336548,
+        "b": 0.8529411554336548,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-3c9cd0b6c44e8120a782f0dcc6b23713_-978481503.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "PointGlowEffect01_DifF",
+      "shader": "Particle Add",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.2301422655582428,
+        "g": 0.2679807245731354,
+        "b": 0.2862745225429535,
+        "a": 0.501960813999176
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_126835735.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_CybertronianAttachments_BOT_Diff",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.9582171440124512,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.10836707055568695,
+      "reflectivity": 1,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "toneB": {
+        "r": 0,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-b40f9480cce1b18000235f2bfc565914_1937024584.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-b40f9480cce1b18000235f2bfc565914_-627430019.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_CybertronianAttachments_Pipe_DiffM",
+      "shader": "AlphaTest-Diffuse",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-b40f9480cce1b18000235f2bfc565914_-444389723.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_CybertronianAttachments_ScrollingEffects_Diff",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0.498039186000824,
+        "g": 0.9790266156196594,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 1,
+      "reflectivity": 0.2884615361690521,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "toneB": {
+        "r": 0,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-b40f9480cce1b18000235f2bfc565914_-1641848958.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-b40f9480cce1b18000235f2bfc565914_-1533070803.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASE_TarmacPuddle01",
+      "shader": "Reflect-Glossy-AlphaTest_CustomCubemap",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.565336287021637,
+      "reflectivity": 0,
+      "cutoff": 0.014925369992852211,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_-941183887.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASE_Walls_ExtraShine",
+      "shader": "Reflect-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.07926743477582932,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_-1222197728.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_[GenericTextures]_BlackGradientStraight_Diff",
+      "shader": "Alpha-Diffuse",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_-263835390.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "CrashSite_Collision_Texture",
+      "shader": "Alpha-Diffuse",
+      "color": {
+        "r": 1,
+        "g": 0,
+        "b": 0,
+        "a": 0.501960813999176
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025
+    },
+    {
+      "name": "LevelDesign_Gameplay_ShieldProjectors_A_Diff",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.9582171440124512,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.221093088388443,
+      "reflectivity": 0.5134902596473694,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "toneB": {
+        "r": 0,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-d05d2463579ffab4ebe8c9774fba0169_-1488497834.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-d05d2463579ffab4ebe8c9774fba0169_476387644.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASE_Alpha_DiffM",
+      "shader": "AlphaTest-Diffuse",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_823514256.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "LevelDesign_Gameplay_Turrets_TurretAutobot_Diff",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 0.6764705777168274,
+        "g": 0.6764705777168274,
+        "b": 0.6764705777168274,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.9582171440124512,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.392278790473938,
+      "reflectivity": 0.08955223858356476,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 0,
+        "g": 0.10588235408067703,
+        "b": 0.8941176533699036,
+        "a": 0.9529411792755127
+      },
+      "toneB": {
+        "r": 0,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-0855e1a85789eda4bb32779fba9e02f0_769055807.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-0855e1a85789eda4bb32779fba9e02f0_-573147018.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_BOTAttachments_PipesClutter_Diff",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.9582171440124512,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.1410667449235916,
+      "reflectivity": 0.8653846383094788,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "toneB": {
+        "r": 0,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-201a2d9a952842347836484091fdef23_-37975039.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-201a2d9a952842347836484091fdef23_978624637.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "VFX_Gameplay_ForceFieldBarriers_ProjectionRayBOT01_CS",
+      "shader": "Particle Add",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0,
+        "g": 0.7931032180786133,
+        "b": 1,
+        "a": 1
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.5804195404052734,
+        "b": 1,
+        "a": 0.250980406999588
+      },
+      "scale": {
+        "x": 10,
+        "y": 1
+      },
+      "offset": {
+        "x": 0.30000001192092896,
+        "y": 0.30000001192092896
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 0.11812207102775574,
+        "g": 0.273690789937973,
+        "b": 0.753731369972229,
+        "a": 1
+      },
+      "fresnelPower": 1.6417911052703857,
+      "distortionPower": 0.05000000074505806,
+      "diffuseFile": "AutobotTextures/CAB-e356408ddfbdb5d0a0eb267d7744c05d_-1081116814.png",
+      "diffuseFileScale": {
+        "x": 10,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0.30000001192092896,
+        "y": 0.30000001192092896
+      }
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_GlobemapAutobot_Rays",
+      "shader": "Particle Add",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0,
+        "g": 0.47259822487831116,
+        "b": 0.501960813999176,
+        "a": 0.5098039507865906
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1000,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-e356408ddfbdb5d0a0eb267d7744c05d_-915958139.png",
+      "diffuseFileScale": {
+        "x": 1000,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_Piping01",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 0.8117647171020508,
+        "g": 0.9071931838989258,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.7847466468811035,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.022344451397657394,
+      "reflectivity": 0.5192307829856873,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-47e657f9a1aef3943b166f72749f7e1c_1062622779.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-47e657f9a1aef3943b166f72749f7e1c_-1214342303.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Props_Military_MilitaryCrates_MilitaryCratesC_Diff",
+      "shader": "Reflect-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.08203358948230743,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-906b61fc30f459748bd9191d82834f92_1632557913.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "LevelDesign_Gameplay_EnergonCleansers_CleanserBOT_Diff",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.9916434288024902,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.14709711074829102,
+      "reflectivity": 0.692307710647583,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "toneB": {
+        "r": 0,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-f4715dd7ebc1fd63253b38672aecfd2a_1892969196.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-f4715dd7ebc1fd63253b38672aecfd2a_1367558107.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Decals_Floorgrill01_Diff",
+      "shader": "Alpha-Diffuse",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 1,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_1828578283.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_InteriorTUNNEL_FloorMesh_DiffM",
+      "shader": "AlphaTest-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.078125,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_576998831.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "LevelDesign_Gameplay_GroundBridges_Earthbridge_BOT",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.9582171440124512,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.078125,
+      "reflectivity": 1,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "toneB": {
+        "r": 0,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-dfbbe87adc12a9a4aad44347b3b55572_435332623.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-dfbbe87adc12a9a4aad44347b3b55572_-459670631.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_AutobotBase_EarthbridgeGlass_DiffA",
+      "shader": "Alpha-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2803274691104889,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-dfbbe87adc12a9a4aad44347b3b55572_-1401920024.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_BotSelectionBG01_Diff",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 0.3883737027645111,
+        "g": 0.44757598638534546,
+        "b": 0.47843137383461,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.7847466468811035,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.03223331272602081,
+      "reflectivity": 0.4958791136741638,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_-1236892733.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_-1772349745.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MissileAssembly_MissileTiling_Diff",
+      "shader": "Reflect-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.44247153401374817,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_77153263.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Props_Military_MilitaryCrates_MilitaryCratesA_Diff",
+      "shader": "Reflect-Glossy",
+      "color": {
+        "r": 0.6078431606292725,
+        "g": 0.6078431606292725,
+        "b": 0.6078431606292725,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.02525063045322895,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-d9318fdfbc1ced60d00ae9df94b35d8a_1001105922.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "LevelDesign_Gameplay_ShieldBarriers_AutobotShieldGenerator_Diff",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0.30882352590560913,
+        "g": 0.7631903290748596,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.1616421341896057,
+      "reflectivity": 0.7611939907073975,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "toneB": {
+        "r": 0,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-d9318fdfbc1ced60d00ae9df94b35d8a_753892501.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-d9318fdfbc1ced60d00ae9df94b35d8a_-1049564067.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Font Material",
+      "shader": "",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_InteriorTUNNEL_RoadMarksBase",
+      "shader": "AlphaTest-Glossy",
+      "color": {
+        "r": 0.7867647409439087,
+        "g": 0.7867647409439087,
+        "b": 0.7867647409439087,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.13509969413280487,
+      "reflectivity": 0,
+      "cutoff": 0.48507463932037354,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-d9318fdfbc1ced60d00ae9df94b35d8a_-1918046175.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_InteractiveConsoleBOT_Machine_Diff",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.9582171440124512,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.078125,
+      "reflectivity": 0.7910447716712952,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "toneB": {
+        "r": 0,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-59e2c46dc9ef16e020fac0eba2062b3f_-1613358295.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-59e2c46dc9ef16e020fac0eba2062b3f_1763624425.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_InteractiveConsoleBOT_Screen_DiffA",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 0.7529411911964417
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0.498039186000824,
+        "g": 0.9790266156196594,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.009999999776482582,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "toneB": {
+        "r": 0,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-59e2c46dc9ef16e020fac0eba2062b3f_1908035872.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-59e2c46dc9ef16e020fac0eba2062b3f_-885635999.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASE_MetalTile02_Diff",
+      "shader": "Reflect-Glossy",
+      "color": {
+        "r": 0.9411764740943909,
+        "g": 0.980527400970459,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.31434494256973267,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_-1036584529.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Default-Diffuse",
+      "shader": "Normal-Diffuse",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 0.5
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_Gatewaysides_diff",
+      "shader": "Normal-Diffuse",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_1660820724.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Decals_TarmacGrime01_DiffA",
+      "shader": "Mobile-Particle-Multiply",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.24264705181121826,
+        "g": 0.24264705181121826,
+        "b": 0.24264705181121826,
+        "a": 0.501960813999176
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-906b61fc30f459748bd9191d82834f92_512080525.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "BLACK",
+      "shader": "Illumin-Diffuse",
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025
+    },
+    {
+      "name": "CubemapTest",
+      "shader": "CubemapDebug",
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.4203808903694153,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025
+    },
+    {
+      "name": "Libraries_Props_Military_MilitaryCrates_MilitaryCratesB_Diff",
+      "shader": "Reflect-Glossy",
+      "color": {
+        "r": 0.5529412031173706,
+        "g": 0.5529412031173706,
+        "b": 0.5529412031173706,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.17383301258087158,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-906b61fc30f459748bd9191d82834f92_984512903.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MissileAssembly_MissileSilo_Diff",
+      "shader": "Normal-Glossy",
+      "color": {
+        "r": 0.8480430841445923,
+        "g": 0.8706198334693909,
+        "b": 0.886274516582489,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.43032020330429077,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_1513899531.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASE_ConcreteTile01Dark_Diff",
+      "shader": "Normal-Diffuse",
+      "color": {
+        "r": 0.43382352590560913,
+        "g": 0.41787412762641907,
+        "b": 0.41787412762641907,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_-1378221212.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "VFX_Env_AutobotInterior_ProjectionRayBOT01_CS",
+      "shader": "Particle Add",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0,
+        "g": 0.9415042400360107,
+        "b": 1,
+        "a": 1
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.5804195404052734,
+        "b": 1,
+        "a": 0.250980406999588
+      },
+      "scale": {
+        "x": 5,
+        "y": 0.20000000298023224
+      },
+      "offset": {
+        "x": 0.30000001192092896,
+        "y": 0.30000001192092896
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 0.11812207102775574,
+        "g": 0.273690789937973,
+        "b": 0.753731369972229,
+        "a": 1
+      },
+      "fresnelPower": 1.6417911052703857,
+      "distortionPower": 0.05000000074505806,
+      "diffuseFile": "AutobotTextures/CAB-e356408ddfbdb5d0a0eb267d7744c05d_-1081116814.png",
+      "diffuseFileScale": {
+        "x": 5,
+        "y": 0.20000000298023224
+      },
+      "diffuseFileOffset": {
+        "x": 0.30000001192092896,
+        "y": 0.30000001192092896
+      }
+    },
+    {
+      "name": "VFX_Env_AutobotInterior_HangarShield_CS",
+      "shader": "VFX_Shaders_EmissiveDistortionHighlightIntersectAlphaMask",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.5804195404052734,
+        "b": 1,
+        "a": 0.250980406999588
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 0.21231618523597717,
+        "g": 0.5633790493011475,
+        "b": 0.5661764740943909,
+        "a": 0.6431372761726379
+      },
+      "fresnel": {
+        "r": 0.11812207102775574,
+        "g": 0.273690789937973,
+        "b": 0.753731369972229,
+        "a": 1
+      },
+      "fresnelPower": 1.6417911052703857,
+      "distortionPower": 0.05000000074505806,
+      "screenFile": "AutobotTextures/CAB-e356408ddfbdb5d0a0eb267d7744c05d_-1001082995.png",
+      "screenFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "screenFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASE_MetalTile01A_Diff",
+      "shader": "Normal-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.07385148853063583,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_1602878080.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "lambert1",
+      "shader": "Normal-Diffuse",
+      "color": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025
+    },
+    {
+      "name": "Libraries_Vehicles_Military_Forklift_A_Diff",
+      "shader": "Reflect-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.048819344490766525,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-83fdc1ce6bacd550202a6a5d74c3b196_-2011985744.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_BOTplayerSpawnPoints_AutobotSpawn_Diff",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.9582171440124512,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.07504074275493622,
+      "reflectivity": 1,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "toneB": {
+        "r": 0,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_1213032669.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_1238958752.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "ConeLampGlow01CYAN_Diff",
+      "shader": "Particle Add",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0,
+        "g": 0.2867646813392639,
+        "b": 0.27729496359825134,
+        "a": 0.501960813999176
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.699999988079071,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-dfbbe87adc12a9a4aad44347b3b55572_-1896277984.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "ConeLampGlow01WHITE_AUTOBOTINT",
+      "shader": "Particle Add",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.125490203499794,
+        "g": 0.112638920545578,
+        "b": 0.08858131617307663,
+        "a": 0.501960813999176
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-dfbbe87adc12a9a4aad44347b3b55572_-1896277984.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_[GenericTextures]_SkyAutobotInterior_01",
+      "shader": "TransparentBackground",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-dfbbe87adc12a9a4aad44347b3b55572_-1660164176.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "VFX_Env_AutobotInterior_Hologram_Screen01",
+      "shader": "VFX_Shaders_EmissiveDistortionHighlightIntersectAlphaMask",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0.43283581733703613,
+        "g": 0.027241406962275505,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 0.772549033164978,
+        "g": 0.9448795914649963,
+        "b": 1,
+        "a": 0.8705882430076599
+      },
+      "fresnel": {
+        "r": 0.6492537260055542,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "fresnelPower": 0.5769230127334595,
+      "distortionPower": 0.23999999463558197,
+      "screenFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_1146247029.png",
+      "screenFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "screenFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASE_Tarmac01_Diff",
+      "shader": "Normal-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.5374422073364258,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_-940590516.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_GlobemapAutobot_Earth",
+      "shader": "VFX_ScreenAlphaTex",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.04344482719898224,
+        "g": 0.4197569489479065,
+        "b": 0.4431372582912445,
+        "a": 1
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 0,
+        "g": 0.8913648128509521,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 4.800000190734863,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-dfbbe87adc12a9a4aad44347b3b55572_1059202693.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_GlobemapAutobot_EdgeGlow",
+      "shader": "Particle Add",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.18039214611053467,
+        "g": 0.6233000755310059,
+        "b": 1,
+        "a": 1
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-dfbbe87adc12a9a4aad44347b3b55572_132084345.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Props_Military_CamouflageTent_A_Diff",
+      "shader": "AlphaTest-Diffuse",
+      "color": {
+        "r": 0.5254902243614197,
+        "g": 0.5254902243614197,
+        "b": 0.5254902243614197,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.46268656849861145,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-83fdc1ce6bacd550202a6a5d74c3b196_1124652087.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Vehicles_Military_Jeep_A_Diff",
+      "shader": "Reflect-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.048819344490766525,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-d9318fdfbc1ced60d00ae9df94b35d8a_-1497652732.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "VFX_Gameplay_EnergonLift_VRTrainingBOT_CS",
+      "shader": "VFX_Shaders_FresnelRefractionNormalSpec",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0.05147057771682739,
+        "g": 0.03197303041815758,
+        "b": 0.0003784604778047651,
+        "a": 0.9098039269447327
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 0.658823549747467,
+        "b": 0.11764705926179886,
+        "a": 1
+      },
+      "fresnelPower": 2.563283681869507,
+      "distortionPower": 0.014925372786819935,
+      "normalFile": "AutobotTextures/CAB-cb08dfca4e709108d8ca06e753af79c4_-1270984763.png",
+      "normalFileScale": {
+        "x": 0.30000001192092896,
+        "y": 0.30000001192092896
+      },
+      "normalFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "liftFile": "AutobotTextures/CAB-cb08dfca4e709108d8ca06e753af79c4_-1636734135.png",
+      "liftFileScale": {
+        "x": 1,
+        "y": 3
+      },
+      "liftFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "VFX_Gameplay_EnergonLift_VRTrainingBOT_Distortion",
+      "shader": "VFX_Shaders_EmissiveDistortionHighlightIntersectAlphaMask",
+      "color": {
+        "r": 1,
+        "g": 0.46796655654907227,
+        "b": 0,
+        "a": 1
+      },
+      "tint": {
+        "r": 1,
+        "g": 0.36768803000450134,
+        "b": 0,
+        "a": 0.501960813999176
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.078125,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 0.6070465445518494,
+        "b": 0.11029410362243652,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_HangarBase_CON_Diff",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0.5961003303527832,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.078125,
+      "reflectivity": 0.7142857313156128,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-dfbbe87adc12a9a4aad44347b3b55572_1842793536.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-dfbbe87adc12a9a4aad44347b3b55572_-1765065047.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_InteriorTUNNEL_BunkerDoor_Diff",
+      "shader": "Normal-Glossy",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.1568535566329956,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-3c813f883c3fa1b0133f0b7eeba9061a_217244111.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "VFX_Env_AutobotInterior_Hologram_Screen02",
+      "shader": "VFX_Shaders_EmissiveDistortionHighlightIntersectAlphaMask",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0.43283581733703613,
+        "g": 0.027241406962275505,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 0.2,
+        "g": 0.45,
+        "b": 0.5,
+        "a": 0.1
+      },
+      "fresnel": {
+        "r": 0.6492537260055542,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "fresnelPower": 0.5769230127334595,
+      "distortionPower": 0.23999999463558197,
+      "screenFile": "AutobotTextures/CAB-e356408ddfbdb5d0a0eb267d7744c05d_1850071083.png"
+    },
+    {
+      "name": "BlackGradient_Diff",
+      "shader": "Alpha-Diffuse",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_-2066476871.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Props_Military_Base_MilitaryMarkingsThin_DiffA",
+      "shader": "Alpha-Diffuse",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-861204fd88e3c339bff7baa111dc12f4_2068359578.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "VFX_Gameplay_ForceFieldBarriers_ProjectionRayBOT02_CS",
+      "shader": "VFX_Shaders_EmissiveDistortionHighlightIntersectAlphaMask",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0,
+        "g": 0.5804195404052734,
+        "b": 1,
+        "a": 1
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.5804195404052734,
+        "b": 1,
+        "a": 0.250980406999588
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 0.125,
+        "g": 0.8913793563842773,
+        "b": 1,
+        "a": 0.6039215922355652
+      },
+      "fresnel": {
+        "r": 0.11812207102775574,
+        "g": 0.273690789937973,
+        "b": 0.753731369972229,
+        "a": 1
+      },
+      "fresnelPower": 1.6417911052703857,
+      "distortionPower": 7.5,
+      "screenFile": "AutobotTextures/CAB-e356408ddfbdb5d0a0eb267d7744c05d_-7881148.png",
+      "screenFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "screenFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_GlobemapAutobot_Ocean",
+      "shader": "VFX_DoubleEmissiveDistortion",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.18039214611053467,
+        "g": 0.6233000755310059,
+        "b": 1,
+        "a": 1
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.5,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 0
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 0,
+      "distortionPower": 0.025
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Black_Diff",
+      "shader": "Normal-Diffuse",
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-cb08dfca4e709108d8ca06e753af79c4_996092349.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Decals_ChainLinkFence02_DiffM",
+      "shader": "AlphaTest-Diffuse",
+      "color": {
+        "r": 0.720588207244873,
+        "g": 0.720588207244873,
+        "b": 0.720588207244873,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5671641826629639,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-d05d2463579ffab4ebe8c9774fba0169_1611648502.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_BotSelectionBG_MBase",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 0.3883737027645111,
+        "g": 0.44757598638534546,
+        "b": 0.47843137383461,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.7847466468811035,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.0534399040043354,
+      "reflectivity": 0.4642857015132904,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-47e657f9a1aef3943b166f72749f7e1c_-2123220490.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-47e657f9a1aef3943b166f72749f7e1c_1328756157.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "HUD_MiniMap_AutobotInterior",
+      "shader": "Unlit-Alpha",
+      "color": {
+        "r": 0.4776119589805603,
+        "g": 0.4776119589805603,
+        "b": 0.4776119589805603,
+        "a": 0.5568627715110779
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-206d5d3539787c24bb24c8c417eb80c2_1790994095.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_CTFCapPointBOT_Texture_Diff",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.9582171440124512,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.078125,
+      "reflectivity": 1,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-7390f2f518934264f835d3b639f9e6a5_-289835167.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-7390f2f518934264f835d3b639f9e6a5_1187608582.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "ConeLampGlow02WHITE_AUTOBOTINT",
+      "shader": "Particle Add",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.062745101749897,
+        "g": 0.062745101749897,
+        "b": 0.062745101749897,
+        "a": 0.501960813999176
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "toneB": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": false,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-dfbbe87adc12a9a4aad44347b3b55572_-1896277984.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "RigA_A001_Robot01_Diff",
+      "shader": "NewTSurfaceShader",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0.6643357276916504,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 6.9550933837890625,
+      "reflectivity": 0.10000000149011612,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 0.16470588743686676,
+        "g": 0.6000000238418579,
+        "b": 0.9647058844566345,
+        "a": 1
+      },
+      "toneB": {
+        "r": 0.9490196108818054,
+        "g": 0.45490196347236633,
+        "b": 0.0784313753247261,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-408d9ac596a128f4dba5e19d6a31e150_-168701836.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Characters_[Shared]_BuggyTyre03_Diff",
+      "shader": "ReflectiveSpecularMat2",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "tint": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.4960015118122101,
+      "reflectivity": 1,
+      "cutoff": 0.5,
+      "toneA": {
+        "r": 1,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "toneB": {
+        "r": 0,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "useTone": true,
+      "screenTint": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnel": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "fresnelPower": 2,
+      "distortionPower": 0.025,
+      "diffuseFile": "AutobotTextures/CAB-24979a2cdaf3cc6022448a99ffd6a5ff_-773993212.png",
+      "diffuseFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "diffuseFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailFile": "AutobotTextures/CAB-24979a2cdaf3cc6022448a99ffd6a5ff_-282066803.png",
+      "detailFileScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailFileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      }
+    }
+  ],
+  "lights": [
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": 8.85462760925293,
+        "y": 56.06864929199219,
+        "z": 108.20913696289062
+      },
+      "color": {
+        "r": 0.9647058844566345,
+        "g": 0.8936267495155334,
+        "b": 0.6961014866828918,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 6
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": 10.796306610107422,
+        "y": 63.786407470703125,
+        "z": 95.67626953125
+      },
+      "color": {
+        "r": 0.9647058844566345,
+        "g": 0.8936267495155334,
+        "b": 0.6961014866828918,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 4
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": 17.683544158935547,
+        "y": 30.046661376953125,
+        "z": 101.1212158203125
+      },
+      "color": {
+        "r": 0.9647058844566345,
+        "g": 0.8936267495155334,
+        "b": 0.6961014866828918,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 6
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": -5.990024089813232,
+        "y": 82.79925537109375,
+        "z": 141.84364318847656
+      },
+      "color": {
+        "r": 0.9647058844566345,
+        "g": 0.8936267495155334,
+        "b": 0.6961014866828918,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 9.760000228881836
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": 8.658550262451172,
+        "y": 56.06864929199219,
+        "z": 123.65127563476562
+      },
+      "color": {
+        "r": 0.9647058844566345,
+        "g": 0.8936267495155334,
+        "b": 0.6961014866828918,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 6
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": 17.784069061279297,
+        "y": 79.86874389648438,
+        "z": 141.84364318847656
+      },
+      "color": {
+        "r": 0.9647058844566345,
+        "g": 0.8936267495155334,
+        "b": 0.6961014866828918,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 9.760000228881836
+    },
+    {
+      "name": "Screen",
+      "position": {
+        "x": -55.58033752441406,
+        "y": 39.29945373535156,
+        "z": 44.18275451660156
+      },
+      "color": {
+        "r": 0,
+        "g": 0.4823421835899353,
+        "b": 0.5215686559677124,
+        "a": 1
+      },
+      "intensity": 4.010000228881836,
+      "range": 31.860000610351562
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": 27.382930755615234,
+        "y": 22.129287719726562,
+        "z": 89.56686401367188
+      },
+      "color": {
+        "r": 0.9632353186607361,
+        "g": 0.9378355741500854,
+        "b": 0.5949394702911377,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 8
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": -5.990024089813232,
+        "y": 75.35093688964844,
+        "z": 141.84364318847656
+      },
+      "color": {
+        "r": 0.9647058844566345,
+        "g": 0.8936267495155334,
+        "b": 0.6961014866828918,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 9.760000228881836
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": 66.62832641601562,
+        "y": 22.762542724609375,
+        "z": -81.93911743164062
+      },
+      "color": {
+        "r": 0.6985294222831726,
+        "g": 0.9002028107643127,
+        "b": 1,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 30.5
+    },
+    {
+      "name": "HangarB_Spotlight",
+      "position": {
+        "x": -37.42433166503906,
+        "y": 31.497024536132812,
+        "z": -69.69586181640625
+      },
+      "color": {
+        "r": 0.49264705181121826,
+        "g": 0.9569888114929199,
+        "b": 1,
+        "a": 1
+      },
+      "intensity": 2,
+      "range": 30
+    },
+    {
+      "name": "SPOTLIGHT_Rock",
+      "position": {
+        "x": -8.110504150390625,
+        "y": 162.87367248535156,
+        "z": 29.899185180664062
+      },
+      "color": {
+        "r": 1,
+        "g": 0.7968495488166809,
+        "b": 0.6397058963775635,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 200
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": 68.71159362792969,
+        "y": 22.96533203125,
+        "z": -121.30160522460938
+      },
+      "color": {
+        "r": 0.6985294222831726,
+        "g": 0.9002028107643127,
+        "b": 1,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 30.5
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": 5.658153533935547,
+        "y": 69.14718627929688,
+        "z": 141.0320587158203
+      },
+      "color": {
+        "r": 0.9647058844566345,
+        "g": 0.8936267495155334,
+        "b": 0.6961014866828918,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 9.760000228881836
+    },
+    {
+      "name": "SPOTLIGHT_MAIN_ShadowCaster",
+      "position": {
+        "x": -8.043914794921875,
+        "y": 128.88661193847656,
+        "z": 21.830459594726562
+      },
+      "color": {
+        "r": 0.7372549176216125,
+        "g": 0.6039215922355652,
+        "b": 0.43529412150382996,
+        "a": 1
+      },
+      "intensity": 1.5,
+      "range": 500
+    },
+    {
+      "name": "GroundBridge_Pointlight_Cyan",
+      "position": {
+        "x": -15.967422485351562,
+        "y": 33.64637756347656,
+        "z": 119.66122436523438
+      },
+      "color": {
+        "r": 0.17254900932312012,
+        "g": 0.6611831784248352,
+        "b": 1,
+        "a": 1
+      },
+      "intensity": 3,
+      "range": 51.599998474121094
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": 8.883907318115234,
+        "y": 63.873626708984375,
+        "z": 124.05206298828125
+      },
+      "color": {
+        "r": 0.9647058844566345,
+        "g": 0.8936267495155334,
+        "b": 0.6961014866828918,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 9.760000228881836
+    },
+    {
+      "name": "SPOTLIGHT_Building_ShadowCaster",
+      "position": {
+        "x": 1.72821044921875,
+        "y": 138.91725158691406,
+        "z": 66.53118896484375
+      },
+      "color": {
+        "r": 0.7372549176216125,
+        "g": 0.6039215922355652,
+        "b": 0.43529412150382996,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 300
+    },
+    {
+      "name": "HangarA_Spotlight",
+      "position": {
+        "x": -107.17503356933594,
+        "y": 30.770187377929688,
+        "z": -2.178680419921875
+      },
+      "color": {
+        "r": 0.5367647409439087,
+        "g": 1,
+        "b": 0.9808315634727478,
+        "a": 1
+      },
+      "intensity": 3.1600000858306885,
+      "range": 30
+    },
+    {
+      "name": "HangarC_Spotlight",
+      "position": {
+        "x": 81.31334686279297,
+        "y": 35.98481750488281,
+        "z": -2.528594970703125
+      },
+      "color": {
+        "r": 0.49264705181121826,
+        "g": 0.9569888114929199,
+        "b": 1,
+        "a": 1
+      },
+      "intensity": 3,
+      "range": 25
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": 17.27573013305664,
+        "y": 42.19514465332031,
+        "z": 100.69938659667969
+      },
+      "color": {
+        "r": 0.9647058844566345,
+        "g": 0.8936267495155334,
+        "b": 0.6961014866828918,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 6
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": 16.33242416381836,
+        "y": 63.786407470703125,
+        "z": 90.32406616210938
+      },
+      "color": {
+        "r": 0.9647058844566345,
+        "g": 0.8936267495155334,
+        "b": 0.6961014866828918,
+        "a": 1
+      },
+      "intensity": 2,
+      "range": 4
+    },
+    {
+      "name": "Pointlight_Doorway",
+      "position": {
+        "x": -10.112258911132812,
+        "y": 181.5277862548828,
+        "z": 32.98332214355469
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "intensity": 8,
+      "range": 45.599998474121094
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": 8.806743621826172,
+        "y": 63.873626708984375,
+        "z": 104.59652709960938
+      },
+      "color": {
+        "r": 0.9647058844566345,
+        "g": 0.8936267495155334,
+        "b": 0.6961014866828918,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 10.9399995803833
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": 26.208171844482422,
+        "y": 30.046661376953125,
+        "z": 91.59300231933594
+      },
+      "color": {
+        "r": 0.9647058844566345,
+        "g": 0.8936267495155334,
+        "b": 0.6961014866828918,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 6
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": 68.71159362792969,
+        "y": 22.96533203125,
+        "z": -174.73361206054688
+      },
+      "color": {
+        "r": 0.6985294222831726,
+        "g": 0.9002028107643127,
+        "b": 1,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 30.5
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": -5.990024089813232,
+        "y": 63.873626708984375,
+        "z": 141.84364318847656
+      },
+      "color": {
+        "r": 0.9647058844566345,
+        "g": 0.8936267495155334,
+        "b": 0.6961014866828918,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 9.760000228881836
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": 13.060665130615234,
+        "y": 55.98143005371094,
+        "z": 92.5191650390625
+      },
+      "color": {
+        "r": 0.9647058844566345,
+        "g": 0.8936267495155334,
+        "b": 0.6961014866828918,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 10.670000076293945
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": 18.543346405029297,
+        "y": 51.67930603027344,
+        "z": 94.083251953125
+      },
+      "color": {
+        "r": 0.9647058844566345,
+        "g": 0.8936267495155334,
+        "b": 0.6961014866828918,
+        "a": 1
+      },
+      "intensity": 0.6200000047683716,
+      "range": 5.099999904632568
+    }
+  ],
+  "mapBounds": {
+    "x": -157.63341331481934,
+    "y": -200.43154525756836,
+    "z": 279.40534591674805,
+    "w": 355.7027816772461
+  },
+  "spawn": {
+    "x": -79.46286,
+    "y": 14.36509,
+    "z": -3.245
+  },
+  "portal": {
+    "x": -10.88759,
+    "y": 28.6,
+    "z": 107.69558
+  },
+  "audio": [
+    {
+      "name": "generator_idle_01",
+      "position": {
+        "x": -37.216583251953125,
+        "y": 14.5672607421875,
+        "z": -70.185302734375
+      },
+      "volume": 0.12,
+      "range": 40
+    },
+    {
+      "name": "generator_idle_01",
+      "position": {
+        "x": -111.82247924804688,
+        "y": 14.783493041992188,
+        "z": -2.43280029296875
+      },
+      "volume": 0.12,
+      "range": 40
+    },
+    {
+      "name": "BaseAutoInt_WorldMapLoop_01",
+      "position": {
+        "x": -48.6322021484375,
+        "y": 34.08087158203125,
+        "z": 46.47113037109375
+      },
+      "volume": 0.15,
+      "range": 50
+    },
+    {
+      "name": "BaseAutoInt_FactionMapLoop_01",
+      "position": {
+        "x": 29.215087890625,
+        "y": 36.91302490234375,
+        "z": 68.405029296875
+      },
+      "volume": 0.12,
+      "range": 35
+    }
+  ]
+}

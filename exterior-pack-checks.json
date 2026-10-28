@@ -1,0 +1,11 @@
+{
+  "exterior.tupack": {
+    "vertices": 503819,
+    "triangles": 320525,
+    "meshes": 491,
+    "nodes": 10480,
+    "animations": [],
+    "source": "work\\v11-map-export\\decepticon_exterior\\map-unity.gltf",
+    "sha256": "7eaade071ef22f047fd5068085875961e9b776913f8f3aa010f9b23671d91025"
+  }
+}

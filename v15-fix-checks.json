@@ -1,0 +1,22 @@
+{
+  "version": "Unity v15",
+  "robotReturnHandledBeforeVehicleEntryRestrictions": true,
+  "movingOverturnedAndAirborneReturn": "Immediate upright robot with nearby standing-clearance search, or current-area entry fallback",
+  "normalStoppedReturn": "Original animation retained when upright and clear",
+  "steeringDegrees": {
+    "stopped": 34,
+    "15metresPerSecond": 19.6,
+    "25plusMetresPerSecond": 10
+  },
+  "centreOfMassY": 0.25,
+  "axleAntiRollForceFactor": 4500,
+  "sky": "Original cube projected into one 2048x1024 panorama; removed all face SetPixels upload",
+  "panoramaHorizontalWrapMeanByteDifference": 0.3961588541666667,
+  "existingGeometryRigsAndCollisionDataUnchanged": true,
+  "startupChecks": 24,
+  "steeringNumericChecks": 153,
+  "compile": "passed, no warnings",
+  "nativeRecoveryTested": false,
+  "nativeSteeringTested": false,
+  "nativeSkyAppearanceTested": false
+}

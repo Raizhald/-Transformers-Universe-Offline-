@@ -1,0 +1,26 @@
+{
+  "a004-transform.tupack": {
+    "vertices": 24310,
+    "triangles": 14575,
+    "meshes": 8,
+    "nodes": 276,
+    "animations": [
+      "R2V",
+      "V2R",
+      "CarIdle"
+    ],
+    "source": "work\\v14-rig\\transform.gltf",
+    "sha256": "3d5dac2cd86d3c0f7ceb9415135b87c0b2492a669bd9ef751cc37dc07f6630a0"
+  },
+  "a004-car.tupack": {
+    "vertices": 9890,
+    "triangles": 5720,
+    "meshes": 5,
+    "nodes": 157,
+    "animations": [
+      "CarIdle"
+    ],
+    "source": "work\\v14-rig\\car.gltf",
+    "sha256": "4a04bc52da1f850c2940e01e7276797e1768680b0d7d4bc07bcc72f59d2bb849"
+  }
+}

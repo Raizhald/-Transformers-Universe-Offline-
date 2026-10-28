@@ -1,0 +1,62 @@
+[
+  {
+    "mesh": "CrashTowerCommercialLow_00",
+    "vertex": 602,
+    "sourceVertex": 568,
+    "uv": [
+      0.34075164794921875,
+      0.5990175008773804
+    ],
+    "positionDistance": 0
+  },
+  {
+    "mesh": "CrashTowerCommercialLow_00",
+    "vertex": 603,
+    "sourceVertex": 595,
+    "uv": [
+      0.34747791290283203,
+      0.6830959320068359
+    ],
+    "positionDistance": 0
+  },
+  {
+    "mesh": "CrashTowerCommercialLow_00",
+    "vertex": 604,
+    "sourceVertex": 619,
+    "uv": [
+      0.33907485008239746,
+      0.7177739143371582
+    ],
+    "positionDistance": 0
+  },
+  {
+    "mesh": "CrashTowerCommercialLow_00",
+    "vertex": 605,
+    "sourceVertex": 595,
+    "uv": [
+      0.34747791290283203,
+      0.6830959320068359
+    ],
+    "positionDistance": 0
+  },
+  {
+    "mesh": "CrashTowerCommercialLow_00",
+    "vertex": 606,
+    "sourceVertex": 568,
+    "uv": [
+      0.34075164794921875,
+      0.5990175008773804
+    ],
+    "positionDistance": 0
+  },
+  {
+    "mesh": "CrashTowerCommercialLow_00",
+    "vertex": 607,
+    "sourceVertex": 608,
+    "uv": [
+      0.3397641181945801,
+      0.6367355585098267
+    ],
+    "positionDistance": 0
+  }
+]

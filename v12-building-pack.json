@@ -1,0 +1,11 @@
+{
+  "exterior-buildings.tupack": {
+    "vertices": 2386,
+    "triangles": 1390,
+    "meshes": 1,
+    "nodes": 19,
+    "animations": [],
+    "source": "work\\v12-building-export\\decepticon_exterior\\map.gltf",
+    "sha256": "6994dff5206d538e93619344a8bbdb040c58bf28faa19b7b4aed21cb3d5b4065"
+  }
+}

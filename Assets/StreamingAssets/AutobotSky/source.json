@@ -1,0 +1,70 @@
+{
+  "faces": [
+    {
+      "property": "_FrontTex",
+      "file": "_FrontTex.png",
+      "sourceName": "AutobotBase_Sky_01_FRONT",
+      "sourceAsset": "CAB-07476c562a4fc8b0318a5e99a427e934",
+      "sourceId": 1215673092
+    },
+    {
+      "property": "_BackTex",
+      "file": "_BackTex.png",
+      "sourceName": "AutobotBase_Sky_01_BACK",
+      "sourceAsset": "CAB-07476c562a4fc8b0318a5e99a427e934",
+      "sourceId": 1689911700
+    },
+    {
+      "property": "_LeftTex",
+      "file": "_LeftTex.png",
+      "sourceName": "AutobotBase_Sky_01_LEFT",
+      "sourceAsset": "CAB-07476c562a4fc8b0318a5e99a427e934",
+      "sourceId": -1148163044
+    },
+    {
+      "property": "_RightTex",
+      "file": "_RightTex.png",
+      "sourceName": "AutobotBase_Sky_01_RIGHT",
+      "sourceAsset": "CAB-07476c562a4fc8b0318a5e99a427e934",
+      "sourceId": -1835260781
+    },
+    {
+      "property": "_UpTex",
+      "file": "_UpTex.png",
+      "sourceName": "AutobotBase_Sky_01_TOP",
+      "sourceAsset": "CAB-07476c562a4fc8b0318a5e99a427e934",
+      "sourceId": -443182995
+    },
+    {
+      "property": "_DownTex",
+      "file": "_DownTex.png",
+      "sourceName": "AutobotBase_Sky_01_TOP",
+      "sourceAsset": "CAB-07476c562a4fc8b0318a5e99a427e934",
+      "sourceId": -443182995
+    }
+  ],
+  "colors": [
+    {
+      "first": {
+        "name": "_Color"
+      },
+      "second": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    },
+    {
+      "first": {
+        "name": "_Tint"
+      },
+      "second": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 0.5
+      }
+    }
+  ]
+}

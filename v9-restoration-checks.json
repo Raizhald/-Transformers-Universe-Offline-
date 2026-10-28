@@ -1,0 +1,206 @@
+{
+  "version": "Unity v9",
+  "dataChecksPassed": true,
+  "originalPortalMeshLayers": 2,
+  "portalDiameterMetres": 25.4907,
+  "portalVertexColoursAndAlphaRecovered": true,
+  "sourceMaterialRecords": 55,
+  "originalDiffuseTexturesRestored": 42,
+  "floorBackingTrianglesFromOriginalCollision": 476,
+  "floorBackingOffsetMetres": 0.06,
+  "floorRepairIsVisualBacking": true,
+  "nativeCollisionsUnchanged": true,
+  "minimapZoomRemoved": true,
+  "oggCrcChecksPassed": true,
+  "audio": [
+    {
+      "name": "a004_foley_lower_01",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.348,
+      "oggPages": 3,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_foley_lower_02",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.322,
+      "oggPages": 3,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_foley_lower_03",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.252,
+      "oggPages": 3,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_foley_upper_01",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.722,
+      "oggPages": 4,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_foley_upper_02",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.629,
+      "oggPages": 4,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_foley_upper_03",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.603,
+      "oggPages": 4,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_jump_01",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.734,
+      "oggPages": 4,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_jump_02",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.741,
+      "oggPages": 4,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_land_01",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.682,
+      "oggPages": 4,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_land_02",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.785,
+      "oggPages": 4,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_land_heavy_01",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.899,
+      "oggPages": 4,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_run_left_01",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.401,
+      "oggPages": 3,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_run_left_02",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.475,
+      "oggPages": 3,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_run_left_03",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.462,
+      "oggPages": 3,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_run_left_04",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.496,
+      "oggPages": 3,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_run_right_01",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.474,
+      "oggPages": 3,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_run_right_02",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.595,
+      "oggPages": 4,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_run_right_03",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.483,
+      "oggPages": 3,
+      "crcPassed": true
+    },
+    {
+      "name": "a004_run_right_04",
+      "channels": 1,
+      "sampleRate": 48000,
+      "seconds": 0.481,
+      "oggPages": 3,
+      "crcPassed": true
+    },
+    {
+      "name": "auto_groundbridge_loop_01",
+      "channels": 2,
+      "sampleRate": 44100,
+      "seconds": 4.816,
+      "oggPages": 12,
+      "crcPassed": true
+    },
+    {
+      "name": "DecepBaseInt_EngineLoop_03",
+      "channels": 1,
+      "sampleRate": 44100,
+      "seconds": 5.367,
+      "oggPages": 13,
+      "crcPassed": true
+    },
+    {
+      "name": "DecepBaseInt_PowerLoop_01",
+      "channels": 2,
+      "sampleRate": 48000,
+      "seconds": 3.258,
+      "oggPages": 9,
+      "crcPassed": true
+    },
+    {
+      "name": "Wind_HollowLoop_01",
+      "channels": 2,
+      "sampleRate": 44100,
+      "seconds": 3.688,
+      "oggPages": 8,
+      "crcPassed": true
+    }
+  ],
+  "nativeRuntimeTested": false,
+  "shaderRenderingTested": false,
+  "audioListeningTested": false,
+  "interactiveVerificationBlocker": "Windows Computer Use initialization failed twice: failed to write kernel assets, system cannot find path (os error 3)",
+  "ceiling": "Original three ceiling meshes were already present; restored original textures, unlit backdrop and darker lighting; final appearance unverified"
+}

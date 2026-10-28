@@ -1,0 +1,66 @@
+{
+  "timings": {
+    "r2v": {
+      "duration": 1.6600000262260437,
+      "switchTime": 0.3199999928474426
+    },
+    "v2r": {
+      "duration": 1.6917293135364653,
+      "switchTime": 0.5263158083433772
+    }
+  },
+  "vehicleBounds": {
+    "min": [
+      -1.0973594188690245,
+      0.00770612154155023,
+      -1.9089959860071795
+    ],
+    "max": [
+      1.0973594188690245,
+      1.8513293266296384,
+      2.34768356851029
+    ]
+  },
+  "wheels": [
+    {
+      "name": "T_lFrontWheelJ",
+      "position": {
+        "x": -0.7853790521621704,
+        "y": 0.36993011832237244,
+        "z": 1.2054587602615356
+      },
+      "front": true
+    },
+    {
+      "name": "T_lRearWheelJ",
+      "position": {
+        "x": -0.7853790521621704,
+        "y": 0.36993011832237244,
+        "z": -1.006414532661438
+      },
+      "front": false
+    },
+    {
+      "name": "T_rFrontWheelJ",
+      "position": {
+        "x": 0.7853790521621704,
+        "y": 0.36993011832237244,
+        "z": 1.2054588794708252
+      },
+      "front": true
+    },
+    {
+      "name": "T_rRearWheelJ",
+      "position": {
+        "x": 0.7853790521621704,
+        "y": 0.36993011832237244,
+        "z": -1.006414532661438
+      },
+      "front": false
+    }
+  ],
+  "maskSources": {
+    "RobotPanel": "serialized-tags",
+    "VehicleTransformPanel": "reconstructed-from-varying-clip-tracks"
+  }
+}

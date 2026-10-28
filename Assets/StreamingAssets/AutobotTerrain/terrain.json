@@ -1,0 +1,108 @@
+{
+  "heightResolution": 1025,
+  "alphaResolution": 1024,
+  "origin": {
+    "x": -1024,
+    "y": 0,
+    "z": -1024
+  },
+  "size": {
+    "x": 1024,
+    "y": 256,
+    "z": 1024
+  },
+  "minimumY": 10.125308999908444,
+  "maximumY": 128.43360698263496,
+  "layers": [
+    {
+      "file": "layer-0.png",
+      "tileSize": {
+        "x": 14,
+        "y": 14
+      },
+      "tileOffset": {
+        "x": -1024,
+        "y": -1024
+      }
+    },
+    {
+      "file": "layer-1.png",
+      "tileSize": {
+        "x": 11,
+        "y": 11
+      },
+      "tileOffset": {
+        "x": -1024,
+        "y": -1024
+      }
+    },
+    {
+      "file": "layer-2.png",
+      "tileSize": {
+        "x": 15,
+        "y": 15
+      },
+      "tileOffset": {
+        "x": -1024,
+        "y": -1024
+      }
+    },
+    {
+      "file": "layer-3.png",
+      "tileSize": {
+        "x": 11,
+        "y": 11
+      },
+      "tileOffset": {
+        "x": -1024,
+        "y": -1024
+      }
+    },
+    {
+      "file": "layer-4.png",
+      "tileSize": {
+        "x": 15,
+        "y": 15
+      },
+      "tileOffset": {
+        "x": -1024,
+        "y": -1024
+      }
+    },
+    {
+      "file": "layer-5.png",
+      "tileSize": {
+        "x": 15,
+        "y": 15
+      },
+      "tileOffset": {
+        "x": -1024,
+        "y": -1024
+      }
+    },
+    {
+      "file": "layer-6.png",
+      "tileSize": {
+        "x": 10,
+        "y": 10
+      },
+      "tileOffset": {
+        "x": -1024,
+        "y": -1024
+      }
+    },
+    {
+      "file": "layer-7.png",
+      "tileSize": {
+        "x": 10,
+        "y": 10
+      },
+      "tileOffset": {
+        "x": -1024,
+        "y": -1024
+      }
+    }
+  ],
+  "heightFile": "heights.f32",
+  "weightsFile": "weights.f32"
+}

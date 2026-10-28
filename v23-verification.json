@@ -1,0 +1,15 @@
+{
+  "version": 23,
+  "dataChecksPassed": true,
+  "compilerExit": 0,
+  "nativeVisualCheckPerformed": false,
+  "unityLaunched": false,
+  "floorBoundsMatch": true,
+  "coversAll84SourceUnderfloorWallAndSupportFootprints": true,
+  "lowerBlackFadeOverlaysDisabled": 44,
+  "sourceConcreteTextureReferenced": true,
+  "meshCollidersUseVisibleGeometry": true,
+  "originalV22PackPreserved": true,
+  "triangles": 218,
+  "packSHA256": "2932db4ca95f6a188dd7d634c8ca351ecd361957a111a34563b478b728775f36"
+}

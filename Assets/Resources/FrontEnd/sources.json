@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Login_Autobot_New",
+    "atlas": "CAB-6777e7a59ff23d849bd93f9637e9f29d_-1727058651",
+    "rect": [
+      0,
+      2436,
+      1024,
+      503
+    ]
+  },
+  {
+    "name": "Login_BG_New",
+    "atlas": "CAB-6777e7a59ff23d849bd93f9637e9f29d_-1727058651",
+    "rect": [
+      0,
+      2036,
+      1024,
+      399
+    ]
+  },
+  {
+    "name": "Login_Decepticon_New",
+    "atlas": "CAB-6777e7a59ff23d849bd93f9637e9f29d_-1727058651",
+    "rect": [
+      0,
+      2940,
+      1024,
+      568
+    ]
+  },
+  {
+    "name": "Logo_1500px_Alpha",
+    "atlas": "CAB-6777e7a59ff23d849bd93f9637e9f29d_-1727058651",
+    "rect": [
+      0,
+      3509,
+      1024,
+      587
+    ]
+  },
+  {
+    "name": "TransformersLogo",
+    "atlas": "CAB-a84de07e6d89d8b478515ba42c3cf338_1719216655",
+    "rect": [
+      0,
+      902,
+      522,
+      122
+    ]
+  },
+  {
+    "name": "Loadingwheel_01",
+    "atlas": "CAB-acdb49512479059000e77392f10f4e08_-2075529489",
+    "rect": [
+      271,
+      267,
+      234,
+      234
+    ]
+  },
+  {
+    "name": "Loadingwheel_02",
+    "atlas": "CAB-acdb49512479059000e77392f10f4e08_-2075529489",
+    "rect": [
+      0,
+      28,
+      202,
+      202
+    ]
+  },
+  {
+    "name": "Loadingwheel_03",
+    "atlas": "CAB-acdb49512479059000e77392f10f4e08_-2075529489",
+    "rect": [
+      271,
+      66,
+      190,
+      200
+    ]
+  },
+  {
+    "name": "Login_Decepticon",
+    "atlas": "CAB-ceeb6c5a4f807490726f4f93a6ed223d_-1727058651",
+    "rect": [
+      0,
+      408,
+      960,
+      616
+    ]
+  },
+  {
+    "name": "Login_Autobot",
+    "atlas": "CAB-ceeb6c5a4f807490726f4f93a6ed223d_-1727058651",
+    "rect": [
+      961,
+      408,
+      959,
+      616
+    ]
+  },
+  {
+    "name": "DecepticonsLogoWhite",
+    "atlas": "CAB-dd8a4d2192a5aab44a22e6d9818eed74_4802679",
+    "rect": [
+      811,
+      1891,
+      136,
+      157
+    ]
+  },
+  {
+    "name": "AutobotsLogoWhite",
+    "atlas": "CAB-dd8a4d2192a5aab44a22e6d9818eed74_4802679",
+    "rect": [
+      655,
+      1890,
+      155,
+      158
+    ]
+  }
+]

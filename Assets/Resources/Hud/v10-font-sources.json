@@ -1,0 +1,14 @@
+[
+  {
+    "name": "PLAY-BOLD",
+    "asset": "CAB-53f3fda7cdea95f0b121813f05cf935d",
+    "id": 1037270935,
+    "file": "OriginalUiBold.ttf"
+  },
+  {
+    "name": "PLAY-REGULAR",
+    "asset": "CAB-53f3fda7cdea95f0b121813f05cf935d",
+    "id": 1543392067,
+    "file": "OriginalUiRegular.ttf"
+  }
+]

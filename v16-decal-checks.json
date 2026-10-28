@@ -1,0 +1,43 @@
+{
+  "version": "Unity v16",
+  "cause": "Missing second fixed-function stage from archived Mobile/Particles/Multiply shader: texture*vertex colour must be blended with white by its alpha before destination multiplication. Fog must also blend to white.",
+  "sourceMaterials": [
+    {
+      "material": "Libraries_Props_Civilian_Graffifi_Graffiti",
+      "sourceTexture": "Libraries_Props_Civilian_Graffifi_Graffiti",
+      "transparentPixels": 131991,
+      "totalPixels": 262144
+    },
+    {
+      "material": "Libraries_Grounds_Decals_Impact_GrimeEdge",
+      "sourceTexture": "Libraries_Grounds_Decals_Impact_GrimeEdge",
+      "transparentPixels": 66324,
+      "totalPixels": 262144
+    },
+    {
+      "material": "Libraries_[GenericTextures]_Decals_TarmacGrime01_DiffA",
+      "sourceTexture": "Libraries_[GenericTextures]_Decals_TarmacGrime01_DiffA",
+      "transparentPixels": 91159,
+      "totalPixels": 262144
+    }
+  ],
+  "affectedOriginalRenderInstances": 1037,
+  "sourceMatchedMeshColorArrays": 491,
+  "nonWhiteMeshColorArrays": 22,
+  "verticesWithSourceAlphaBelowOne": 1076,
+  "transparentPixelNeutralBackdropChecks": 36,
+  "sourceShaderFiles": [
+    "work\\v16--1267574375-shader.txt",
+    "work\\v16--2120552980-shader.txt",
+    "work\\v16--854666897-shader.txt"
+  ],
+  "originalShaderEquivalentBlend": "Blend Zero SrcColor, result=lerp(white, texture*vertexColor, (texture*vertexColor).a), white fog",
+  "nativeDecalRenderingVerified": false,
+  "csharpCompilation": "passed, no warnings",
+  "remainingCityLimitations": [
+    "Legacy lighting/reflections and full particle/world-event behaviour are not fully restored.",
+    "Native visual comparison of this fix has not run in this environment."
+  ],
+  "startupChecks": 24,
+  "archivedShaderFile": "original-multiply-shader.txt"
+}

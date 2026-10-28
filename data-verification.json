@@ -1,0 +1,29 @@
+{
+  "hangar.tupack": {
+    "vertices": 390121,
+    "triangles": 212672,
+    "meshes": 357,
+    "nodes": 357,
+    "animations": [],
+    "source": "outputs\\TransformersUniverse-v4-Godot\\assets\\decepticon\\decepticon_base.gltf",
+    "sha256": "55de7443820a949031367d85d1f25baa5ab1861d6122b8ea7425e1339e3697db"
+  },
+  "robot.tupack": {
+    "vertices": 14420,
+    "triangles": 8855,
+    "meshes": 3,
+    "nodes": 119,
+    "animations": [
+      "Fall",
+      "Idle",
+      "Walk",
+      "Run"
+    ],
+    "source": "outputs\\TransformersUniverse-v4-Godot\\assets\\robot\\A004.gltf",
+    "sha256": "f06d8f40c8c97113d4100a5533aef8e12d594111ac02759386cf94794fcbdda9"
+  },
+  "collision": {
+    "triangles": 4624,
+    "twoSided": true
+  }
+}

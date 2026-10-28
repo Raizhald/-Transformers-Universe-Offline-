@@ -1,0 +1,23 @@
+{
+  "spawn": {
+    "x": -861.933,
+    "y": 81.05,
+    "z": -855.682
+  },
+  "hangarExit": {
+    "x": 61.26624,
+    "y": 14.36509,
+    "z": -68.21626
+  },
+  "mapBounds": {
+    "x": -1018.5679148051383,
+    "y": -1004.3744333598258,
+    "z": 1000.0000874227767,
+    "w": 1000.0000874227767
+  },
+  "floorAtSpawn": 80.83,
+  "name": "SHARED CITY",
+  "sourceScene": "BuildPlayer-Decepticon_Exterior",
+  "centralCityIdentityConfirmed": false,
+  "routeSource": "Same exterior.tupack, terrain, collision, materials, atmosphere and minimap as Decepticons; no tutorial exterior"
+}

@@ -1,0 +1,62 @@
+{
+  "version": "Unity v19",
+  "autobotCitySource": "Autobot_Exterior_Tutorial",
+  "cityRenderers": 2233,
+  "cityMeshes": 537,
+  "packedVertices": 310031,
+  "worldCoordinateSamples": 6699,
+  "maxWorldCoordinateError": 3.1595722816746274e-05,
+  "terrainSourceSamples": 121,
+  "terrainEntryFloorY": 47.274879455566406,
+  "entryNeighborhoodSamples": 49,
+  "hangarReturnFloorSamples": [
+    14.285090446472168,
+    14.285090446472168,
+    14.285090446472168,
+    14.285090446472168,
+    14.285090446472168
+  ],
+  "cityCollisionTriangles": 49592,
+  "parkedVehicleBlockers": 23,
+  "originalSigns": 3,
+  "originalPortalParts": 2,
+  "normalMaterialRecords": 10,
+  "originalVertexColorsNonwhite": {
+    "autobot-city-colors.bin": 4133,
+    "autobot-hangar-colors.bin": 1150
+  },
+  "skySourceFaces": 6,
+  "skyEdgeChecks": [
+    {
+      "edges": "FrontR/LeftL",
+      "meanByteError": 1.5514322916666667
+    },
+    {
+      "edges": "FrontL/RightR",
+      "meanByteError": 0.5009765625
+    },
+    {
+      "edges": "BackL/LeftR",
+      "meanByteError": 0.953125
+    },
+    {
+      "edges": "BackR/RightL",
+      "meanByteError": 0.7623697916666666
+    },
+    {
+      "edges": "FrontT/UpB",
+      "meanByteError": 4.4580078125
+    }
+  ],
+  "originalMapUvSamples": 121,
+  "compile": "passed, no warnings",
+  "startupChecks": 36,
+  "decepticonDataFilesUnchanged": 240,
+  "nativeUnityV19Tested": false,
+  "nativeRuntimeCheckProvided": true,
+  "limitations": [
+    "Original game server, NPCs, missions and faction-war logic remain offline.",
+    "Sixteen archived MeshCollider records have null source meshes; no invented collider geometry was substituted for them.",
+    "A001 movement audio still uses the documented shared archive fallback."
+  ]
+}

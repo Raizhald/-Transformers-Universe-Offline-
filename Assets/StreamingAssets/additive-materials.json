@@ -1,0 +1,213 @@
+{
+  "materials": [
+    {
+      "name": "Libraries_[GenericTextures]_Glows_LinearGradient02",
+      "tint": {
+        "r": 0.09514442086219788,
+        "g": 0,
+        "b": 0.26274511218070984,
+        "a": 0.501960813999176
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "file": "CAB-d09ad1ff9847da60e2e6513fc004906c_-310205091.png",
+      "sourceTextureName": "Libraries_[GenericTextures]_Glows_LinearGradient02"
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_GlobemapDecepticon_Rays",
+      "tint": {
+        "r": 0.45022669434547424,
+        "g": 0,
+        "b": 0.501960813999176,
+        "a": 0.5921568870544434
+      },
+      "scale": {
+        "x": 1000,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "file": "CAB-ef42a8c58f2a0320d02c2c579468da8d_2057847697.png",
+      "sourceTextureName": "VFX_Glow_BaseGlowPurple_Diff"
+    },
+    {
+      "name": "VFX_Env_AutobotInterior_ProjectionRayCON01_CS",
+      "tint": {
+        "r": 0.5125350952148438,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "scale": {
+        "x": 5,
+        "y": 0.20000000298023224
+      },
+      "offset": {
+        "x": 0.30000001192092896,
+        "y": 0.30000001192092896
+      },
+      "file": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-1081116814.png",
+      "sourceTextureName": "VFX_Misc_HalfWhiteBlackH_DiffA"
+    },
+    {
+      "name": "ConeLampGlow01A_Diff",
+      "tint": {
+        "r": 0.11937379837036133,
+        "g": 0,
+        "b": 1,
+        "a": 0.501960813999176
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "file": "CAB-d09ad1ff9847da60e2e6513fc004906c_1682901531.png",
+      "sourceTextureName": "Libraries_[GenericTextures]_Glows_LinearGradient03"
+    },
+    {
+      "name": "ConeLampGlow01_Diff",
+      "tint": {
+        "r": 0.14109766483306885,
+        "g": 0.06028450280427933,
+        "b": 0.1921568661928177,
+        "a": 0.501960813999176
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "file": "CAB-dfbbe87adc12a9a4aad44347b3b55572_-1896277984.png",
+      "sourceTextureName": "ConeLampGlow01_Diff"
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_BattleMapDecepticon_ScreenLight",
+      "tint": {
+        "r": 1,
+        "g": 0.9310345649719238,
+        "b": 0,
+        "a": 0.501960813999176
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "file": "CAB-d09ad1ff9847da60e2e6513fc004906c_820060277.png",
+      "sourceTextureName": "VFX_Map_AmericanLight_DiffA"
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Glows_LinearGradient01_B",
+      "tint": {
+        "r": 0.16609399020671844,
+        "g": 0.13634756207466125,
+        "b": 0.24313725531101227,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "file": "CAB-d09ad1ff9847da60e2e6513fc004906c_1432264672.png",
+      "sourceTextureName": "Libraries_[GenericTextures]_Glows_LinearGradient01"
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Glows_LinearGradient01_C",
+      "tint": {
+        "r": 0.08036806434392929,
+        "g": 0.06597462296485901,
+        "b": 0.11764705926179886,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "file": "CAB-d09ad1ff9847da60e2e6513fc004906c_1432264672.png",
+      "sourceTextureName": "Libraries_[GenericTextures]_Glows_LinearGradient01"
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Glows_LinearGradient01",
+      "tint": {
+        "r": 0.08775065839290619,
+        "g": 0.08639753609895706,
+        "b": 0.2078431397676468,
+        "a": 0.501960813999176
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "file": "CAB-d09ad1ff9847da60e2e6513fc004906c_1432264672.png",
+      "sourceTextureName": "Libraries_[GenericTextures]_Glows_LinearGradient01"
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_GlobemapDecepticon_EdgeGlow",
+      "tint": {
+        "r": 1,
+        "g": 0.10588234663009644,
+        "b": 0.10588234663009644,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "file": "CAB-dfbbe87adc12a9a4aad44347b3b55572_132084345.png",
+      "sourceTextureName": "VFX_Map_EarthOutline_Diff"
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Glows_LinearGradient01_A",
+      "tint": {
+        "r": 0.14227405190467834,
+        "g": 0.06986543536186218,
+        "b": 0.3019607961177826,
+        "a": 0.501960813999176
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "file": "CAB-d09ad1ff9847da60e2e6513fc004906c_1432264672.png",
+      "sourceTextureName": "Libraries_[GenericTextures]_Glows_LinearGradient01"
+    }
+  ]
+}

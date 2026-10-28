@@ -1,0 +1,14 @@
+{
+  "source": "CityRestoration/sky.rgba",
+  "sourceDimensions": [
+    6,
+    512,
+    512
+  ],
+  "panoramaDimensions": [
+    2048,
+    1024
+  ],
+  "method": "Bilinear source-cube-to-equirectangular projection; no face SetPixels upload",
+  "nativeAppearanceVerified": false
+}

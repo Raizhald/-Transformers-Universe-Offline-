@@ -1,0 +1,44 @@
+{
+  "version": "Unity v8",
+  "originalGlowTexturesChecked": 11,
+  "crystalGlowMaterials": [
+    {
+      "material": "ConeLampGlow01A_Diff",
+      "originalTexture": "Libraries_[GenericTextures]_Glows_LinearGradient03",
+      "bytesMatchArchiveExtraction": true,
+      "textureRGBRange": [
+        0,
+        255
+      ]
+    },
+    {
+      "material": "ConeLampGlow01_Diff",
+      "originalTexture": "ConeLampGlow01_Diff",
+      "bytesMatchArchiveExtraction": true,
+      "textureRGBRange": [
+        0,
+        255
+      ]
+    }
+  ],
+  "doorRimCheck": {
+    "passed": true,
+    "basis": "actual packed hangar mesh vertices, not the new doorway JSON itself",
+    "doors": [
+      {
+        "name": "Central City restricted door",
+        "maxErrorMetres": 1.434563074350868e-07,
+        "sixCornersChecked": true
+      },
+      {
+        "name": "Training restricted door",
+        "maxErrorMetres": 1.397906146771426e-05,
+        "sixCornersChecked": true
+      }
+    ]
+  },
+  "glowRendering": "unlit additive, depth writing disabled; original texture/tint/UV restored",
+  "effectsOffBehaviour": "glow remains transparent with zero contribution, rather than reverting to an opaque shader",
+  "nativeRuntimeTested": false,
+  "nativeAttempt": "Current installed Unity editor attempted; LicenseClient-sesta IPC refused after 60 seconds; attempt stopped"
+}

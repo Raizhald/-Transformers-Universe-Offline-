@@ -1,0 +1,36 @@
+{
+  "version": "Unity v17",
+  "cause": "Scene-coloured fog was added to black RGB / fully opaque alpha edges of large additive glow quads, exposing rectangular/triangular overlays across the real sky",
+  "originalSourceShader": "Particles/Additive: black fog, SrcAlpha One, RGB mask, 2*texture*vertexColour*tint",
+  "dedicatedAdditiveMaterialRecords": 7,
+  "materials": [
+    "PointGlowEffect_Diff",
+    "VFX_test_Misc_Barrier",
+    "VFX_Fire_TiledV_ADD",
+    "ConExtGlow01",
+    "Libraries_Props_Military_Base_MilitaryMarkings",
+    "ConExtSunGlow01",
+    "ConSHipHighlight"
+  ],
+  "largeAtmosphereQuads": [
+    "Quadfog",
+    "Quadfog",
+    "QuadSun",
+    "QuadshipHighlight",
+    "QuadSun"
+  ],
+  "sourceGlowTextureCornerRGBA": [
+    0,
+    0,
+    0,
+    255
+  ],
+  "neutralBlackEdgeMathChecks": 90,
+  "skyImageAndShaderUnchanged": true,
+  "geometryCollisionsAndDrivingUnchanged": true,
+  "nativeRegressionTestAdded": "Compare rendered background pixel with black additive quad disabled/enabled under full coloured fog",
+  "nativeRegressionTestExecuted": false,
+  "nativeSkyAppearanceVerified": false,
+  "compilation": "passed, no warnings",
+  "startupChecks": 24
+}

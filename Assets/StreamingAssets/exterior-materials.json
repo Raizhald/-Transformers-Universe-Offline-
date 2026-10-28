@@ -1,0 +1,2533 @@
+{
+  "materials": [
+    {
+      "name": "Missing material",
+      "shader": "",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_Urban_StreetDispenser",
+      "shader": "Normal-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_Dumpster_A_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_Apartments_SmallHallA_V2_Diff",
+      "shader": "Reflect-BumpSpec_CustomCubemap",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_ApartmentsB_TilingBricksYellow_Diff",
+      "shader": "Normal-BumpSpec",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_RoadsideBillboards_3BillboardsAlphas_DiffM",
+      "shader": "AlphaTest-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_Foliage_SmallBush01",
+      "shader": "AlphaTest-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_Foliage_SmallBush02",
+      "shader": "AlphaTest-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_PipesDrainage_PipeConcretePlastic_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Grounds_Pavements_Plaza_PlazaSidewalk_06",
+      "shader": "Normal-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Grounds_Roads_RoadKit_ZebraCrossing",
+      "shader": "AlphaTest-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Grounds_Roads_RoadKit_RoadKit",
+      "shader": "Normal-BumpSpec",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Grounds_Pavements_Plaza_PlazaSidewalk_04",
+      "shader": "Normal-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_ConcreteWallSet_ConcreteWallMatA",
+      "shader": "Normal-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_ConcreteWallSet_ConcreteWallMatB_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_StoneDebris_StoneDebrisA",
+      "shader": "Normal-Bumped",
+      "scale": {
+        "x": 0.6499999761581421,
+        "y": 0.6499999761581421
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_StoneDebris_DebrisEdgeAlpha",
+      "shader": "TransparentBumpedSpecularShadowReceiver",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": true,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Grounds_Roads_Decepticonbaseroadnetwork_AsphaltCrossroad_Diff",
+      "shader": "Normal-BumpSpec",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "VFX_Fire_TiledV_AB",
+      "shader": "Particle Alpha Blend",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": true,
+      "unlit": true
+    },
+    {
+      "name": "Libraries_Props_Civilian_Urban_TrafficLight01_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_CarPark_Set2A",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Grounds_Pavements_Plaza_PlazaCleanAsphaltTile_01",
+      "shader": "Normal-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Grounds_Decals_Impact_GrimeEdge",
+      "shader": "Mobile-Particle-Multiply",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": true,
+      "unlit": true
+    },
+    {
+      "name": "PointGlowEffect_Diff",
+      "shader": "Particle Add",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": true,
+      "unlit": true
+    },
+    {
+      "name": "Libraries_Props_Civilian_RooftopAirconUnits_RooftopAirconUnitsA",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_RoadSigns_A_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_StoneDebris_StoneDebrisA",
+      "shader": "Normal-BumpSpec",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_LitterMixCombined_01",
+      "shader": "AlphaTest-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_StreetFurniture_PlanterA_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_TruckCab_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Industrial_PowerStation_PowerStation02_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Grounds_Roads_RoadKit_RoadKitSingleWhiteLine",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_ConstructionSite_Set2_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_ConstructionSite_ReBarAlphaSet1_DiffM",
+      "shader": "AlphaTest-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_PoliceBarrierWood_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Commercial_NewSkyscraper_BaseB_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_ShipmentContainersSetB_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_Urban_ElectricBoxes",
+      "shader": "Normal-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_PoliceCars_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Decals_TarmacGrime01_DiffA",
+      "shader": "Mobile-Particle-Multiply",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": true,
+      "unlit": true
+    },
+    {
+      "name": "Libraries_Grounds_Pavements_Plaza_PlazaSidewalk_06Tile",
+      "shader": "Normal-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_Cars_SUVC_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_BrokenCars_Erusted_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Decals_ChainLinkFenceAlpha_DecepExt",
+      "shader": "Alpha-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_Cars_SedanA_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_ConcreteWallSet_ConcreteWallMatA_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_BrokenCars_Brusted_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_ApartmentsB_AparttmentShopFrontCombined_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_ApartmentsB_TilingBricks_Diff",
+      "shader": "Normal-BumpSpec",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_CarPark_Set2B",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_StreetFurniture_StreetFurnitureA_Diff",
+      "shader": "Normal-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_Cars_SedanB_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_PetrolStationModelKit_Canopy_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Industrial_Warehouse04_WarehouseSet4_Diff",
+      "shader": "Reflect-BumpSpec_CustomCubemap",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Concrete_Set1_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Commercial_NewSkyscraper_BaseA_Diff",
+      "shader": "Reflect-BumpSpec",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Walls_Set5_Diff",
+      "shader": "Illumin-BumpSpecReflection",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_PortProps_StreetLamp",
+      "shader": "Illumin-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 2,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_RetailOutlet02A_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_RetailOutlet02ATrellis",
+      "shader": "AlphaTest-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_SafetyBarrier_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Grounds_Pavements_CarPark_Curb_01",
+      "shader": "Normal-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_PoliceBarrier_diff",
+      "shader": "Normal-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_LandMarks_DecepticonBase_Background_Skyline",
+      "shader": "Reflect-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Grounds_Roads_Decepticonbaseroadnetwork_RoadBridgeUnder_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_BusShelter_BusStopB",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_FordFlatBedTruck_FordFlatBedTruckAlt_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_SnappedCable_Diff",
+      "shader": "PhoneWireAA",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_BrokenCars_Crusted_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_Cars_SUVA_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_Graffifi_Graffiti",
+      "shader": "Mobile-Particle-Multiply",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": true,
+      "unlit": true
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_90sBus_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Industrial_Warehouse04_Bricktile",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Grounds_Roads_NewMotorwayKit_MotorwayPillars",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_DeadBotParts_A_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Industrial_Warehouse05_Dark_Diff",
+      "shader": "Reflect-BumpSpec_CustomCubemap",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_Dumpster_B_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Concrete_CONCRETE04c_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Commercial_OfficeTowers_ShopFrontSet3_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_LandMarks_DecepticonBase_StormDrain_StormDrainDirty",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Commercial_Financialbroken_CollapsedSkyScraper_Diff",
+      "shader": "Normal-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_ConcreteWallSet_ConcreteWallMatA_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Industrial_PortWarehouse_03b_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_Sedan80s_B",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_StreetLighting_All_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_TransferPlatformCON_TransferPlatform_Diff",
+      "shader": "ReflectiveSpecularMat2",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_Trailers_TruckTrailerFlatbed_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Military_TankM1A1Destroyed_A_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Industrial_Warehouse03_Set3_DeceptEXT_Diff",
+      "shader": "Reflect-BumpSpec_CustomCubemap",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Concrete_ROOFgrey_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_RoadsideBillboards_Gas01_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_BrokenCars_Arusted_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_ArklightCrash_CrashDebrisBurnedC_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_ArklightCrash_CrashDebrisBurnedB_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Walls_Set7b_Diff",
+      "shader": "Reflect-BumpSpec",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_Cars_SedanC_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Walls_Set8_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_Checkpoint_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_Cars_SUVB_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Grounds_Roads_ExpandedKit_Fountain",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Commercial_OfficeTowers_ShopFrontSet1_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_PetrolStationModelKit_PetrolPump_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_ArklightCrash_CrashDebrisBurnedA02_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Industrial_Warehouse05_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Walls_Set10_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_PetrolStationModelKit_Buildings_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_TruckCabLogging_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Grounds_Roads_Decepticonbaseroadnetwork_MotorwayDamage_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_DecepticonBase_BaseFluffCON_Diff",
+      "shader": "ReflectiveSpecularMat2",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_Industrial_PROPTowerCrane_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Industrial_Warehouse05Brick",
+      "shader": "Reflect-BumpSpec_CustomCubemap",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_BasketballCourt_HoopAndFence_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_RoadsideBillboards_CarBillboardsCombined_01",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_Trailers_TipperTrailer_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_Apartments_SmallHallBrokenA_V2_Diff",
+      "shader": "Reflect-BumpSpec_CustomCubemap",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Walls_Set7_Diff",
+      "shader": "Illumin-BumpSpecReflection",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Walls_Set7_Glow",
+      "shader": "Illumin-BumpSpecReflection",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_LumberMill_Fence_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Grounds_Pavements_Plaza_PlazaSidewalk_03",
+      "shader": "Normal-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_Trailers_TrailerContainerTank_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "VFX_test_Misc_Barrier",
+      "shader": "Particle Add",
+      "scale": {
+        "x": 10,
+        "y": 10
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": true,
+      "unlit": true
+    },
+    {
+      "name": "Libraries_Props_Civilian_Urban_PedestrianBollard",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_Urban_RollerShutter",
+      "shader": "AlphaTest-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Industrial_Warehouse03_Set3_Diff",
+      "shader": "Normal-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Decals_ChainLinkFenceAlpha",
+      "shader": "Alpha-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_RetailOutlet02A_Diff 1",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "VFX_Fire_TiledV_ADD",
+      "shader": "Particle Add",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": true,
+      "unlit": true
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Concrete_CONCRETEPanels02_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Walls_Set1_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_TrashTruck_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_LargeWaterTank_WaterTowerLadder_DiffA",
+      "shader": "AlphaTest-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_RooftopAirconUnits_RooftopAirconUnitsB_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Walls_Set5_Glow",
+      "shader": "Illumin-BumpSpecReflection",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Military_Base_MilitaryMarkings",
+      "shader": "Particle Add",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": true,
+      "unlit": true
+    },
+    {
+      "name": "Libraries_Buildings_Residential_ConstructionSite_Set3A",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_ConstructionSite_Set3B",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Military_ChinookDestroyed_A_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "lambert1",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Walls_Set6_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Vehicles_Civilian_BrokenCars_E_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_BasketballCourt_Court_Diff",
+      "shader": "Normal-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "VFX_Gameplay_EnergonLift_Tunnel01_CS",
+      "shader": "VFX_Shaders_FresnelRefractionNormalSpec",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_SmallMetalBridge_Set2_Diff",
+      "shader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_Urban_PROPSStreetKits01_DiffA",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Walls_Set9_Diff",
+      "shader": "Normal-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Signals_FreewaySigns01_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Buildings_Residential_Apartments_SmallHallBrokenA_V2_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Props_Civilian_Park_Wall02_Diff",
+      "shader": "AlphaTest-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_SwitchbladeShip_C_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_SwitchbladeShip_E_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_SwitchbladeShip_A_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_SwitchbladeShip_B_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_SwitchbladeShip_D_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Soil_MudGravelWetA_Diff",
+      "shader": "Normal-Diffuse",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": false,
+      "unlit": false
+    },
+    {
+      "name": "Libraries_Grounds_Roads_ExpandedKit_AlphaOverlay_Diff 1",
+      "shader": "TransparentShadowReceiver",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "transparent": true,
+      "unlit": false
+    }
+  ],
+  "lights": [
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": -149.65530395507812,
+        "y": 40.51118469238281,
+        "z": -134.32022094726562
+      },
+      "type": 2,
+      "color": {
+        "r": 0.7720588445663452,
+        "g": 0.32056885957717896,
+        "b": 0.24410684406757355,
+        "a": 1
+      },
+      "intensity": 8,
+      "range": 23
+    },
+    {
+      "name": "Point light",
+      "position": {
+        "x": -243.4960174560547,
+        "y": 45.621986389160156,
+        "z": -195.7985076904297
+      },
+      "type": 2,
+      "color": {
+        "r": 0.8970588445663452,
+        "g": 0.3116051256656647,
+        "b": 0.24405279755592346,
+        "a": 1
+      },
+      "intensity": 7.789999961853027,
+      "range": 7
+    },
+    {
+      "name": "Point light",
+      "position": {
+        "x": -225.97509765625,
+        "y": 48.012054443359375,
+        "z": -109.47830200195312
+      },
+      "type": 2,
+      "color": {
+        "r": 0.8970588445663452,
+        "g": 0.36564701795578003,
+        "b": 0.24405279755592346,
+        "a": 1
+      },
+      "intensity": 7.400000095367432,
+      "range": 15
+    },
+    {
+      "name": "Point light",
+      "position": {
+        "x": -484.0850830078125,
+        "y": 48.609222412109375,
+        "z": -96.32503509521484
+      },
+      "type": 2,
+      "color": {
+        "r": 0.8970588445663452,
+        "g": 0.3116051256656647,
+        "b": 0.24405279755592346,
+        "a": 1
+      },
+      "intensity": 8,
+      "range": 30
+    },
+    {
+      "name": "Point light",
+      "position": {
+        "x": -508.2208251953125,
+        "y": 44.59857177734375,
+        "z": -70.58868408203125
+      },
+      "type": 2,
+      "color": {
+        "r": 0.8970588445663452,
+        "g": 0.3116051256656647,
+        "b": 0.24405279755592346,
+        "a": 1
+      },
+      "intensity": 4.570000171661377,
+      "range": 8
+    },
+    {
+      "name": "Point light",
+      "position": {
+        "x": -253.6248779296875,
+        "y": 45.7403564453125,
+        "z": -166.06028747558594
+      },
+      "type": 2,
+      "color": {
+        "r": 0.8970588445663452,
+        "g": 0.3116051256656647,
+        "b": 0.24405279755592346,
+        "a": 1
+      },
+      "intensity": 7.789999961853027,
+      "range": 7
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": -454.6923828125,
+        "y": 45.507179260253906,
+        "z": -89.11243438720703
+      },
+      "type": 2,
+      "color": {
+        "r": 0.7279411554336548,
+        "g": 0.21941596269607544,
+        "b": 0.06958258897066116,
+        "a": 1
+      },
+      "intensity": 7.050000190734863,
+      "range": 20
+    },
+    {
+      "name": "Point light",
+      "position": {
+        "x": -668.8127899169922,
+        "y": 41.088829040527344,
+        "z": -26.716552734375
+      },
+      "type": 2,
+      "color": {
+        "r": 0.8970588445663452,
+        "g": 0.36564701795578003,
+        "b": 0.24405279755592346,
+        "a": 1
+      },
+      "intensity": 4,
+      "range": 4
+    },
+    {
+      "name": "Point light",
+      "position": {
+        "x": -614.8799285888672,
+        "y": 41.56262969970703,
+        "z": -171.40313720703125
+      },
+      "type": 2,
+      "color": {
+        "r": 0.8970588445663452,
+        "g": 0.36564701795578003,
+        "b": 0.24405279755592346,
+        "a": 1
+      },
+      "intensity": 4,
+      "range": 4
+    },
+    {
+      "name": "Point light",
+      "position": {
+        "x": -137.23779296875,
+        "y": 45.63824462890625,
+        "z": -115.35171508789062
+      },
+      "type": 2,
+      "color": {
+        "r": 0.8161764740943909,
+        "g": 0.23508529365062714,
+        "b": 0.1680363416671753,
+        "a": 1
+      },
+      "intensity": 6.940000057220459,
+      "range": 7
+    },
+    {
+      "name": "Point light",
+      "position": {
+        "x": -237.546875,
+        "y": 46.5897216796875,
+        "z": -185.87542724609375
+      },
+      "type": 2,
+      "color": {
+        "r": 0.8970588445663452,
+        "g": 0.3116051256656647,
+        "b": 0.24405279755592346,
+        "a": 1
+      },
+      "intensity": 7.789999961853027,
+      "range": 10
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": -463.4538269042969,
+        "y": 54.871524810791016,
+        "z": -373.2709045410156
+      },
+      "type": 2,
+      "color": {
+        "r": 0.6470588445663452,
+        "g": 0.17915526032447815,
+        "b": 0.09991351515054703,
+        "a": 1
+      },
+      "intensity": 8,
+      "range": 25
+    },
+    {
+      "name": "Point light",
+      "position": {
+        "x": -317.765625,
+        "y": 43.24169921875,
+        "z": -102.60076904296875
+      },
+      "type": 2,
+      "color": {
+        "r": 0.8970588445663452,
+        "g": 0.36564701795578003,
+        "b": 0.24405279755592346,
+        "a": 1
+      },
+      "intensity": 4,
+      "range": 4
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": -731.3321533203125,
+        "y": 94.44754028320312,
+        "z": -535.3543090820312
+      },
+      "type": 2,
+      "color": {
+        "r": 0.904411792755127,
+        "g": 0.4241379201412201,
+        "b": 0.11305147409439087,
+        "a": 1
+      },
+      "intensity": 8,
+      "range": 20
+    },
+    {
+      "name": "Point light",
+      "position": {
+        "x": -443.932861328125,
+        "y": 44.62554931640625,
+        "z": -161.5804443359375
+      },
+      "type": 2,
+      "color": {
+        "r": 0.8970588445663452,
+        "g": 0.3116051256656647,
+        "b": 0.24405279755592346,
+        "a": 1
+      },
+      "intensity": 7.789999961853027,
+      "range": 8
+    },
+    {
+      "name": "Point light",
+      "position": {
+        "x": -281.5079345703125,
+        "y": 42.154205322265625,
+        "z": -88.04742431640625
+      },
+      "type": 2,
+      "color": {
+        "r": 0.8970588445663452,
+        "g": 0.36564701795578003,
+        "b": 0.24405279755592346,
+        "a": 1
+      },
+      "intensity": 5,
+      "range": 4.5
+    },
+    {
+      "name": "Point light",
+      "position": {
+        "x": -464.5380859375,
+        "y": 45.457733154296875,
+        "z": -136.52474975585938
+      },
+      "type": 2,
+      "color": {
+        "r": 0.8970588445663452,
+        "g": 0.3116051256656647,
+        "b": 0.24405279755592346,
+        "a": 1
+      },
+      "intensity": 7.789999961853027,
+      "range": 22
+    },
+    {
+      "name": "Point light",
+      "position": {
+        "x": -841.0040283203125,
+        "y": 41.14410400390625,
+        "z": -90.00137329101562
+      },
+      "type": 2,
+      "color": {
+        "r": 0.8970588445663452,
+        "g": 0.36564701795578003,
+        "b": 0.24405279755592346,
+        "a": 1
+      },
+      "intensity": 4,
+      "range": 4
+    },
+    {
+      "name": "Directional light",
+      "position": {
+        "x": -812.4775390625,
+        "y": 208.99050903320312,
+        "z": -153.87762451171875
+      },
+      "type": 1,
+      "color": {
+        "r": 0.7843137383460999,
+        "g": 0.7074202299118042,
+        "b": 0.7074202299118042,
+        "a": 1
+      },
+      "intensity": 1,
+      "range": 10
+    },
+    {
+      "name": "Point light",
+      "position": {
+        "x": -251.37060546875,
+        "y": 46.123046875,
+        "z": -153.9100799560547
+      },
+      "type": 2,
+      "color": {
+        "r": 0.8970588445663452,
+        "g": 0.3116051256656647,
+        "b": 0.24405279755592346,
+        "a": 1
+      },
+      "intensity": 7.789999961853027,
+      "range": 7
+    },
+    {
+      "name": "Pointlight",
+      "position": {
+        "x": -572.0899657412413,
+        "y": 72.37844849481903,
+        "z": -601.226135257543
+      },
+      "type": 2,
+      "color": {
+        "r": 0.9485294222831726,
+        "g": 0.46175870299339294,
+        "b": 0.14646412432193756,
+        "a": 1
+      },
+      "intensity": 8,
+      "range": 20
+    }
+  ]
+}

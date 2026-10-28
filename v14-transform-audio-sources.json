@@ -1,0 +1,20 @@
+[
+  {
+    "name": "a004_transform_r2v",
+    "sourceName": "a004_transform_r2v",
+    "asset": "CAB-Audio_Bots_A004",
+    "id": 1222199991,
+    "group": "Audio_Bots_A004",
+    "owner": "Event_A004_Transform_R2V",
+    "bytes": 27206
+  },
+  {
+    "name": "a004_transform_v2r",
+    "sourceName": "a004_transform_v2r",
+    "asset": "CAB-Audio_Bots_A004",
+    "id": 716283244,
+    "group": "Audio_Bots_A004",
+    "owner": "direct",
+    "bytes": 28252
+  }
+]

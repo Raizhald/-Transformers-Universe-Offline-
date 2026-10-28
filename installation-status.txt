@@ -1,0 +1,2 @@
+Unity 6000.6.7f1 detected at E:\Unity\Editor\Unity.exe.
+Native v20 batch attempt: LicenseClient-sesta IPC refused; headless licensing feature unavailable. Native gameplay check did not run.

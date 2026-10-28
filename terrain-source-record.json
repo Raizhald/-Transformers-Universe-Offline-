@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "id": "decepticon_exterior",
+    "width": 1025,
+    "height": 1025,
+    "scale": {
+      "x": 1,
+      "y": 256,
+      "z": 1
+    },
+    "world": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0.07806396484375,
+      0,
+      0,
+      1
+    ],
+    "splats": [
+      {
+        "texture": {
+          "m_FileID": 3,
+          "m_PathID": -1175117600
+        },
+        "normalMap": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "tileSize": {
+          "x": 12,
+          "y": 12
+        },
+        "tileOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "file": "splat-0.png"
+      },
+      {
+        "texture": {
+          "m_FileID": 2,
+          "m_PathID": 691214809
+        },
+        "normalMap": {
+          "m_FileID": 26,
+          "m_PathID": -1179853338
+        },
+        "tileSize": {
+          "x": 22,
+          "y": 22
+        },
+        "tileOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "file": "splat-1.png"
+      },
+      {
+        "texture": {
+          "m_FileID": 35,
+          "m_PathID": -359710981
+        },
+        "normalMap": {
+          "m_FileID": 26,
+          "m_PathID": -1179853338
+        },
+        "tileSize": {
+          "x": 15,
+          "y": 15
+        },
+        "tileOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "file": "splat-2.png"
+      },
+      {
+        "texture": {
+          "m_FileID": 15,
+          "m_PathID": 1255206358
+        },
+        "normalMap": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "tileSize": {
+          "x": 20,
+          "y": 10
+        },
+        "tileOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "file": "splat-3.png"
+      },
+      {
+        "texture": {
+          "m_FileID": 8,
+          "m_PathID": -1119990930
+        },
+        "normalMap": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "tileSize": {
+          "x": 15,
+          "y": 15
+        },
+        "tileOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "file": "splat-4.png"
+      },
+      {
+        "texture": {
+          "m_FileID": 0,
+          "m_PathID": -1188917534
+        },
+        "normalMap": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "tileSize": {
+          "x": 12,
+          "y": 12
+        },
+        "tileOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "file": "splat-5.png"
+      },
+      {
+        "texture": {
+          "m_FileID": 4,
+          "m_PathID": 243682081
+        },
+        "normalMap": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "tileSize": {
+          "x": 12,
+          "y": 12
+        },
+        "tileOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "file": "splat-6.png"
+      },
+      {
+        "texture": {
+          "m_FileID": 3,
+          "m_PathID": 1285433701
+        },
+        "normalMap": {
+          "m_FileID": 3,
+          "m_PathID": -1691813832
+        },
+        "tileSize": {
+          "x": 14,
+          "y": 14
+        },
+        "tileOffset": {
+          "x": 0,
+          "y": 0
+        },
+        "file": "splat-7.png"
+      }
+    ],
+    "alpha": [
+      "alpha-0.png",
+      "alpha-1.png"
+    ],
+    "terrainDataAsset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "terrainDataId": 594746225
+  },
+  "conversion": {
+    "heightResolution": 1025,
+    "alphaResolution": 1024,
+    "origin": {
+      "x": -1024.0780639648438,
+      "y": 0,
+      "z": -1024
+    },
+    "size": {
+      "x": 1024,
+      "y": 256,
+      "z": 1024
+    },
+    "minimumY": 28.383678701132236,
+    "maximumY": 95.72948393200475,
+    "layers": [
+      {
+        "file": "layer-0.png",
+        "tileSize": {
+          "x": 12,
+          "y": 12
+        },
+        "tileOffset": {
+          "x": -1024,
+          "y": -1024
+        }
+      },
+      {
+        "file": "layer-1.png",
+        "tileSize": {
+          "x": 22,
+          "y": 22
+        },
+        "tileOffset": {
+          "x": -1024,
+          "y": -1024
+        }
+      },
+      {
+        "file": "layer-2.png",
+        "tileSize": {
+          "x": 15,
+          "y": 15
+        },
+        "tileOffset": {
+          "x": -1024,
+          "y": -1024
+        }
+      },
+      {
+        "file": "layer-3.png",
+        "tileSize": {
+          "x": 20,
+          "y": 10
+        },
+        "tileOffset": {
+          "x": -1024,
+          "y": -1024
+        }
+      },
+      {
+        "file": "layer-4.png",
+        "tileSize": {
+          "x": 15,
+          "y": 15
+        },
+        "tileOffset": {
+          "x": -1024,
+          "y": -1024
+        }
+      },
+      {
+        "file": "layer-5.png",
+        "tileSize": {
+          "x": 12,
+          "y": 12
+        },
+        "tileOffset": {
+          "x": -1024,
+          "y": -1024
+        }
+      },
+      {
+        "file": "layer-6.png",
+        "tileSize": {
+          "x": 12,
+          "y": 12
+        },
+        "tileOffset": {
+          "x": -1024,
+          "y": -1024
+        }
+      },
+      {
+        "file": "layer-7.png",
+        "tileSize": {
+          "x": 14,
+          "y": 14
+        },
+        "tileOffset": {
+          "x": -1024,
+          "y": -1024
+        }
+      }
+    ],
+    "sourceAsset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+    "sourceObject": 594746225,
+    "sourceHeightSHA256": "3f9bb6be414adb4d7402aef9d139d6645650face2b5040e46cb916a6ff02cbee",
+    "sourceHeightOrder": "X-major, converted to Z rows and flipped X/Z for packed world",
+    "heightFile": "heights.f32",
+    "weightsFile": "weights.f32"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": "v21 hotfix applied directly to active v20 project",
+  "gatehouseCaps": [
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASEv02_WallsGatehouseV202",
+      "sourceGameObject": 1812,
+      "vertices": 8,
+      "walkable": true
+    },
+    {
+      "name": "Libraries_Transformers_HangarBOT_MainBASEv02_WallsGatehouseV201",
+      "sourceGameObject": 2495,
+      "vertices": 13,
+      "walkable": true
+    }
+  ],
+  "totalFloorSurfaces": 18,
+  "regressionPoint": [
+    -100,
+    -20
+  ],
+  "oldUnderlaysCoveredPoint": false,
+  "newCapCoveredPoint": true,
+  "compile": "passed without warnings",
+  "nativeVisualTested": false,
+  "liveCheckMenu": "Transformers Universe/Verify v21 Floor Fix In This Editor",
+  "interactiveEditorWindowAvailable": false,
+  "automaticRestartRequestPending": false
+}

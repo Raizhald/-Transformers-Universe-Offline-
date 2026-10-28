@@ -1,0 +1,112 @@
+{
+  "heightResolution": 1025,
+  "alphaResolution": 1024,
+  "origin": {
+    "x": -1024.0780639648438,
+    "y": 0,
+    "z": -1024
+  },
+  "size": {
+    "x": 1024,
+    "y": 256,
+    "z": 1024
+  },
+  "minimumY": 28.383678701132236,
+  "maximumY": 95.72948393200475,
+  "layers": [
+    {
+      "file": "layer-0.png",
+      "tileSize": {
+        "x": 12,
+        "y": 12
+      },
+      "tileOffset": {
+        "x": -1024,
+        "y": -1024
+      }
+    },
+    {
+      "file": "layer-1.png",
+      "tileSize": {
+        "x": 22,
+        "y": 22
+      },
+      "tileOffset": {
+        "x": -1024,
+        "y": -1024
+      }
+    },
+    {
+      "file": "layer-2.png",
+      "tileSize": {
+        "x": 15,
+        "y": 15
+      },
+      "tileOffset": {
+        "x": -1024,
+        "y": -1024
+      }
+    },
+    {
+      "file": "layer-3.png",
+      "tileSize": {
+        "x": 20,
+        "y": 10
+      },
+      "tileOffset": {
+        "x": -1024,
+        "y": -1024
+      }
+    },
+    {
+      "file": "layer-4.png",
+      "tileSize": {
+        "x": 15,
+        "y": 15
+      },
+      "tileOffset": {
+        "x": -1024,
+        "y": -1024
+      }
+    },
+    {
+      "file": "layer-5.png",
+      "tileSize": {
+        "x": 12,
+        "y": 12
+      },
+      "tileOffset": {
+        "x": -1024,
+        "y": -1024
+      }
+    },
+    {
+      "file": "layer-6.png",
+      "tileSize": {
+        "x": 12,
+        "y": 12
+      },
+      "tileOffset": {
+        "x": -1024,
+        "y": -1024
+      }
+    },
+    {
+      "file": "layer-7.png",
+      "tileSize": {
+        "x": 14,
+        "y": 14
+      },
+      "tileOffset": {
+        "x": -1024,
+        "y": -1024
+      }
+    }
+  ],
+  "sourceAsset": "CAB-896d69f9c3528a306102575d5a19fe3b",
+  "sourceObject": 594746225,
+  "sourceHeightSHA256": "3f9bb6be414adb4d7402aef9d139d6645650face2b5040e46cb916a6ff02cbee",
+  "sourceHeightOrder": "X-major, converted to Z rows and flipped X/Z for packed world",
+  "heightFile": "heights.f32",
+  "weightsFile": "weights.f32"
+}

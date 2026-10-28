@@ -1,0 +1,214 @@
+{
+  "source": "Original archive clips; no generated replacement sounds",
+  "clips": [
+    {
+      "name": "a004_run_left_04",
+      "sourceName": "a004_run_left_04",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": -231893883,
+      "group": "Audio_Bots_A004",
+      "owner": "a004_run_left_04",
+      "bytes": 7096
+    },
+    {
+      "name": "a004_run_right_03",
+      "sourceName": "a004_run_right_03",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": -2009727344,
+      "group": "Audio_Bots_A004",
+      "owner": "direct",
+      "bytes": 7026
+    },
+    {
+      "name": "a004_land_01",
+      "sourceName": "a004_land_01",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": 1260997857,
+      "group": "Audio_Bots_A004",
+      "owner": "a004_land_01",
+      "bytes": 8773
+    },
+    {
+      "name": "a004_foley_lower_03",
+      "sourceName": "a004_foley_lower_03",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": -1174022034,
+      "group": "Audio_Bots_A004",
+      "owner": "a004_foley_lower_03",
+      "bytes": 5315
+    },
+    {
+      "name": "a004_foley_lower_02",
+      "sourceName": "a004_foley_lower_02",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": 1796713925,
+      "group": "Audio_Bots_A004",
+      "owner": "a004_foley_lower_02",
+      "bytes": 5964
+    },
+    {
+      "name": "a004_run_right_01",
+      "sourceName": "a004_run_right_01",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": -1773360139,
+      "group": "Audio_Bots_A004",
+      "owner": "a004_run_right_01",
+      "bytes": 6989
+    },
+    {
+      "name": "a004_run_left_02",
+      "sourceName": "a004_run_left_02",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": 496522512,
+      "group": "Audio_Bots_A004",
+      "owner": "a004_run_left_02",
+      "bytes": 6993
+    },
+    {
+      "name": "a004_jump_02",
+      "sourceName": "a004_jump_02",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": -1443559371,
+      "group": "Audio_Bots_A004",
+      "owner": "direct",
+      "bytes": 9272
+    },
+    {
+      "name": "a004_land_heavy_01",
+      "sourceName": "a004_land_heavy_01",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": -1378349300,
+      "group": "Audio_Bots_A004",
+      "owner": "direct",
+      "bytes": 10458
+    },
+    {
+      "name": "a004_foley_upper_03",
+      "sourceName": "a004_foley_upper_03",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": 1566935613,
+      "group": "Audio_Bots_A004",
+      "owner": "a004_foley_upper_03",
+      "bytes": 8234
+    },
+    {
+      "name": "a004_run_right_04",
+      "sourceName": "a004_run_right_04",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": 296261119,
+      "group": "Audio_Bots_A004",
+      "owner": "a004_run_right_04",
+      "bytes": 6911
+    },
+    {
+      "name": "a004_land_02",
+      "sourceName": "a004_land_02",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": 2074016292,
+      "group": "Audio_Bots_A004",
+      "owner": "a004_land_02",
+      "bytes": 9558
+    },
+    {
+      "name": "a004_foley_upper_02",
+      "sourceName": "a004_foley_upper_02",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": -421763650,
+      "group": "Audio_Bots_A004",
+      "owner": "direct",
+      "bytes": 8416
+    },
+    {
+      "name": "a004_run_right_02",
+      "sourceName": "a004_run_right_02",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": -409936892,
+      "group": "Audio_Bots_A004",
+      "owner": "direct",
+      "bytes": 7869
+    },
+    {
+      "name": "a004_foley_lower_01",
+      "sourceName": "a004_foley_lower_01",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": 271641279,
+      "group": "Audio_Bots_A004",
+      "owner": "a004_foley_lower_01",
+      "bytes": 6155
+    },
+    {
+      "name": "a004_run_left_03",
+      "sourceName": "a004_run_left_03",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": 326623198,
+      "group": "Audio_Bots_A004",
+      "owner": "direct",
+      "bytes": 6910
+    },
+    {
+      "name": "a004_run_left_01",
+      "sourceName": "a004_run_left_01",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": 709049761,
+      "group": "Audio_Bots_A004",
+      "owner": "direct",
+      "bytes": 6477
+    },
+    {
+      "name": "a004_foley_upper_01",
+      "sourceName": "a004_foley_upper_01",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": 738633048,
+      "group": "Audio_Bots_A004",
+      "owner": "direct",
+      "bytes": 9400
+    },
+    {
+      "name": "a004_jump_01",
+      "sourceName": "a004_jump_01",
+      "asset": "CAB-Audio_Bots_A004",
+      "id": 1368359458,
+      "group": "Audio_Bots_A004",
+      "owner": "a004_jump_01",
+      "bytes": 9164
+    },
+    {
+      "name": "DecepBaseInt_PowerLoop_01",
+      "sourceName": "DecepBaseInt_PowerLoop_01",
+      "asset": "CAB-Audio_Ambience_Decepticon_Interior",
+      "id": -781364630,
+      "group": "Audio_Ambience_Decepticon_Interior",
+      "owner": "SFX_DecepBaseInt_PowerLoop_01",
+      "bytes": 30406
+    },
+    {
+      "name": "DecepBaseInt_EngineLoop_03",
+      "sourceName": "DecepBaseInt_EngineLoop_03",
+      "asset": "CAB-Audio_Ambience_Decepticon_Interior",
+      "id": -1143203454,
+      "group": "Audio_Ambience_Decepticon_Interior",
+      "owner": "direct",
+      "bytes": 46893
+    },
+    {
+      "name": "Wind_HollowLoop_01",
+      "sourceName": "Wind_HollowLoop_01",
+      "asset": "CAB-edd6a5089e115f34288f36019da63c35",
+      "id": -973505722,
+      "group": "Audio_Ambience_Decepticon_Interior",
+      "owner": "SFX_DecepBaseInt_TransportTube_01",
+      "bytes": 25331
+    },
+    {
+      "name": "auto_groundbridge_loop_01",
+      "sourceName": "auto_groundbridge_loop_01",
+      "asset": "CAB-edd6a5089e115f34288f36019da63c35",
+      "id": 168783677,
+      "group": "Audio_Ambience_Decepticon_Interior",
+      "owner": "SFX_DecepBaseInt_Groundbridge_01",
+      "bytes": 42222
+    }
+  ],
+  "steps": "A004 robot clips; the separate InnerBase surface group references a missing bundle",
+  "ambientPositions": "Original SFX_DecepBaseInt_* trigger positions"
+}

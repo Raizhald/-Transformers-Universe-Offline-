@@ -1,0 +1,1984 @@
+{
+  "materials": [
+    {
+      "name": "Libraries_[GenericTextures]_Glows_LinearGradient02",
+      "sourceShader": "Unlit - Additive Colored",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_-310205091.png"
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_GlobemapDecepticon_Ocean",
+      "sourceShader": "VFX_DoubleEmissiveDistortion",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": ""
+    },
+    {
+      "name": "BLACK",
+      "sourceShader": "Illumin-Diffuse",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "diffuseFile": ""
+    },
+    {
+      "name": "Libraries_Transformers_HangarCON_BasePlatform_StraightB_Diff",
+      "sourceShader": "Reflect-Glossy_CustomCubemap",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.05497968941926956,
+      "reflectivity": 1,
+      "emission": {
+        "r": 0.5961003303527832,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 0.7279411554336548,
+        "g": 0.7279411554336548,
+        "b": 0.7279411554336548,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_121407807.png"
+    },
+    {
+      "name": "Libraries_Transformers_HangarCON_BasePlatform_Angles_Diff",
+      "sourceShader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.20801204442977905,
+      "reflectivity": 0.4776119291782379,
+      "emission": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 0.8897058963775635,
+        "g": 0.8897058963775635,
+        "b": 0.8897058963775635,
+        "a": 1
+      },
+      "diffuseFile": "CAB-ff0468d2280aee4071037a1d2c0450b8_1454461950.png"
+    },
+    {
+      "name": "Libraries_Transformers_HangarCON_HangarWalls_EmmisiveGlow_Diff",
+      "sourceShader": "Illumin-Diffuse",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 0.671318531036377,
+        "g": 0.15671640634536743,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_1336170257.png"
+    },
+    {
+      "name": "HUD_MiniMap_DecepticonInterior",
+      "sourceShader": "Unlit-Alpha",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 0.4776119589805603,
+        "g": 0.4776119589805603,
+        "b": 0.4776119589805603,
+        "a": 0.5568627715110779
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_359269657.png"
+    },
+    {
+      "name": "CrashSite_Collision_Texture",
+      "sourceShader": "Alpha-Diffuse",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 0,
+        "b": 0,
+        "a": 0.501960813999176
+      },
+      "diffuseFile": ""
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_GlobemapDecepticon_Rays",
+      "sourceShader": "Particle Add",
+      "scale": {
+        "x": 1000,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-ef42a8c58f2a0320d02c2c579468da8d_2057847697.png"
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_TransferPlatformCON_TransferPlatform_Diff",
+      "sourceShader": "ReflectiveSpecularMat2",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.052964676171541214,
+      "reflectivity": 0.8208954930305481,
+      "emission": {
+        "r": 0.5961003303527832,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "detailFile": "CAB-bb2da20f9314d894a9592dfd80a36b3e_1549553833.png",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-bb2da20f9314d894a9592dfd80a36b3e_2089195891.png"
+    },
+    {
+      "name": "Libraries_Transformers_HangarCON_BasePlatform_StraightB_PURPEM",
+      "sourceShader": "ReflectiveSpecularMat2",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.5753056406974792,
+      "reflectivity": 0.4057971239089966,
+      "emission": {
+        "r": 0.40689611434936523,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "detailFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_-1345769970.png",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_387391544.png"
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_BattleMap_HudLine01",
+      "sourceShader": "Particle Alpha Blend",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-f4715dd7ebc1fd63253b38672aecfd2a_-1359913238.png"
+    },
+    {
+      "name": "VFX_Env_AutobotInterior_ProjectionRayCON01_CS",
+      "sourceShader": "Particle Add",
+      "scale": {
+        "x": 5,
+        "y": 0.20000000298023224
+      },
+      "offset": {
+        "x": 0.30000001192092896,
+        "y": 0.30000001192092896
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "emission": {
+        "r": 0,
+        "g": 0.5804195404052734,
+        "b": 1,
+        "a": 0.250980406999588
+      },
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-1081116814.png"
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_BattleMap_HudBox01",
+      "sourceShader": "Particle Alpha Blend",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_-1150055822.png"
+    },
+    {
+      "name": "Libraries_Transformers_HangarCON_BasePlatform_StraightB_REDEM",
+      "sourceShader": "ReflectiveSpecularMat2",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.39259013533592224,
+      "reflectivity": 0.4637680947780609,
+      "emission": {
+        "r": 1,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "detailFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_-1345769970.png",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_387391544.png"
+    },
+    {
+      "name": "LevelDesign_Gameplay_GroundBridges_Earthbridge_BOT",
+      "sourceShader": "ReflectiveSpecularMat2",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.078125,
+      "reflectivity": 1,
+      "emission": {
+        "r": 0,
+        "g": 0.9582171440124512,
+        "b": 1,
+        "a": 1
+      },
+      "detailFile": "CAB-dfbbe87adc12a9a4aad44347b3b55572_-459670631.png",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-dfbbe87adc12a9a4aad44347b3b55572_435332623.png"
+    },
+    {
+      "name": "Libraries_Transformers_HangarCON_BasePlatform_Ramp",
+      "sourceShader": "Reflect-Glossy",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 1,
+        "y": 1
+      },
+      "shininess": 0.39227890968322754,
+      "reflectivity": 0,
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 0.8897058963775635,
+        "g": 0.8897058963775635,
+        "b": 0.8897058963775635,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_-56005799.png"
+    },
+    {
+      "name": "ConeLampGlow01A_Diff",
+      "sourceShader": "Unlit - Additive Colored",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_1682901531.png"
+    },
+    {
+      "name": "LevelDesign_Gameplay_GroundBridges_Earthbridge_CON",
+      "sourceShader": "ReflectiveSpecularMat2",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.13747873902320862,
+      "reflectivity": 1,
+      "emission": {
+        "r": 0.5961003303527832,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "detailFile": "CAB-dfbbe87adc12a9a4aad44347b3b55572_-459670631.png",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-dfbbe87adc12a9a4aad44347b3b55572_435332623.png"
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_AutobotBase_EarthbridgeGlass_DiffA",
+      "sourceShader": "Alpha-Glossy",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-dfbbe87adc12a9a4aad44347b3b55572_-1401920024.png"
+    },
+    {
+      "name": "ConeLampGlow01_Diff",
+      "sourceShader": "Particle Add",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-dfbbe87adc12a9a4aad44347b3b55572_-1896277984.png"
+    },
+    {
+      "name": "VFX_Glow_BrightRed_AA",
+      "sourceShader": "VFX_Shaders_AdditiveAlpha",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-bef882371e36a68df7d471b813d6be20_-1411073272.png"
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_DecepticonBase_BaseFluffCON_Diff",
+      "sourceShader": "ReflectiveSpecularMat2",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.01971224509179592,
+      "reflectivity": 0.7115384340286255,
+      "emission": {
+        "r": 0.6024360060691833,
+        "g": 0.0156862735748291,
+        "b": 1,
+        "a": 1
+      },
+      "detailFile": "CAB-0855e1a85789eda4bb32779fba9e02f0_-379002517.png",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-0855e1a85789eda4bb32779fba9e02f0_-1878825383.png"
+    },
+    {
+      "name": "VFX_Env_DecepticonInterior_HangerShield_Red",
+      "sourceShader": "VFX_Shaders_EmissiveDistortionHighlightIntersectAlphaMask",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": ""
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_HangarBase_CON_Diff",
+      "sourceShader": "ReflectiveSpecularMat2",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.078125,
+      "reflectivity": 0.7142857313156128,
+      "emission": {
+        "r": 0.5961003303527832,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "detailFile": "CAB-dfbbe87adc12a9a4aad44347b3b55572_-1765065047.png",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-dfbbe87adc12a9a4aad44347b3b55572_1842793536.png"
+    },
+    {
+      "name": "Libraries_Transformers_HangarCON_BasePlatform_Crystal",
+      "sourceShader": "Illumin-Diffuse",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 0.3987937867641449,
+        "g": 0.25448673963546753,
+        "b": 0.772549033164978,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_2102303034.png"
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_BattleMapDecepticon_ScreenLight",
+      "sourceShader": "Particle Add",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_820060277.png"
+    },
+    {
+      "name": "FactionWarfareAuto01",
+      "sourceShader": "Alpha-VertexLit",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-dfbbe87adc12a9a4aad44347b3b55572_662488773.png"
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Glows_LinearGradient01_B",
+      "sourceShader": "Particle Add",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_1432264672.png"
+    },
+    {
+      "name": "LevelDesign_Gameplay_DepositPoints_Bank01_Diff",
+      "sourceShader": "ReflectiveSpecularMat2",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.078125,
+      "reflectivity": 0.7014925479888916,
+      "emission": {
+        "r": 0,
+        "g": 0.9582171440124512,
+        "b": 1,
+        "a": 1
+      },
+      "detailFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_1457989171.png",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_-955827314.png"
+    },
+    {
+      "name": "LevelDesign_Gameplay_DepositPoints_Bank02_Diff",
+      "sourceShader": "ReflectiveSpecularMat2",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.078125,
+      "reflectivity": 0.7014925479888916,
+      "emission": {
+        "r": 0,
+        "g": 0.9582171440124512,
+        "b": 1,
+        "a": 1
+      },
+      "detailFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_1043033131.png",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_1964367572.png"
+    },
+    {
+      "name": "LevelDesign_Gameplay_DepositPoints_Machine_Diff",
+      "sourceShader": "ReflectiveSpecularMat2",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.11092472076416016,
+      "reflectivity": 0.8805970549583435,
+      "emission": {
+        "r": 0.5961003303527832,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "detailFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_1137594891.png",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_242005989.png"
+    },
+    {
+      "name": "LevelDesign_Gameplay_DepositPoints_Plate_Diff",
+      "sourceShader": "ReflectiveSpecularMat2",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.078125,
+      "reflectivity": 0.8805970549583435,
+      "emission": {
+        "r": 0.5961003303527832,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "detailFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_690373082.png",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_-20950443.png"
+    },
+    {
+      "name": "CubemapTest",
+      "sourceShader": "CubemapDebug",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "diffuseFile": ""
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Glows_LinearGradient01_C",
+      "sourceShader": "Particle Add",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_1432264672.png"
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Glows_LinearGradient01",
+      "sourceShader": "Particle Add",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_1432264672.png"
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_BattleMap_HudCircle01",
+      "sourceShader": "Particle Alpha Blend",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0.800000011920929
+      },
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-177d1ef7d6791a25140c78982fdbf3bf_-674892509.png"
+    },
+    {
+      "name": "Libraries_Transformers_HangarCON_BasePlatform_Straight_Diff",
+      "sourceShader": "ReflectiveSpecularMat2",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.1410667449235916,
+      "reflectivity": 1,
+      "emission": {
+        "r": 0.5961003303527832,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "detailFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_-1446008895.png",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_-30175993.png"
+    },
+    {
+      "name": "Libraries_Transformers_BotProps_CONAttachments_PipesClutter_Diff",
+      "sourceShader": "ReflectiveSpecularMat2",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.078125,
+      "reflectivity": 0.8507462739944458,
+      "emission": {
+        "r": 0.5961003303527832,
+        "g": 0,
+        "b": 1,
+        "a": 1
+      },
+      "detailFile": "CAB-0855e1a85789eda4bb32779fba9e02f0_387143321.png",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-0855e1a85789eda4bb32779fba9e02f0_677052940.png"
+    },
+    {
+      "name": "Font Material",
+      "sourceShader": "",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": ""
+    },
+    {
+      "name": "VFX_Env_DecepticonInterior_HangarShield_CS",
+      "sourceShader": "VFX_Shaders_EmissiveDistortionHighlightIntersectAlphaMask",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": ""
+    },
+    {
+      "name": "LevelDesign_Gameplay_EnergonCleansers_CleanserBOT_Diff",
+      "sourceShader": "ReflectiveSpecularMat2",
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "shininess": 0.14709711074829102,
+      "reflectivity": 0.692307710647583,
+      "emission": {
+        "r": 0,
+        "g": 0.9916434288024902,
+        "b": 1,
+        "a": 1
+      },
+      "detailFile": "CAB-f4715dd7ebc1fd63253b38672aecfd2a_1367558107.png",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-f4715dd7ebc1fd63253b38672aecfd2a_1892969196.png"
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_GlobemapDecepticon_Earth",
+      "sourceShader": "VFX_ScreenAlphaTex",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-dfbbe87adc12a9a4aad44347b3b55572_1059202693.png"
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_GlobemapDecepticon_EdgeGlow",
+      "sourceShader": "Particle Add",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-dfbbe87adc12a9a4aad44347b3b55572_132084345.png"
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_BattleMapDecepticon_ScreenNosie",
+      "sourceShader": "VFX_Shaders_EmissiveDistortionHighlightIntersectAlphaMask",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": ""
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_BattleMap_Transparent",
+      "sourceShader": "Particle Alpha Blend",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 0
+      },
+      "diffuseFile": ""
+    },
+    {
+      "name": "VFX_Gameplay_HologramTable_BattleMapDecepticon_ScreenScan",
+      "sourceShader": "VFX_ScreenAlphaTex",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-ef42a8c58f2a0320d02c2c579468da8d_-1258356944.png"
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Glows_LinearGradient01_A",
+      "sourceShader": "Particle Add",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-d09ad1ff9847da60e2e6513fc004906c_1432264672.png"
+    },
+    {
+      "name": "VFX_Glow_Bright_AB",
+      "sourceShader": "Particle Alpha Blend",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-bef882371e36a68df7d471b813d6be20_244698783.png"
+    },
+    {
+      "name": "Libraries_[GenericTextures]_Walls_Set8_Diff",
+      "sourceShader": "Normal-Glossy",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 0.8602941036224365,
+        "g": 0.8588108420372009,
+        "b": 0.8539683818817139,
+        "a": 1
+      },
+      "diffuseFile": "CAB-6949574fb1bb6ee1c223fe42a70fa129_565743036.png"
+    },
+    {
+      "name": "Libraries_[GenericTextures]_SkyAutobotInterior_01",
+      "sourceShader": "TransparentBackground",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": "CAB-dfbbe87adc12a9a4aad44347b3b55572_-1660164176.png"
+    },
+    {
+      "name": "VFX_Gameplay_EnergonLift_VRTrainingBOT_CS",
+      "sourceShader": "VFX_Shaders_FresnelRefractionNormalSpec",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": ""
+    },
+    {
+      "name": "VFX_Gameplay_EnergonLift_VRTrainingBOT_Distortion",
+      "sourceShader": "VFX_Shaders_EmissiveDistortionHighlightIntersectAlphaMask",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 0.46796655654907227,
+        "b": 0,
+        "a": 1
+      },
+      "diffuseFile": ""
+    },
+    {
+      "name": "VFX_Gameplay_EnergonLift_TunnelInterior_CS",
+      "sourceShader": "VFX_Shaders_FresnelRefractionNormalSpec",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      },
+      "diffuseFile": ""
+    },
+    {
+      "name": "lambert1",
+      "sourceShader": "Normal-Diffuse",
+      "shininess": 0.2,
+      "reflectivity": 0,
+      "detailFile": "",
+      "detailScale": {
+        "x": 1,
+        "y": 1
+      },
+      "detailOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "emission": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "scale": {
+        "x": 1,
+        "y": 1
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "diffuseFile": ""
+    }
+  ]
+}

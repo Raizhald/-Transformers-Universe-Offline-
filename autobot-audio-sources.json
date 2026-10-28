@@ -1,0 +1,162 @@
+{
+  "recoveredClips": [
+    {
+      "name": "a001_transform_r2v_01",
+      "sourceName": "a001_transform_r2v_01",
+      "asset": "CAB-Audio_Bots_A001",
+      "id": 494463276,
+      "group": "Audio_Bots_A001",
+      "owner": "Event_A001_Transform_R2V",
+      "bytes": 32904
+    },
+    {
+      "name": "BaseAutoInt_MechMove_03",
+      "sourceName": "BaseAutoInt_MechMove_03",
+      "asset": "CAB-Audio_Ambience_Autobot_Interior",
+      "id": -2029571201,
+      "group": "Audio_Ambience_Autobot_Interior",
+      "owner": "direct",
+      "bytes": 48230
+    },
+    {
+      "name": "BaseAutoInt_AlienTechLow_01",
+      "sourceName": "BaseAutoInt_AlienTechLow_01",
+      "asset": "CAB-Audio_Ambience_Autobot_Interior",
+      "id": -155121190,
+      "group": "Audio_Ambience_Autobot_Interior",
+      "owner": "AutoBaseInt_AlienTechLow_01",
+      "bytes": 47887
+    },
+    {
+      "name": "BaseAutoInt_MechMove_02",
+      "sourceName": "BaseAutoInt_MechMove_02",
+      "asset": "CAB-Audio_Ambience_Autobot_Interior",
+      "id": -1688422930,
+      "group": "Audio_Ambience_Autobot_Interior",
+      "owner": "direct",
+      "bytes": 47351
+    },
+    {
+      "name": "VR_TransTube_01",
+      "sourceName": "VR_TransTube_01",
+      "asset": "CAB-f58ae763d9bf4330f0f7ad3ba5dc12c5",
+      "id": -186288630,
+      "group": "Audio_Ambience_Autobot_Interior",
+      "owner": "SFX_AutoBaseInt_TransTube_01",
+      "bytes": 39076
+    },
+    {
+      "name": "BaseAutoInt_AlienTechLow_04",
+      "sourceName": "BaseAutoInt_AlienTechLow_04",
+      "asset": "CAB-Audio_Ambience_Autobot_Interior",
+      "id": -676379954,
+      "group": "Audio_Ambience_Autobot_Interior",
+      "owner": "AutoBaseInt_AlienTechLow_04",
+      "bytes": 49525
+    },
+    {
+      "name": "BaseAutoInt_MechMove_04",
+      "sourceName": "BaseAutoInt_MechMove_04",
+      "asset": "CAB-Audio_Ambience_Autobot_Interior",
+      "id": 743398610,
+      "group": "Audio_Ambience_Autobot_Interior",
+      "owner": "AutoBaseInt_MechMove_04",
+      "bytes": 58173
+    },
+    {
+      "name": "BaseAutoInt_AlienTech_02",
+      "sourceName": "BaseAutoInt_AlienTech_02",
+      "asset": "CAB-Audio_Ambience_Autobot_Interior",
+      "id": -299349939,
+      "group": "Audio_Ambience_Autobot_Interior",
+      "owner": "AutoBaseInt_AlienTech_02",
+      "bytes": 48546
+    },
+    {
+      "name": "BaseAutoInt_FactionMapLoop_01",
+      "sourceName": "BaseAutoInt_FactionMapLoop_01",
+      "asset": "CAB-Audio_Ambience_Autobot_Interior",
+      "id": 2044356891,
+      "group": "Audio_Ambience_Autobot_Interior",
+      "owner": "SFX_AutoBaseInt_FactionHoloScreen_01",
+      "bytes": 36706
+    },
+    {
+      "name": "BaseAutoInt_AlienTech_05",
+      "sourceName": "BaseAutoInt_AlienTech_05",
+      "asset": "CAB-Audio_Ambience_Autobot_Interior",
+      "id": 116717910,
+      "group": "Audio_Ambience_Autobot_Interior",
+      "owner": "AutoBaseInt_AlienTech_05",
+      "bytes": 46072
+    },
+    {
+      "name": "BaseAutoInt_WorldMapLoop_01",
+      "sourceName": "BaseAutoInt_WorldMapLoop_01",
+      "asset": "CAB-Audio_Ambience_Autobot_Interior",
+      "id": -937406680,
+      "group": "Audio_Ambience_Autobot_Interior",
+      "owner": "direct",
+      "bytes": 31982
+    },
+    {
+      "name": "BaseAutoInt_AlienTechLow_02",
+      "sourceName": "BaseAutoInt_AlienTechLow_02",
+      "asset": "CAB-Audio_Ambience_Autobot_Interior",
+      "id": -884952509,
+      "group": "Audio_Ambience_Autobot_Interior",
+      "owner": "direct",
+      "bytes": 45735
+    },
+    {
+      "name": "BaseAutoInt_AlienTech_01",
+      "sourceName": "BaseAutoInt_AlienTech_01",
+      "asset": "CAB-Audio_Ambience_Autobot_Interior",
+      "id": -803451706,
+      "group": "Audio_Ambience_Autobot_Interior",
+      "owner": "direct",
+      "bytes": 47663
+    },
+    {
+      "name": "BaseAutoInt_MechMove_01",
+      "sourceName": "BaseAutoInt_MechMove_01",
+      "asset": "CAB-Audio_Ambience_Autobot_Interior",
+      "id": 1828441943,
+      "group": "Audio_Ambience_Autobot_Interior",
+      "owner": "AutoBaseInt_MechMove_01",
+      "bytes": 46356
+    },
+    {
+      "name": "BaseAutoInt_MechMove_06",
+      "sourceName": "BaseAutoInt_MechMove_06",
+      "asset": "CAB-Audio_Ambience_Autobot_Interior",
+      "id": 1079105995,
+      "group": "Audio_Ambience_Autobot_Interior",
+      "owner": "AutoBaseInt_MechMove_06",
+      "bytes": 51765
+    },
+    {
+      "name": "BaseAutoInt_MechMove_05",
+      "sourceName": "BaseAutoInt_MechMove_05",
+      "asset": "CAB-Audio_Ambience_Autobot_Interior",
+      "id": 1029642401,
+      "group": "Audio_Ambience_Autobot_Interior",
+      "owner": "direct",
+      "bytes": 69466
+    },
+    {
+      "name": "generator_idle_01",
+      "sourceName": "generator_idle_01",
+      "asset": "CAB-3fa1bf413070aae4a9deb41497d66903",
+      "id": 1101790026,
+      "group": "Audio_Ambience_Autobot_Interior",
+      "owner": "SFX_AutoBaseInt_Generator_01",
+      "bytes": 42494
+    }
+  ],
+  "movementFallback": "Original A004 archive metallic footsteps, jump and land clips",
+  "missingSourceBundles": [
+    "CAB-_Clips0_Audio_Bots_A001",
+    "CAB-_Clips0_e356408ddfbdb5d0a0eb267d7744c05d"
+  ]
+}

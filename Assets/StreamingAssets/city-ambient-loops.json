@@ -1,0 +1,125 @@
+{
+  "loops": [
+    {
+      "name": "SFX_DecepBaseExt_CrashSiteFire_01_trigger",
+      "position": {
+        "x": -470.000732421875,
+        "y": 65.98025512695312,
+        "z": -377.9814758300781
+      },
+      "clip": "fire_burning_loop_01",
+      "volume": 0.3,
+      "range": 80
+    },
+    {
+      "name": "SFX_DecepBaseExt_LargeFire_01_trigger",
+      "position": {
+        "x": -726.1217651367188,
+        "y": 101.53640747070312,
+        "z": -552.6253662109375
+      },
+      "clip": "fire_burning_loop_01",
+      "volume": 0.3,
+      "range": 80
+    },
+    {
+      "name": "SFX_DecepBaseExt_LargeFireRumble_01_trigger",
+      "position": {
+        "x": -724.4988403320312,
+        "y": 81.82630157470703,
+        "z": -546.2257690429688
+      },
+      "clip": "fireplant_MiddleRumble_01",
+      "volume": 0.15,
+      "range": 80
+    },
+    {
+      "name": "SFX_DecepBaseExt_CrashFire_02_trigger",
+      "position": {
+        "x": -664.9307861328125,
+        "y": 57.273197174072266,
+        "z": -592.7618408203125
+      },
+      "clip": "fire_burning_loop_01",
+      "volume": 0.3,
+      "range": 80
+    },
+    {
+      "name": "SFX_DecepBaseExt_CrashSiteFire_04_trigger",
+      "position": {
+        "x": -527.7637939453125,
+        "y": 75.67118835449219,
+        "z": -499.78387451171875
+      },
+      "clip": "fire_burning_loop_01",
+      "volume": 0.3,
+      "range": 80
+    },
+    {
+      "name": "SFX_DecepBaseExt_LargeCrashFire_01_trigger",
+      "position": {
+        "x": -632.2630615234375,
+        "y": 65.98025512695312,
+        "z": -581.2421264648438
+      },
+      "clip": "fire_burning_loop_01",
+      "volume": 0.3,
+      "range": 80
+    },
+    {
+      "name": "SFX_DecepBaseExt_HollowLoop_01_trigger",
+      "position": {
+        "x": -862.9041748046875,
+        "y": 80.05458068847656,
+        "z": -855.9152221679688
+      },
+      "clip": "Wind_HollowLoop_01",
+      "volume": 0.3,
+      "range": 100
+    },
+    {
+      "name": "SFX_DecepBaseExt_CrashFire_01_trigger",
+      "position": {
+        "x": -607.5369873046875,
+        "y": 65.42782592773438,
+        "z": -634.7648315429688
+      },
+      "clip": "fire_burning_loop_01",
+      "volume": 0.3,
+      "range": 80
+    },
+    {
+      "name": "SFX_DecepBaseExt_CrashSiteFire_05_trigger",
+      "position": {
+        "x": -701.0740356445312,
+        "y": 65.98025512695312,
+        "z": -725.6181030273438
+      },
+      "clip": "fire_burning_loop_01",
+      "volume": 0.3,
+      "range": 80
+    },
+    {
+      "name": "SFX_DecepBaseExt_CrashSiteFire_06_trigger",
+      "position": {
+        "x": -469.80828857421875,
+        "y": 49.781036376953125,
+        "z": -107.56039428710938
+      },
+      "clip": "fire_burning_loop_01",
+      "volume": 0.3,
+      "range": 80
+    },
+    {
+      "name": "SFX_DecepBaseExt_CrashSiteFire_03_trigger",
+      "position": {
+        "x": -160.531494140625,
+        "y": 32.23225402832031,
+        "z": -137.22247314453125
+      },
+      "clip": "fire_burning_loop_01",
+      "volume": 0.3,
+      "range": 80
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "version": "Unity v13",
+  "originalBuiltinResource": "Archived tuclient_Data/Resources/unity default resources; original mesh schema from matching Unity bundle",
+  "restoredRenderableInstances": 705,
+  "restoredPhysicalRoadAndPavementInstances": 700,
+  "restoredAtmospherePlanes": 5,
+  "helperOnlyQuadsExcluded": [
+    "CubemapController",
+    "MinimapBackground"
+  ],
+  "recoveredRoadCollisionTriangles": 1796,
+  "collisionVerticesMatchingRecoveredRenderGeometry": 5388,
+  "collisionToVisibleSurfaceMaxVertexErrorMetres": 0.00012877739021761379,
+  "collisionVertexMatchesOutsideOneMillimetre": 0,
+  "recoveredInstanceWorldVertexMaxErrorMetres": 0.0001997524541366147,
+  "totalExteriorRenderInstances": 11204,
+  "totalExteriorMeshCollisionTriangles": 170329,
+  "originalTerrainResolution": 1025,
+  "materialRecords": 163,
+  "originalAdditionalNormalAndIlluminationTextures": 17,
+  "sourceSkyCube": {
+    "name": "con_base_001_alien_SKY",
+    "asset": "CAB-7dbaa01ef7446d532255b645f4657f07",
+    "id": -1459866180,
+    "size": 512,
+    "file": "sky.rgba",
+    "rotation": 180
+  },
+  "originalCityMinimap": "Aligned from original world quad corners/UVs; cyan display contrast adjusted",
+  "sceneFogAndLighting": "Recovered scene RenderSettings and original directional light orientation, colour and intensity",
+  "originalCityAmbienceClips": 6,
+  "activeCityAmbience": "HighGrand_Wind_02, original nonspatial wind loop, source volume 0.4786301",
+  "oggPagesCrcPassed": 64,
+  "remainingMissingBuiltinMeshReferencesWithinSelectedStaticRenderers": 0,
+  "limitations": [
+    "Native shader rendering, walking and sound playback remain unverified: Computer Use helper failed to write kernel assets (os error 3).",
+    "Legacy shaders are adapted for Unity 6; baked lightmaps, full particle simulation, scripted world events and server systems are not restored."
+  ],
+  "csharpCompilation": "passed, no warnings",
+  "startupChecks": 24,
+  "nativeAppearanceVerified": false,
+  "nativeWalkingVerified": false
+}

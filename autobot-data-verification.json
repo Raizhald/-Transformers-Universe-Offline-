@@ -1,0 +1,94 @@
+{
+  "packs": {
+    "autobot-hangar.tupack": {
+      "vertices": 458961,
+      "triangles": 287249,
+      "meshes": 639,
+      "nodes": 639,
+      "animations": [],
+      "source": "work\\v18-autobot\\assets\\base\\autobot_base.gltf",
+      "sha256": "7977b71261002f84ac4d20dae6d82c5530370b8755c7a2ad3d77b72b7261b4ca"
+    },
+    "autobot-robot.tupack": {
+      "vertices": 11520,
+      "triangles": 7825,
+      "meshes": 3,
+      "nodes": 133,
+      "animations": [
+        "Idle",
+        "Fall",
+        "Walk",
+        "Run"
+      ],
+      "source": "work\\v18-a001-export\\A001.gltf",
+      "sha256": "55ed5e85fd6b287b3a2d9e3f3f15e0c2d7bc45737d7566836f9c84bde721c0a0"
+    },
+    "autobot-globe.tupack": {
+      "vertices": 3594,
+      "triangles": 2964,
+      "meshes": 3,
+      "nodes": 3,
+      "animations": [],
+      "source": "work\\v18-autobot\\assets\\effects\\autobot_interior\\globe.gltf",
+      "sha256": "e4bbb600d469b9c62c9995c2770a488a6e36cca172c1401813f61e7fb22b91b0"
+    }
+  },
+  "originalScene": "generated_bundles/3952647920/Autobot_Interior.unity3d",
+  "sourceSHA256": "a7ace26ce5d80aa00717f98c6c3fdc3dd10464ceb9ca4f5e2e25d79017d5b159",
+  "collisionTriangles": 5700,
+  "originalLights": 29,
+  "materialRecords": 92,
+  "faction": "Autobots",
+  "robot": "A001 / Catapult",
+  "sourceFactionValue": 0,
+  "mapBounds": [
+    -157.63341331481934,
+    -200.43154525756836,
+    279.40534591674805,
+    355.7027816772461
+  ],
+  "mapRotationDegrees": 180,
+  "rig": {
+    "stats": {
+      "Robot": {
+        "vertices": 11520,
+        "triangles": 7825,
+        "meshes": 3
+      }
+    },
+    "issues": [],
+    "clips": [
+      {
+        "name": "RigA_[Shared]_Robot_CharacterGeneric_Idle01_clip",
+        "duration": 2.4800000190734863,
+        "tracks": 195,
+        "missingPaths": []
+      },
+      {
+        "name": "RigA_[Shared]_Robot_CharacterGeneric_Jump01C_clip",
+        "duration": 0.19999998807907104,
+        "tracks": 195,
+        "missingPaths": []
+      },
+      {
+        "name": "RigA_[Shared]_Robot_CharacterGeneric_WalkForwards01_clip",
+        "duration": 0.7800000309944153,
+        "tracks": 195,
+        "missingPaths": []
+      },
+      {
+        "name": "RigA_[Shared]_Robot_CharacterGeneric_RunForwards01_clip",
+        "duration": 0.7000000476837158,
+        "tracks": 195,
+        "missingPaths": []
+      }
+    ]
+  },
+  "spawn": [
+    -79.46286,
+    14.36509,
+    -3.245
+  ],
+  "sourceFloorY": 14.28509,
+  "sourceRobotRoot": "CAB-408d9ac596a128f4dba5e19d6a31e150 / RigA_A001_Robot_Prefab"
+}

@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "basis": "actual packed hangar mesh vertices, not the new doorway JSON itself",
+  "doors": [
+    {
+      "name": "Central City restricted door",
+      "maxErrorMetres": 1.434563074350868e-07,
+      "sixCornersChecked": true
+    },
+    {
+      "name": "Training restricted door",
+      "maxErrorMetres": 1.397906146771426e-05,
+      "sixCornersChecked": true
+    }
+  ]
+}

@@ -1,0 +1,770 @@
+[
+  {
+    "name": "Grounbridge_Icon_EQuestGM",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      446,
+      66,
+      61,
+      63
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Grounbridge_Icon_ERushGM",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      446,
+      130,
+      61,
+      63
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Grounbridge_Icon_Random",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      320,
+      130,
+      63,
+      63
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Grounbridge_Icon_TDMGM",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      498,
+      3,
+      61,
+      62
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Hangar_Icon_01",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      569,
+      264,
+      50,
+      34
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Hangar_Icon_02",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      547,
+      402,
+      55,
+      36
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Hangar_Icon_03",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      603,
+      402,
+      21,
+      36
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Hangar_Icon_04",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      649,
+      395,
+      47,
+      33
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Hangar_Icon_05",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      671,
+      442,
+      51,
+      30
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Hangar_Icon_06",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      511,
+      264,
+      57,
+      34
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Hangar_Icon_07",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      697,
+      411,
+      47,
+      30
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Hangar_Icon_08",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      560,
+      15,
+      39,
+      32
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "HUD_ButtonBG",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      484,
+      299,
+      88,
+      33
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Queue_ButtonBG",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      747,
+      484,
+      49,
+      28
+    ],
+    "border": [
+      24,
+      7,
+      24,
+      7
+    ]
+  },
+  {
+    "name": "Social_Chat_Button_Close",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      564,
+      183,
+      39,
+      39
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Social_Chat_Button_Enter",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      548,
+      86,
+      37,
+      37
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Social_Chat_Frame",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      317,
+      282,
+      166,
+      95
+    ],
+    "border": [
+      77,
+      13,
+      75,
+      65
+    ]
+  },
+  {
+    "name": "Social_PanelBGFull",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      445,
+      396,
+      101,
+      70
+    ],
+    "border": [
+      49,
+      32,
+      49,
+      37
+    ]
+  },
+  {
+    "name": "Social_PanelHover",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      560,
+      48,
+      37,
+      37
+    ],
+    "border": [
+      18,
+      18,
+      18,
+      18
+    ]
+  },
+  {
+    "name": "Social_PanelSelected",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      615,
+      128,
+      31,
+      30
+    ],
+    "border": [
+      16,
+      16,
+      16,
+      16
+    ]
+  },
+  {
+    "name": "Social_TextBox",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      685,
+      323,
+      25,
+      23
+    ],
+    "border": [
+      11,
+      10,
+      11,
+      10
+    ]
+  },
+  {
+    "name": "HUD_Radar_Bar",
+    "atlas": "CAB-884186b6f164fa840b7ba6243ac64607_-2084032429",
+    "rect": [
+      505,
+      335,
+      5,
+      177
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "HUD_Radar_BG",
+    "atlas": "CAB-884186b6f164fa840b7ba6243ac64607_-2084032429",
+    "rect": [
+      0,
+      268,
+      266,
+      244
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "HUD_Radar_DistanceBG",
+    "atlas": "CAB-884186b6f164fa840b7ba6243ac64607_-2084032429",
+    "rect": [
+      354,
+      255,
+      26,
+      19
+    ],
+    "border": [
+      19,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "name": "HUD_Radar_Dot",
+    "atlas": "CAB-884186b6f164fa840b7ba6243ac64607_-2084032429",
+    "rect": [
+      328,
+      249,
+      25,
+      25
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "HUD_Radar_Overlay",
+    "atlas": "CAB-884186b6f164fa840b7ba6243ac64607_-2084032429",
+    "rect": [
+      267,
+      275,
+      237,
+      237
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "HUD_Radar_Player",
+    "atlas": "CAB-884186b6f164fa840b7ba6243ac64607_-2084032429",
+    "rect": [
+      298,
+      243,
+      29,
+      31
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "HUD_Radar_Triangle",
+    "atlas": "CAB-884186b6f164fa840b7ba6243ac64607_-2084032429",
+    "rect": [
+      267,
+      242,
+      30,
+      32
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "HUD_Currency_BarBG",
+    "atlas": "CAB-4ca10bd0d1b49c34284f5e19ee3ccbf4_-2075529489",
+    "rect": [
+      2033,
+      1773,
+      7,
+      16
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "HUD_Currency_Relic",
+    "atlas": "CAB-4ca10bd0d1b49c34284f5e19ee3ccbf4_-2075529489",
+    "rect": [
+      2000,
+      1770,
+      18,
+      19
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "HUD_Currency_Raw",
+    "atlas": "CAB-4ca10bd0d1b49c34284f5e19ee3ccbf4_-2075529489",
+    "rect": [
+      1975,
+      1764,
+      24,
+      25
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "HUD_Minimap_ComBarBg",
+    "atlas": "CAB-4ca10bd0d1b49c34284f5e19ee3ccbf4_-2075529489",
+    "rect": [
+      1822,
+      1766,
+      6,
+      11
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "HUD_Minimap_ComBar",
+    "atlas": "CAB-4ca10bd0d1b49c34284f5e19ee3ccbf4_-2075529489",
+    "rect": [
+      1993,
+      1895,
+      4,
+      9
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "HUD_Minimap_ComBarOverlay",
+    "atlas": "CAB-4ca10bd0d1b49c34284f5e19ee3ccbf4_-2075529489",
+    "rect": [
+      1566,
+      1764,
+      170,
+      13
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "HUD_Currency_RawBG",
+    "atlas": "CAB-4ca10bd0d1b49c34284f5e19ee3ccbf4_-2075529489",
+    "rect": [
+      1196,
+      1458,
+      149,
+      41
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "HUD_Currency_RelicBG",
+    "atlas": "CAB-4ca10bd0d1b49c34284f5e19ee3ccbf4_-2075529489",
+    "rect": [
+      806,
+      1437,
+      149,
+      41
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "HUD_Currency_CommanderBG",
+    "atlas": "CAB-4ca10bd0d1b49c34284f5e19ee3ccbf4_-2075529489",
+    "rect": [
+      956,
+      1437,
+      149,
+      41
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Frame",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      603,
+      225,
+      40,
+      38
+    ],
+    "border": [
+      18,
+      18,
+      19,
+      19
+    ]
+  },
+  {
+    "name": "Frame_MiniPortrait",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      564,
+      166,
+      16,
+      16
+    ],
+    "border": [
+      8,
+      8,
+      8,
+      8
+    ]
+  },
+  {
+    "name": "Garage_SliderPanels_FrameB",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      317,
+      378,
+      127,
+      134
+    ],
+    "border": [
+      12,
+      12,
+      12,
+      12
+    ]
+  },
+  {
+    "name": "Hangar_Button_Close",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      615,
+      159,
+      31,
+      32
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Hangar_Icon_04",
+    "atlas": "CAB-e356408ddfbdb5d0a0eb267d7744c05d_-2040439340",
+    "rect": [
+      649,
+      395,
+      47,
+      33
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Bar_Generic_BG",
+    "atlas": "CAB-c74e4219789c63e44b4fa9eadb846641_-1278959499",
+    "rect": [
+      243,
+      10,
+      5,
+      10
+    ],
+    "border": [
+      2,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "name": "Bar_Generic_Fill",
+    "atlas": "CAB-c74e4219789c63e44b4fa9eadb846641_-1278959499",
+    "rect": [
+      249,
+      10,
+      5,
+      10
+    ],
+    "border": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "name": "Hangar_Button_Black",
+    "atlas": "CAB-c74e4219789c63e44b4fa9eadb846641_-1278959499",
+    "rect": [
+      616,
+      204,
+      30,
+      48
+    ],
+    "border": [
+      10,
+      10,
+      10,
+      10
+    ]
+  },
+  {
+    "name": "Hangar_Button_Close",
+    "atlas": "CAB-c74e4219789c63e44b4fa9eadb846641_-1278959499",
+    "rect": [
+      510,
+      165,
+      57,
+      56
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "HUD_Combat_BG",
+    "atlas": "CAB-4ca10bd0d1b49c34284f5e19ee3ccbf4_-2075529489",
+    "rect": [
+      1445,
+      1675,
+      402,
+      86
+    ],
+    "border": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Hangar_HeaderWidgetFrame",
+    "atlas": "CAB-53f3fda7cdea95f0b121813f05cf935d_-1278959499",
+    "rect": [
+      196,
+      4,
+      85,
+      37
+    ],
+    "border": [
+      11,
+      12,
+      14,
+      13
+    ]
+  }
+]

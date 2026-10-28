@@ -1,0 +1,50 @@
+{
+  "version": 22,
+  "checksPassed": true,
+  "unityStarted": false,
+  "nativeVisualCheckPerformed": false,
+  "activeProject": "C:\\Users\\sesta\\Documents\\Codex\\2026-10-24\\referenced-chatgpt-conversation-this-is-an\\outputs\\TransformersUniverse-v20-Unity",
+  "source": "generated_bundles/3952647920/Autobot_Interior.unity3d",
+  "recoveredMeshes": 2,
+  "vertices": 143,
+  "triangles": 218,
+  "originalLowerBounds": {
+    "Plane": {
+      "min": [
+        -144.61604690551758,
+        -24.34690093994141,
+        -254.04382705688477
+      ],
+      "max": [
+        258.4524574279785,
+        -24.346900939941403,
+        149.02467727661133
+      ]
+    },
+    "Libraries_Transformers_HangarBOT_InteriorTUNNELV2_IteriorTunnelGrillV201": {
+      "min": [
+        35.77289962768555,
+        14.186698913574219,
+        -133.1143684387207
+      ],
+      "max": [
+        70.0075912475586,
+        14.298381805419922,
+        -36.450469970703125
+      ]
+    }
+  },
+  "originalBottomMaterial": "Libraries_[GenericTextures]_Black_Diff",
+  "originalBottomColor": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 1
+  },
+  "lowerWallAndSupportInstancesAlreadyPresent": 84,
+  "sourceAudit": "All 1035 MeshRenderers audited; only remaining omitted active renderers are CubemapController and DESIGN/HUD MinimapBackground.",
+  "tunnelGrille": "Original source mesh, originally inactive; explicitly enabled for offline reconstruction.",
+  "removed": "18 guessed road-level asphalt patches are no longer instantiated.",
+  "compilation": "Passed against installed Unity assemblies, compiler exit 0.",
+  "packSHA256": "9ccd69c7a5a7896a12dd879e817216467f27d7a5b91e7c64381cbb78ed3859a5"
+}

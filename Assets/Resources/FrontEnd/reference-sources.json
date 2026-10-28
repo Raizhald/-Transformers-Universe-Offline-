@@ -1,0 +1,8 @@
+{
+  "version": "v7",
+  "launcher": "Recovered PatcherAtlas from archived client sharedassets2.assets, alternative original illustration",
+  "loading": "Recovered Decepticon environment + separate Firebreaker sprite",
+  "login": "Recovered Login_BG_New, Login_Autobot_New, Login_Decepticon_New, Login_TextBox and close/button sprites",
+  "userScreenshotTexturesRendered": false,
+  "note": "Previews are layout compositions, not Unity runtime captures"
+}

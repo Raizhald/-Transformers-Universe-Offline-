@@ -1,0 +1,30 @@
+{
+  "sources": [
+    {
+      "path": "generated_bundles/2513940374/5e9f8eba416121a4c898ebd8897487b5.unity3d",
+      "sha256": "5b8c42ebccf36aa7053292c242e2eb3bf0121a6ebb0894f76ec68ebc1861d5d3"
+    },
+    {
+      "path": "generated_bundles/1928991782/fd109c0d956b4580e1653d9a7a3a6e3a.unity3d",
+      "sha256": "672968d4f5e0ab410d6fcc10d7405ee110e18f35543f2b038ae8a865124d19bc"
+    },
+    {
+      "path": "generated_bundles/1892252579/38cbf916c65e13041ac5a4699e629ffc.unity3d",
+      "sha256": "6774c21d9230f60b024a4ba9bd47fa1f322ee752d3308e6705b76edab16ec337"
+    },
+    {
+      "path": "generated_bundles/2183527537/73528cf4dcb0cc54caef030045a4f75d.unity3d",
+      "sha256": "216654ba271c957b512a228a44c5896df57cfa25d5bda7e9da93dfc20104a66b"
+    },
+    {
+      "path": "generated_bundles/777666579/c658eb216b6087cd57d00eb7e5628179.unity3d",
+      "sha256": "da1b482609001107a84e88b27fd84e3cdf6e7801dbb70609fb4bf3cfea2f3de5"
+    }
+  ],
+  "strictlyIncreasingAnimationTimes": true,
+  "finiteAnimationSamples": true,
+  "validMeshIndices": true,
+  "normalizedSkinWeights": true,
+  "meshes": 8,
+  "animations": 9
+}

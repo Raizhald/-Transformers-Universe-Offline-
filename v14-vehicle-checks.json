@@ -1,0 +1,51 @@
+{
+  "version": "Unity v14",
+  "originalA004VehicleMeshes": 5,
+  "originalA004VehicleVertices": 9890,
+  "vehiclePoseBounds": {
+    "min": [
+      -1.0973594216616056,
+      0.007706138083999939,
+      -2.3476835097815094
+    ],
+    "max": [
+      1.0973594216616056,
+      1.8513292670249937,
+      1.908996012647004
+    ]
+  },
+  "originalTransformationRigNodes": 276,
+  "transformationDurations": {
+    "r2v": {
+      "duration": 1.6600000262260437,
+      "switchTime": 0.3199999928474426
+    },
+    "v2r": {
+      "duration": 1.6917293135364653,
+      "switchTime": 0.5263158083433772
+    }
+  },
+  "originalRigSwitchTimesExplicitlySampled": true,
+  "transformationPanelMaskSources": {
+    "RobotPanel": "serialized-tags",
+    "VehicleTransformPanel": "reconstructed-from-varying-clip-tracks"
+  },
+  "physicsWheels": 4,
+  "wheelCentersMatchOriginalVehiclePose": true,
+  "drivingModel": "Newly authored Unity 6 Rigidbody/WheelCollider simulation; archived VehicleData defaults/code inspected but A004-specific tuning not recovered",
+  "parkedVehicleSolidBoxes": 599,
+  "parkedBoxSourceVertexMaxOutsideMetres": 3.3173463975799677e-13,
+  "parkedBoxRuntimeMarginMetres": 0.03,
+  "additionalCitySpatialLoops": 11,
+  "skyCorrection": "Flip each raw DirectX cube-face row when filling the bottom-to-top Cubemap.SetPixels array; preserve original image bytes and sky shader",
+  "nativeSkyCorrectionVerified": false,
+  "nativeTransformationVerified": false,
+  "nativeDrivingVerified": false,
+  "nativeVehicleBlockingVerified": false,
+  "csharpCompilation": "passed, no warnings",
+  "startupChecks": 24,
+  "engineAudio": "A004 engine loop not recovered; transformation clips and original city ambience are used",
+  "controls": "F transform outside; WASD drive; S brakes/reverses; Space handbrake; Shift boost; R recover; E return",
+  "steeringEnvelopeNumericChecks": 153,
+  "transformationAudioOggPagesCrcPassed": 16
+}
